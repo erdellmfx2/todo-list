@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "description": "Task list with active tasks first and completed tasks below",
+  "updated_at": "2026-03-19T01:40:00-04:00",
+  "tasks": {
+    "active": [
+      {
+        "title": "Test Repository Setup",
+        "status": "Active",
+        "date_due": "2026-03-17",
+        "priority": "High",
+        "task_metadata": "From todo-manager/task-001. Original status: in_progress. Description: Test the new todo-manager repository structure and ensure both Erdell and lite_bot can access it properly. Notes include proactive analyses, web search-backed action plans, and overdue reminders sent via Telegram on 2026-03-18.",
+        "source": {
+          "repository": "erdellmfx2/todo-manager",
+          "path": "tasks/active/task-001.json",
+          "original_id": "task-001"
+        }
+      }
+    ],
+    "completed": []
+  }
+}
