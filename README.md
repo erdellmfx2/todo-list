@@ -30,6 +30,7 @@ Located in `scripts/`:
 - `update_task.py` — edit title/status/due/priority and append metadata notes
 - `complete_task.py` — mark a task complete and move it to completed list
 - `append_metadata.py` — append notes to `task_metadata`
+- `reorder_tasks.py` — enforce ordering: active first, completed second (with stable sort)
 - `sync_repo.sh` — commit/push `tasks.json` updates
 
 ### Examples
@@ -45,6 +46,9 @@ python3 scripts/update_task.py --title "Prepare grant outline" --priority Critic
 
 # Complete task
 python3 scripts/complete_task.py --title "Prepare grant outline" --note "Submitted final draft"
+
+# Reorder tasks.json (active first, completed second)
+python3 scripts/reorder_tasks.py
 
 # Sync changes to GitHub
 ./scripts/sync_repo.sh
