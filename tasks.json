@@ -1,50 +1,143 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-03-19T01:54:57.069281",
+  "updated_at": "2026-03-19T22:44:51.696742",
   "tasks": {
     "active": [
-      {
-        "title": "check with Carlos",
-        "status": "Active",
-        "date_due": "2026-03-19T15:00",
-        "priority": "Critical",
-        "task_metadata": "Added from Erdell list"
-      },
       {
         "title": "Do taxes!",
         "status": "Active",
         "date_due": "2026-03-21",
         "priority": "Critical",
-        "task_metadata": "Added from Erdell list"
-      },
-      {
-        "title": "Feed the grass",
-        "status": "Active",
-        "date_due": "2026-03-19T17:00",
-        "priority": "High",
-        "task_metadata": "Added from Erdell list (today at 5 PM)"
+        "task_metadata": "Added from Erdell list\n[2026-03-19 12:10:50] \ud83d\udd0d Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-19 12:11:23] \ud83d\udd0d Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-19 12:11:46] \ud83d\udd0d Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-19 14:00:04] \ud83d\udd0d Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing...."
       },
       {
         "title": "Find place to send my paper",
-        "status": "Active",
-        "date_due": "none",
+        "status": "Completed",
+        "date_due": "2026-03-19T19:00",
         "priority": "High",
-        "task_metadata": "Added from Erdell list"
+        "task_metadata": "Added from Erdell list\n[2026-03-19 12:10:50] \ud83d\udd0d Web search: 'mathematics education journals submission 2026 special issues' - Top journals: JRME, Educational Studies in Math. 2026 special issues on AI in education....\n[2026-03-19 12:11:23] \ud83d\udd0d Web search: 'mathematics education journals submission 2026 special issues' - Top journals: JRME, Educational Studies in Math. 2026 special issues on AI in education....\n[2026-03-19 12:11:46] \ud83d\udd0d Web search: 'mathematics education journals submission 2026 special issues' - Top journals: JRME, Educational Studies in Math. 2026 special issues on AI in education....\n[2026-03-19 14:00:04] \ud83d\udd0d Web search: 'mathematics education journals submission 2026 special issues' - Top journals: JRME, Educational Studies in Math. 2026 special issues on AI in education....\n[2026-03-19 16:22:29] \ud83d\udcc5 Due date updated: Today at 7:00 PM (was: none)\n[2026-03-19 20:41] \u2705 PAPER SUBMITTED! Sent to Taylor & Francis Group (prestigious academic publisher)",
+        "date_completed": "2026-03-19T20:41:36"
       },
       {
         "title": "Power wash the house",
         "status": "Active",
         "date_due": "2026-03-22",
         "priority": "Medium",
-        "task_metadata": "Added from Erdell list"
+        "task_metadata": "Added from Erdell list\n[2026-03-19 16:53:54] \ud83d\udd04 Recurrence added: every 3 months (5 total occurrences)\n[2026-03-20 11:36] \ud83d\udd04 Recurrence updated: every 6 months",
+        "recurrence": {
+          "enabled": true,
+          "type": "monthly",
+          "interval": 6,
+          "first_due": "2026-03-22",
+          "next_due": "2026-09-22T00:00",
+          "remaining_occurrences": 4,
+          "total_occurrences": 5,
+          "completed_occurrences": 0,
+          "skip_weekends": false,
+          "day_of_month": 22
+        }
       },
       {
         "title": "Email struggling students",
         "status": "Active",
-        "date_due": "none",
+        "date_due": "2026-03-26",
+        "priority": "High",
+        "task_metadata": "Added from Erdell list\n[2026-03-19 16:23:57] \u26a1 Priority escalated: HIGH (was: MEDIUM)\n[2026-03-19 16:53:54] \ud83d\udd04 Recurrence added: weekly (every Monday)\n[2026-03-20 11:37] \ud83d\udd27 Updated: recurrence removed; converted to regular task due 2026-03-26."
+      },
+      {
+        "title": "Create then sell prompt Bible for clawbot",
+        "status": "Active",
+        "date_due": "2026-03-20T20:00",
+        "priority": "Critical",
+        "task_metadata": "[2026-03-19 18:33:50] Added: Create then sell prompt Bible for clawbot - CRITICAL priority\nPROJECT BREAKDOWN:\n1. **NotebookLM Setup**: Create a notebookLM to store data and information\n2. **Research Queries**: Develop search queries for deep research on Google/Gemini\n3. **Marketing Strategy**: Come up with comprehensive marketing approach\n4. **Creation Process**: Figure out step-by-step process for creating and selling\n5. **Partnerships**: Identify potential partners for collaboration\n6. **Technical Tools**: Determine required technical tools and resources\n7. **Risk Assessment**: Identify what else might not be considered\n\nPROJECT SCOPE:\n\u2022 Product: \"Prompt Bible for Clawbot\" - Comprehensive guide/collection\n\u2022 Goal: Create and sell AI prompt expertise\n\u2022 Deadline: Tomorrow at 8:00 PM\n\u2022 Priority: CRITICAL\n\nNEXT STEPS:\n1. Research existing prompt marketplaces\n2. Define target audience (Clawbot users)\n3. Outline content structure\n4. Identify monetization strategies\n5. Create project timeline\n\n[2026-03-19 18:41:19] \ud83c\udfaf SUBTASK ADDED: Create private GitHub repository for project\n   Repository name: prompt-bible-clawbot (private)\n   Purpose: Central repository for all research, content, and project files\n   Structure:\n     - /research/ (Tavily API findings, market analysis)\n     - /content/ (Prompt collections, tutorials, templates)\n     - /marketing/ (Strategy, materials, outreach)\n     - /tools/ (Technical setup, automation scripts)\n     - /planning/ (Timeline, milestones, deliverables)\n\n[2026-03-19 18:45:42] \ud83d\ude80 PROJECT PROGRESS UPDATE:\n   \u2022 Project structure created: prompt-bible-clawbot/ directory\n   \u2022 Comprehensive research initiated: 16 Tavily API queries running\n   \u2022 GitHub repository ready for creation: prompt-bible-clawbot (private)\n   \u2022 Next steps: Analyze findings, create content outline\n   \n   RESEARCH QUERIES EXECUTING:\n   1. Market Analysis (4 queries)\n   2. Competitor Analysis (4 queries)\n   3. Technical & Marketing (8 queries)\n   \n   EXPECTED COMPLETION: Within 30 minutes\n   TIME REMAINING: 25 hours until deadline\n\n[2026-03-19 18:47:06] \ud83c\udfaf COMPREHENSIVE RESEARCH COMPLETED:\n   \u2022 Tavily API queries executed: 20\n   \u2022 Sources analyzed: 116\n   \u2022 Research file: prompt_bible_research.json (3.5MB)\n   \n   KEY FINDINGS:\n   1. Market Size: AI prompt market growing at 25.9% CAGR to 0.99B by 2033\n   2. OpenClaw Users: 2M+ active users with high satisfaction\n   3. Prompt Engineering Market: 73.6M in 2026 \u2192 .7B by 2034 (33.27% CAGR)\n   4. Top Competitors: God of Prompt, allPrompts, Wharton AI Prompts\n   5. Successful Platforms: Gumroad, Etsy, PromptBase\n   6. Pricing Models: Subscription, usage-based, license fees\n   7. Technical Tools: NotebookLM, GitHub, automated testing frameworks\n   \n   IMMEDIATE OPPORTUNITIES:\n   \u2022 Niche focus: Clawbot-specific prompts (2M+ user base)\n   \u2022 Pricing: 9-99 one-time or -29/month subscription\n   \u2022 Platform: Start with Gumroad, expand to dedicated site\n   \u2022 Content: 50+ prompts across basic/advanced categories\n   \u2022 Marketing: Community-driven, content marketing, affiliates\n   \n   PROJECT STRUCTURE READY:\n   \u2022 Directory: prompt-bible-clawbot/\n   \u2022 GitHub repo ready for creation: prompt-bible-clawbot (private)\n   \u2022 Next: Create repo, analyze findings, develop content outline"
+      },
+      {
+        "title": "play basketball with Bryan",
+        "status": "Active",
+        "date_due": "2026-03-22T15:00",
+        "priority": "High",
+        "task_metadata": "Added from user request\\n[2026-03-20 00:59] \ud83c\udfc0 Added: play basketball with Bryan today at 3:00 PM, HIGH priority\n[2026-03-20 20:39] \ud83d\udcc5 Rescheduled to Sunday at 3:00 PM."
+      },
+      {
+        "title": "cancel Fitbit premium",
+        "status": "Active",
+        "date_due": "2026-05-01T10:00",
+        "priority": "High",
+        "task_metadata": "Added from user request\n[2026-03-20 11:38] \u23f0 Added: cancel Fitbit premium due 2026-05-01 at 10:00 AM, HIGH priority."
+      },
+      {
+        "title": "change the air filter",
+        "status": "Active",
+        "date_due": "2026-04-01T17:00",
         "priority": "Medium",
-        "task_metadata": "Added from Erdell list"
+        "task_metadata": "Added from user request\n[2026-03-20 11:40] \ud83d\udd04 Added recurring task: every 4 months; first due 2026-04-01 at 5:00 PM; MEDIUM priority.\n[2026-03-20 11:42] \ud83d\udd01 Updated recurrence total to 10 occurrences.",
+        "recurrence": {
+          "enabled": true,
+          "type": "monthly",
+          "interval": 4,
+          "first_due": "2026-04-01T17:00",
+          "next_due": "2026-08-01T17:00",
+          "remaining_occurrences": 10,
+          "total_occurrences": 10,
+          "completed_occurrences": 0,
+          "skip_weekends": false,
+          "day_of_month": 1
+        }
+      },
+      {
+        "title": "change the water filter",
+        "status": "Active",
+        "date_due": "2026-07-01",
+        "priority": "High",
+        "task_metadata": "Added from user request\n[2026-03-20 11:41] \ud83d\udd04 Added recurring task: every 6 months, first due 2026-07-01, total 8 occurrences, HIGH priority.",
+        "recurrence": {
+          "enabled": true,
+          "type": "monthly",
+          "interval": 6,
+          "first_due": "2026-07-01",
+          "next_due": "2027-01-01T00:00",
+          "remaining_occurrences": 7,
+          "total_occurrences": 8,
+          "completed_occurrences": 0,
+          "skip_weekends": false,
+          "day_of_month": 1
+        }
+      },
+      {
+        "title": "start prepping for the actuarial classes",
+        "status": "Active",
+        "date_due": "2026-07-01",
+        "priority": "Critical",
+        "task_metadata": "Added from user request\n[2026-03-20 11:49] \ud83c\udfaf Added: start prepping for the actuarial classes due 2026-07-01, CRITICAL priority.\nNotes: first get materials. Then start practicing questions. Ensure alignment with already-created syllabus.\nLong-form task: execute in phased parts over time."
+      },
+      {
+        "title": "Start pulling together research lesson prompt paper",
+        "status": "Active",
+        "date_due": "2026-03-22T19:00",
+        "priority": "Critical",
+        "task_metadata": "Added from user request\\n[2026-03-20 11:51] \ud83d\udcdd Added: Start pulling together research lesson prompt paper due Sunday 7:00 PM, CRITICAL priority."
+      },
+      {
+        "title": "print out weekly schedule for Bryan Brilliance and Braya",
+        "status": "Active",
+        "date_due": "2026-03-22T19:00",
+        "priority": "High",
+        "task_metadata": "Added from user request\n[2026-03-20 11:59] \ud83d\uddd3\ufe0f Added: print out weekly schedule for Bryan Brilliance and Braya due Sunday 7:00 PM, HIGH priority."
+      },
+      {
+        "title": "hang the certificates",
+        "status": "Active",
+        "date_due": "2026-03-20T16:30",
+        "priority": "High",
+        "task_metadata": "Added from user request\n[2026-03-20 13:12] \ud83d\uddbc\ufe0f Added: hang the certificates due today at 4:30 PM, HIGH priority.\nTime selected using today's schedule snapshot (midday classes through ~2:15 PM), leaving buffer for transition/tasks."
+      },
+      {
+        "title": "use antigravity to build a card battle game",
+        "status": "Active",
+        "date_due": "2026-06-15",
+        "priority": "Low",
+        "task_metadata": "Added from user request\n[2026-03-21 15:48] \ud83c\udfae Added: use antigravity to build a card battle game due 2026-06-15, LOW priority."
       }
     ],
     "completed": [
@@ -59,6 +152,78 @@
           "path": "tasks/active/task-001.json",
           "original_id": "task-001"
         }
+      },
+      {
+        "title": "Feed the grass",
+        "status": "Complete",
+        "date_due": "2026-03-19T17:00",
+        "priority": "High",
+        "task_metadata": "Added from Erdell list (today at 5 PM)\n[2026-03-19 12:10:50] \ud83d\udd0d Web search: 'spring lawn fertilization timing soil temperature 2026' - Optimal when soil reaches 50-55\u00b0F. Apply before rain. Use slow-release nitrogen fertilizer....\n[2026-03-19 12:11:23] \ud83d\udd0d Web search: 'spring lawn fertilization timing soil temperature 2026' - Optimal when soil reaches 50-55\u00b0F. Apply before rain. Use slow-release nitrogen fertilizer....\n[2026-03-19 12:11:46] \ud83d\udd0d Web search: 'spring lawn fertilization timing soil temperature 2026' - Optimal when soil reaches 50-55\u00b0F. Apply before rain. Use slow-release nitrogen fertilizer....\n[2026-03-19 14:00:04] \ud83d\udd0d Web search: 'spring lawn fertilization timing soil temperature 2026' - Optimal when soil reaches 50-55\u00b0F. Apply before rain. Use slow-release nitrogen fertilizer....\n[2026-03-19 14:05:41] \u2705 Fertilizer and dispenser already acquired and ready for use.\n[2026-03-19 16:17:00] \u2705 TASK COMPLETED - Fertilizer applied successfully.",
+        "completed_at": "2026-03-19T16:17:50"
+      },
+      {
+        "title": "check with Carlos",
+        "status": "Complete",
+        "date_due": "2026-03-19T15:00",
+        "priority": "Critical",
+        "task_metadata": "Added from Erdell list\n[2026-03-19 12:10:50] \ud83d\udd0d Web search: 'effective meeting preparation with executives 2026' - BLUF approach recommended: Bottom Line Up Front. Prepare agenda, research background, define clear o...\n[2026-03-19 12:11:23] \ud83d\udd0d Web search: 'effective meeting preparation with executives 2026' - BLUF approach recommended: Bottom Line Up Front. Prepare agenda, research background, define clear o...\n[2026-03-19 12:11:46] \ud83d\udd0d Web search: 'effective meeting preparation with executives 2026' - BLUF approach recommended: Bottom Line Up Front. Prepare agenda, research background, define clear o...\n[2026-03-19 14:00:04] \ud83d\udd0d Web search: 'effective meeting preparation with executives 2026' - BLUF approach recommended: Bottom Line Up Front. Prepare agenda, research background, define clear o...\n[2026-03-19 16:18:00] \u2705 TASK COMPLETED - Meeting/check-in completed successfully.",
+        "completed_at": "2026-03-19T16:19:49"
+      },
+      {
+        "title": "ASAF proposal",
+        "status": "Completed",
+        "date_due": "2026-03-19T20:00",
+        "priority": "High",
+        "task_metadata": "[2026-03-19 16:26:09] Added: ASAF proposal due today at 8:00 PM, HIGH priority\n[2026-03-19 22:43] \u2705 ASAF PROPOSAL COMPLETED! Submitted 2 hours 43 minutes past 8:00 PM deadline\n[2026-03-19 22:44] \u2705 ASAF PROPOSAL COMPLETED! Submitted at 10:44 PM",
+        "date_completed": "2026-03-19T22:44:51"
+      },
+      {
+        "title": "run q_bot for lesson plans",
+        "status": "Completed",
+        "date_due": "2026-03-19T21:00",
+        "priority": "Medium",
+        "task_metadata": "[2026-03-19 16:26:09] Added: run q_bot for lesson plans due today at 9:00 PM, MEDIUM priority\n[2026-03-20 00:45] \u2705 TASK COMPLETED - q_bot lesson plan workflow executed and validated.",
+        "date_completed": "2026-03-20T00:45:33"
+      },
+      {
+        "title": "Clean Bryan's room",
+        "status": "Completed",
+        "date_due": "2026-03-20T10:00",
+        "priority": "MEDIUM",
+        "task_metadata": "Added from voice reminder\n[2026-03-19 22:01] \ud83c\udfa4 Voice reminder: \"Remind me to clean Bryan's room tomorrow at 10:00 AM\"\n[2026-03-20 17:19] \u2705 TASK COMPLETED per user instruction.",
+        "date_completed": "2026-03-20T17:19:16"
+      },
+      {
+        "title": "do noony's taxes",
+        "status": "Completed",
+        "date_due": "2026-03-20T19:30",
+        "priority": "High",
+        "task_metadata": "Added from user request\n[2026-03-20 13:47] \ud83d\udcb0 Added: do noony's taxes due today at 7:30 PM, HIGH priority.\n[2026-03-20 20:37] \u2705 TASK COMPLETED per user message: do noony\u2019s taxes done.",
+        "date_completed": "2026-03-20T20:37:29"
+      },
+      {
+        "title": "activate the chargepoint card",
+        "status": "Completed",
+        "date_due": "2026-03-20T20:30",
+        "priority": "Low",
+        "task_metadata": "Added from user request\n[2026-03-20 17:24] \ud83d\udd14 Reminder task: activate the chargepoint card this afternoon at 8:30 PM, LOW priority.\n[2026-03-20 20:38] \u2705 TASK COMPLETED per user message: activate the chargepoint card done.",
+        "date_completed": "2026-03-20T20:38:17"
+      },
+      {
+        "title": "unstop the bathroom sink",
+        "status": "Completed",
+        "date_due": "2026-03-21T12:00",
+        "priority": "Medium",
+        "task_metadata": "Added from user request\n[2026-03-21 11:45] \ud83e\uddf4 Added: unstock the bathroom sink due today at 12:00 PM, MEDIUM priority.\n[2026-03-21 11:45] \u270f\ufe0f Renamed task title to 'unstop the bathroom sink'.\n[2026-03-21 12:20] \u2705 TASK COMPLETED per user instruction.",
+        "date_completed": "2026-03-21T12:20:13"
+      },
+      {
+        "title": "Reach out to Mrs. Walker to schedule next tutoring session",
+        "status": "Completed",
+        "date_due": "2026-03-22T15:00",
+        "priority": "Medium",
+        "task_metadata": "Added from user request\n[2026-03-20 11:50] \ud83d\udcde Added: Reach out to Mrs. Walker to schedule next tutoring session due Sunday 3:00 PM, MEDIUM priority.\n[2026-03-21 13:22] \u2705 TASK COMPLETED per user instruction.",
+        "date_completed": "2026-03-21T13:22:33"
       }
     ]
   }
