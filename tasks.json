@@ -22,15 +22,15 @@
       {
         "title": "Power wash the house",
         "status": "Active",
-        "date_due": "2026-03-22",
+        "date_due": "2026-04-04",
         "priority": "Medium",
-        "task_metadata": "Added from Erdell list\n[2026-03-19 16:53:54] \ud83d\udd04 Recurrence added: every 3 months (5 total occurrences)\n[2026-03-20 11:36] \ud83d\udd04 Recurrence updated: every 6 months",
+        "task_metadata": "Added from Erdell list\n[2026-03-19 16:53:54] \ud83d\udd04 Recurrence added: every 3 months (5 total occurrences)\n[2026-03-20 11:36] \ud83d\udd04 Recurrence updated: every 6 months\n[2026-03-22 00:29] \ud83d\udcc5 Rescheduled to next week Saturday (2026-04-04).",
         "recurrence": {
           "enabled": true,
           "type": "monthly",
           "interval": 6,
           "first_due": "2026-03-22",
-          "next_due": "2026-09-22T00:00",
+          "next_due": "2026-10-04T00:00",
           "remaining_occurrences": 4,
           "total_occurrences": 5,
           "completed_occurrences": 0,
@@ -44,13 +44,6 @@
         "date_due": "2026-03-26",
         "priority": "High",
         "task_metadata": "Added from Erdell list\n[2026-03-19 16:23:57] \u26a1 Priority escalated: HIGH (was: MEDIUM)\n[2026-03-19 16:53:54] \ud83d\udd04 Recurrence added: weekly (every Monday)\n[2026-03-20 11:37] \ud83d\udd27 Updated: recurrence removed; converted to regular task due 2026-03-26."
-      },
-      {
-        "title": "Create then sell prompt Bible for clawbot",
-        "status": "Active",
-        "date_due": "2026-03-20T20:00",
-        "priority": "Critical",
-        "task_metadata": "[2026-03-19 18:33:50] Added: Create then sell prompt Bible for clawbot - CRITICAL priority\nPROJECT BREAKDOWN:\n1. **NotebookLM Setup**: Create a notebookLM to store data and information\n2. **Research Queries**: Develop search queries for deep research on Google/Gemini\n3. **Marketing Strategy**: Come up with comprehensive marketing approach\n4. **Creation Process**: Figure out step-by-step process for creating and selling\n5. **Partnerships**: Identify potential partners for collaboration\n6. **Technical Tools**: Determine required technical tools and resources\n7. **Risk Assessment**: Identify what else might not be considered\n\nPROJECT SCOPE:\n\u2022 Product: \"Prompt Bible for Clawbot\" - Comprehensive guide/collection\n\u2022 Goal: Create and sell AI prompt expertise\n\u2022 Deadline: Tomorrow at 8:00 PM\n\u2022 Priority: CRITICAL\n\nNEXT STEPS:\n1. Research existing prompt marketplaces\n2. Define target audience (Clawbot users)\n3. Outline content structure\n4. Identify monetization strategies\n5. Create project timeline\n\n[2026-03-19 18:41:19] \ud83c\udfaf SUBTASK ADDED: Create private GitHub repository for project\n   Repository name: prompt-bible-clawbot (private)\n   Purpose: Central repository for all research, content, and project files\n   Structure:\n     - /research/ (Tavily API findings, market analysis)\n     - /content/ (Prompt collections, tutorials, templates)\n     - /marketing/ (Strategy, materials, outreach)\n     - /tools/ (Technical setup, automation scripts)\n     - /planning/ (Timeline, milestones, deliverables)\n\n[2026-03-19 18:45:42] \ud83d\ude80 PROJECT PROGRESS UPDATE:\n   \u2022 Project structure created: prompt-bible-clawbot/ directory\n   \u2022 Comprehensive research initiated: 16 Tavily API queries running\n   \u2022 GitHub repository ready for creation: prompt-bible-clawbot (private)\n   \u2022 Next steps: Analyze findings, create content outline\n   \n   RESEARCH QUERIES EXECUTING:\n   1. Market Analysis (4 queries)\n   2. Competitor Analysis (4 queries)\n   3. Technical & Marketing (8 queries)\n   \n   EXPECTED COMPLETION: Within 30 minutes\n   TIME REMAINING: 25 hours until deadline\n\n[2026-03-19 18:47:06] \ud83c\udfaf COMPREHENSIVE RESEARCH COMPLETED:\n   \u2022 Tavily API queries executed: 20\n   \u2022 Sources analyzed: 116\n   \u2022 Research file: prompt_bible_research.json (3.5MB)\n   \n   KEY FINDINGS:\n   1. Market Size: AI prompt market growing at 25.9% CAGR to 0.99B by 2033\n   2. OpenClaw Users: 2M+ active users with high satisfaction\n   3. Prompt Engineering Market: 73.6M in 2026 \u2192 .7B by 2034 (33.27% CAGR)\n   4. Top Competitors: God of Prompt, allPrompts, Wharton AI Prompts\n   5. Successful Platforms: Gumroad, Etsy, PromptBase\n   6. Pricing Models: Subscription, usage-based, license fees\n   7. Technical Tools: NotebookLM, GitHub, automated testing frameworks\n   \n   IMMEDIATE OPPORTUNITIES:\n   \u2022 Niche focus: Clawbot-specific prompts (2M+ user base)\n   \u2022 Pricing: 9-99 one-time or -29/month subscription\n   \u2022 Platform: Start with Gumroad, expand to dedicated site\n   \u2022 Content: 50+ prompts across basic/advanced categories\n   \u2022 Marketing: Community-driven, content marketing, affiliates\n   \n   PROJECT STRUCTURE READY:\n   \u2022 Directory: prompt-bible-clawbot/\n   \u2022 GitHub repo ready for creation: prompt-bible-clawbot (private)\n   \u2022 Next: Create repo, analyze findings, develop content outline"
       },
       {
         "title": "play basketball with Bryan",
@@ -138,6 +131,34 @@
         "date_due": "2026-06-15",
         "priority": "Low",
         "task_metadata": "Added from user request\n[2026-03-21 15:48] \ud83c\udfae Added: use antigravity to build a card battle game due 2026-06-15, LOW priority."
+      },
+      {
+        "title": "go to tutoring session",
+        "status": "Active",
+        "date_due": "2026-03-23T13:45",
+        "priority": "High",
+        "task_metadata": "Added from user request\n[2026-03-22 00:19] \ud83d\udcda Added: go to tutoring session tomorrow at 1:45 PM, HIGH priority."
+      },
+      {
+        "title": "watch the new Godzilla TV show",
+        "status": "Active",
+        "date_due": "2026-04-03T19:30",
+        "priority": "Low",
+        "task_metadata": "Added from user request\n[2026-03-22 00:28] \ud83d\udcfa Added reminder: watch the new Godzilla TV show next week Friday at 7:30 PM, LOW priority. Notes: It is on Apple TV."
+      },
+      {
+        "title": "Interpret and understand the information gathered for the Prompt Bible",
+        "status": "Active",
+        "date_due": "2026-03-25T20:30",
+        "priority": "Critical",
+        "task_metadata": "Added from user request\n[2026-03-22 00:33] \ud83e\udde0 Added: Interpret and understand the information gathered for the Prompt Bible due Wednesday at 8:30 PM, CRITICAL priority."
+      },
+      {
+        "title": "check if Google's antigravity can use OpenAI Codex through OAuth",
+        "status": "Active",
+        "date_due": "2026-03-22T17:00",
+        "priority": "Medium",
+        "task_metadata": "Added from user request\n[2026-03-22 01:47] \ud83d\udd0d Added: check if Google's antigravity can use OpenAI Codex through OAuth due today at 5:00 PM, MEDIUM priority."
       }
     ],
     "completed": [
@@ -224,6 +245,14 @@
         "priority": "Medium",
         "task_metadata": "Added from user request\n[2026-03-20 11:50] \ud83d\udcde Added: Reach out to Mrs. Walker to schedule next tutoring session due Sunday 3:00 PM, MEDIUM priority.\n[2026-03-21 13:22] \u2705 TASK COMPLETED per user instruction.",
         "date_completed": "2026-03-21T13:22:33"
+      },
+      {
+        "title": "Create then sell prompt Bible for clawbot",
+        "status": "Completed",
+        "date_due": "2026-03-20T20:00",
+        "priority": "Critical",
+        "task_metadata": "[2026-03-19 18:33:50] Added: Create then sell prompt Bible for clawbot - CRITICAL priority\nPROJECT BREAKDOWN:\n1. **NotebookLM Setup**: Create a notebookLM to store data and information\n2. **Research Queries**: Develop search queries for deep research on Google/Gemini\n3. **Marketing Strategy**: Come up with comprehensive marketing approach\n4. **Creation Process**: Figure out step-by-step process for creating and selling\n5. **Partnerships**: Identify potential partners for collaboration\n6. **Technical Tools**: Determine required technical tools and resources\n7. **Risk Assessment**: Identify what else might not be considered\n\nPROJECT SCOPE:\n\u2022 Product: \"Prompt Bible for Clawbot\" - Comprehensive guide/collection\n\u2022 Goal: Create and sell AI prompt expertise\n\u2022 Deadline: Tomorrow at 8:00 PM\n\u2022 Priority: CRITICAL\n\nNEXT STEPS:\n1. Research existing prompt marketplaces\n2. Define target audience (Clawbot users)\n3. Outline content structure\n4. Identify monetization strategies\n5. Create project timeline\n\n[2026-03-19 18:41:19] \ud83c\udfaf SUBTASK ADDED: Create private GitHub repository for project\n   Repository name: prompt-bible-clawbot (private)\n   Purpose: Central repository for all research, content, and project files\n   Structure:\n     - /research/ (Tavily API findings, market analysis)\n     - /content/ (Prompt collections, tutorials, templates)\n     - /marketing/ (Strategy, materials, outreach)\n     - /tools/ (Technical setup, automation scripts)\n     - /planning/ (Timeline, milestones, deliverables)\n\n[2026-03-19 18:45:42] \ud83d\ude80 PROJECT PROGRESS UPDATE:\n   \u2022 Project structure created: prompt-bible-clawbot/ directory\n   \u2022 Comprehensive research initiated: 16 Tavily API queries running\n   \u2022 GitHub repository ready for creation: prompt-bible-clawbot (private)\n   \u2022 Next steps: Analyze findings, create content outline\n   \n   RESEARCH QUERIES EXECUTING:\n   1. Market Analysis (4 queries)\n   2. Competitor Analysis (4 queries)\n   3. Technical & Marketing (8 queries)\n   \n   EXPECTED COMPLETION: Within 30 minutes\n   TIME REMAINING: 25 hours until deadline\n\n[2026-03-19 18:47:06] \ud83c\udfaf COMPREHENSIVE RESEARCH COMPLETED:\n   \u2022 Tavily API queries executed: 20\n   \u2022 Sources analyzed: 116\n   \u2022 Research file: prompt_bible_research.json (3.5MB)\n   \n   KEY FINDINGS:\n   1. Market Size: AI prompt market growing at 25.9% CAGR to 0.99B by 2033\n   2. OpenClaw Users: 2M+ active users with high satisfaction\n   3. Prompt Engineering Market: 73.6M in 2026 \u2192 .7B by 2034 (33.27% CAGR)\n   4. Top Competitors: God of Prompt, allPrompts, Wharton AI Prompts\n   5. Successful Platforms: Gumroad, Etsy, PromptBase\n   6. Pricing Models: Subscription, usage-based, license fees\n   7. Technical Tools: NotebookLM, GitHub, automated testing frameworks\n   \n   IMMEDIATE OPPORTUNITIES:\n   \u2022 Niche focus: Clawbot-specific prompts (2M+ user base)\n   \u2022 Pricing: 9-99 one-time or -29/month subscription\n   \u2022 Platform: Start with Gumroad, expand to dedicated site\n   \u2022 Content: 50+ prompts across basic/advanced categories\n   \u2022 Marketing: Community-driven, content marketing, affiliates\n   \n   PROJECT STRUCTURE READY:\n   \u2022 Directory: prompt-bible-clawbot/\n   \u2022 GitHub repo ready for creation: prompt-bible-clawbot (private)\n   \u2022 Next: Create repo, analyze findings, develop content outline\n[2026-03-22 00:30] \u2705 Marked done (mock completion): initial information gathered.",
+        "date_completed": "2026-03-22T00:30:33"
       }
     ]
   }
