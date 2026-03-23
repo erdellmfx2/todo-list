@@ -7,9 +7,9 @@
       {
         "title": "Do taxes!",
         "status": "Active",
-        "date_due": "2026-03-21",
+        "date_due": "2026-03-26",
         "priority": "Critical",
-        "task_metadata": "Added from Erdell list\n[2026-03-19 12:10:50] \ud83d\udd0d Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-19 12:11:23] \ud83d\udd0d Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-19 12:11:46] \ud83d\udd0d Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-19 14:00:04] \ud83d\udd0d Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing...."
+        "task_metadata": "Added from Erdell list\n[2026-03-19 12:10:50] \ud83d\udd0d Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-19 12:11:23] \ud83d\udd0d Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-19 12:11:46] \ud83d\udd0d Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-19 14:00:04] \ud83d\udd0d Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-22 20:01] \ud83d\udcc5 Rescheduled to Thursday (2026-03-26)."
       },
       {
         "title": "Find place to send my paper",
@@ -124,6 +124,13 @@
         "date_due": "2026-03-25T20:30",
         "priority": "Critical",
         "task_metadata": "Added from user request\n[2026-03-22 00:33] \ud83e\udde0 Added: Interpret and understand the information gathered for the Prompt Bible due Wednesday at 8:30 PM, CRITICAL priority."
+      },
+      {
+        "title": "work on budget and proposal for the start program",
+        "status": "Active",
+        "date_due": "2026-03-22T22:30",
+        "priority": "Critical",
+        "task_metadata": "Added from user request\n[2026-03-22 20:21] \ud83d\udcca Added: work on budget and proposal for the start program due today at 10:30 PM, CRITICAL priority."
       }
     ],
     "completed": [
