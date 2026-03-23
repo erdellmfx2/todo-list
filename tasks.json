@@ -48,9 +48,9 @@
       {
         "title": "play basketball with Bryan",
         "status": "Active",
-        "date_due": "2026-03-22T15:00",
+        "date_due": "2026-03-23T15:00",
         "priority": "High",
-        "task_metadata": "Added from user request\\n[2026-03-20 00:59] \ud83c\udfc0 Added: play basketball with Bryan today at 3:00 PM, HIGH priority\n[2026-03-20 20:39] \ud83d\udcc5 Rescheduled to Sunday at 3:00 PM."
+        "task_metadata": "Added from user request\\n[2026-03-20 00:59] \ud83c\udfc0 Added: play basketball with Bryan today at 3:00 PM, HIGH priority\n[2026-03-20 20:39] \ud83d\udcc5 Rescheduled to Sunday at 3:00 PM.\n[2026-03-22 18:32] \ud83d\udcc5 Rescheduled to Monday at 3:00 PM."
       },
       {
         "title": "cancel Fitbit premium",
@@ -105,32 +105,11 @@
         "task_metadata": "Added from user request\n[2026-03-20 11:49] \ud83c\udfaf Added: start prepping for the actuarial classes due 2026-07-01, CRITICAL priority.\nNotes: first get materials. Then start practicing questions. Ensure alignment with already-created syllabus.\nLong-form task: execute in phased parts over time."
       },
       {
-        "title": "Start pulling together research lesson prompt paper",
-        "status": "Active",
-        "date_due": "2026-03-22T19:00",
-        "priority": "Critical",
-        "task_metadata": "Added from user request\\n[2026-03-20 11:51] \ud83d\udcdd Added: Start pulling together research lesson prompt paper due Sunday 7:00 PM, CRITICAL priority."
-      },
-      {
-        "title": "hang the certificates",
-        "status": "Active",
-        "date_due": "2026-03-20T16:30",
-        "priority": "High",
-        "task_metadata": "Added from user request\n[2026-03-20 13:12] \ud83d\uddbc\ufe0f Added: hang the certificates due today at 4:30 PM, HIGH priority.\nTime selected using today's schedule snapshot (midday classes through ~2:15 PM), leaving buffer for transition/tasks."
-      },
-      {
         "title": "use antigravity to build a card battle game",
         "status": "Active",
         "date_due": "2026-06-15",
         "priority": "Low",
         "task_metadata": "Added from user request\n[2026-03-21 15:48] \ud83c\udfae Added: use antigravity to build a card battle game due 2026-06-15, LOW priority."
-      },
-      {
-        "title": "go to tutoring session",
-        "status": "Active",
-        "date_due": "2026-03-23T13:45",
-        "priority": "High",
-        "task_metadata": "Added from user request\n[2026-03-22 00:19] \ud83d\udcda Added: go to tutoring session tomorrow at 1:45 PM, HIGH priority."
       },
       {
         "title": "watch the new Godzilla TV show",
@@ -263,6 +242,30 @@
         "priority": "Critical",
         "task_metadata": "Added from user request\n[2026-03-22 16:11] \ud83d\udcb3 Reminder: pay the bills due today at 5:00 PM, CRITICAL priority.\n[2026-03-22 16:42] \u2705 TASK COMPLETED per user instruction.",
         "date_completed": "2026-03-22T16:42:02"
+      },
+      {
+        "title": "hang the certificates",
+        "status": "Completed",
+        "date_due": "2026-03-20T16:30",
+        "priority": "High",
+        "task_metadata": "Added from user request\n[2026-03-20 13:12] \ud83d\uddbc\ufe0f Added: hang the certificates due today at 4:30 PM, HIGH priority.\nTime selected using today's schedule snapshot (midday classes through ~2:15 PM), leaving buffer for transition/tasks.\n[2026-03-22 18:14] \u2705 TASK COMPLETED per user instruction (audio).",
+        "date_completed": "2026-03-22T18:14:42"
+      },
+      {
+        "title": "Start pulling together research lesson prompt paper",
+        "status": "Completed",
+        "date_due": "2026-03-22T19:00",
+        "priority": "Critical",
+        "task_metadata": "Added from user request\\n[2026-03-20 11:51] \ud83d\udcdd Added: Start pulling together research lesson prompt paper due Sunday 7:00 PM, CRITICAL priority.\n[2026-03-22 19:39] \u2705 TASK COMPLETED per user instruction.",
+        "date_completed": "2026-03-22T19:39:00"
+      },
+      {
+        "title": "go to tutoring session",
+        "status": "Completed",
+        "date_due": "2026-03-23T13:45",
+        "priority": "High",
+        "task_metadata": "Added from user request\n[2026-03-22 00:19] \ud83d\udcda Added: go to tutoring session tomorrow at 1:45 PM, HIGH priority.\n[2026-03-22 19:39] \u2705 TASK COMPLETED per user instruction.",
+        "date_completed": "2026-03-22T19:39:37"
       }
     ]
   }
