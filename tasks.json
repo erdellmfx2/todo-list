@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-03-19T22:44:51.696742",
+  "updated_at": "2026-03-23T11:35:39.744461",
   "tasks": {
     "active": [
       {
@@ -126,11 +126,18 @@
         "task_metadata": "Added from user request\n[2026-03-22 00:33] \ud83e\udde0 Added: Interpret and understand the information gathered for the Prompt Bible due Wednesday at 8:30 PM, CRITICAL priority."
       },
       {
-        "title": "work on budget and proposal for the start program",
+        "title": "Update my paper submission after class",
         "status": "Active",
-        "date_due": "2026-03-22T22:30",
+        "date_due": "2026-03-23",
         "priority": "Critical",
-        "task_metadata": "Added from user request\n[2026-03-22 20:21] \ud83d\udcca Added: work on budget and proposal for the start program due today at 10:30 PM, CRITICAL priority."
+        "task_metadata": "Added from user request\n[2026-03-23 11:27] \ud83d\udccc Added reminder: update paper submission today after class, CRITICAL priority."
+      },
+      {
+        "title": "Finish the CITI program",
+        "status": "Active",
+        "date_due": "2026-05-01",
+        "priority": "High",
+        "task_metadata": "Added from user request\n[2026-03-23 11:35] \u23f0 Added reminder: finish the CITI program at the start of May (2026-05-01), HIGH priority."
       }
     ],
     "completed": [
@@ -273,6 +280,22 @@
         "priority": "High",
         "task_metadata": "Added from user request\n[2026-03-22 00:19] \ud83d\udcda Added: go to tutoring session tomorrow at 1:45 PM, HIGH priority.\n[2026-03-22 19:39] \u2705 TASK COMPLETED per user instruction.",
         "date_completed": "2026-03-22T19:39:37"
+      },
+      {
+        "title": "work on budget and proposal for the start program",
+        "status": "Completed",
+        "date_due": "2026-03-22T22:30",
+        "priority": "Critical",
+        "task_metadata": "Added from user request\n[2026-03-22 20:21] \ud83d\udcca Added: work on budget and proposal for the start program due today at 10:30 PM, CRITICAL priority.\n[2026-03-23 11:17] \u2705 Marked done per Erdell instruction.",
+        "date_completed": "2026-03-23T11:17:12.298174"
+      },
+      {
+        "title": "Call and email the chair about preview day",
+        "status": "Completed",
+        "date_due": "2026-03-23T12:00",
+        "priority": "Low",
+        "task_metadata": "Added from user request\n[2026-03-23 11:17] \u260e\ufe0f Added: Call and email the chair about preview day due today at 12:00 PM, LOW priority.\n[2026-03-23 11:27] \u2705 Marked done per Erdell instruction.",
+        "date_completed": "2026-03-23T11:27:20.264837"
       }
     ]
   }
