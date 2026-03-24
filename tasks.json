@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-03-23T11:35:39.744461",
+  "updated_at": "2026-03-23T17:03:19.753210",
   "tasks": {
     "active": [
       {
@@ -124,13 +124,6 @@
         "date_due": "2026-03-25T20:30",
         "priority": "Critical",
         "task_metadata": "Added from user request\n[2026-03-22 00:33] \ud83e\udde0 Added: Interpret and understand the information gathered for the Prompt Bible due Wednesday at 8:30 PM, CRITICAL priority."
-      },
-      {
-        "title": "Update my paper submission after class",
-        "status": "Active",
-        "date_due": "2026-03-23",
-        "priority": "Critical",
-        "task_metadata": "Added from user request\n[2026-03-23 11:27] \ud83d\udccc Added reminder: update paper submission today after class, CRITICAL priority."
       },
       {
         "title": "Finish the CITI program",
@@ -296,6 +289,14 @@
         "priority": "Low",
         "task_metadata": "Added from user request\n[2026-03-23 11:17] \u260e\ufe0f Added: Call and email the chair about preview day due today at 12:00 PM, LOW priority.\n[2026-03-23 11:27] \u2705 Marked done per Erdell instruction.",
         "date_completed": "2026-03-23T11:27:20.264837"
+      },
+      {
+        "title": "Update my paper submission after class",
+        "status": "Completed",
+        "date_due": "2026-03-23",
+        "priority": "Critical",
+        "task_metadata": "Added from user request\n[2026-03-23 11:27] \ud83d\udccc Added reminder: update paper submission today after class, CRITICAL priority.\n[2026-03-23 17:03] \u2705 Marked done per Erdell instruction.",
+        "date_completed": "2026-03-23T17:03:19.753149"
       }
     ]
   }
