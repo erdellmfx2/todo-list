@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-01T10:08:14.047521",
+  "updated_at": "2026-04-01T10:09:28.239672",
   "tasks": {
     "active": [
       {
@@ -10,14 +10,6 @@
         "date_due": "2026-04-03",
         "priority": "Critical",
         "task_metadata": "Added from Erdell list\n[2026-03-19 12:10:50] 🔍 Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-19 12:11:23] 🔍 Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-19 12:11:46] 🔍 Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-19 14:00:04] 🔍 Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-22 20:01] 📅 Rescheduled to Thursday (2026-03-26)."
-      },
-      {
-        "title": "Find place to send my paper",
-        "status": "Completed",
-        "date_due": "2026-03-19T19:00",
-        "priority": "High",
-        "task_metadata": "Added from Erdell list\n[2026-03-19 12:10:50] 🔍 Web search: 'mathematics education journals submission 2026 special issues' - Top journals: JRME, Educational Studies in Math. 2026 special issues on AI in education....\n[2026-03-19 12:11:23] 🔍 Web search: 'mathematics education journals submission 2026 special issues' - Top journals: JRME, Educational Studies in Math. 2026 special issues on AI in education....\n[2026-03-19 12:11:46] 🔍 Web search: 'mathematics education journals submission 2026 special issues' - Top journals: JRME, Educational Studies in Math. 2026 special issues on AI in education....\n[2026-03-19 14:00:04] 🔍 Web search: 'mathematics education journals submission 2026 special issues' - Top journals: JRME, Educational Studies in Math. 2026 special issues on AI in education....\n[2026-03-19 16:22:29] 📅 Due date updated: Today at 7:00 PM (was: none)\n[2026-03-19 20:41] ✅ PAPER SUBMITTED! Sent to Taylor & Francis Group (prestigious academic publisher)",
-        "date_completed": "2026-03-19T20:41:36"
       },
       {
         "title": "Power wash the house",
@@ -298,6 +290,14 @@
         "date_due": "2026-04-08T20:30",
         "priority": "Critical",
         "task_metadata": "Added from user request\n[2026-03-22 00:33] 🧠 Added: Interpret and understand the information gathered for the Prompt Bible due Wednesday at 8:30 PM, CRITICAL priority.\n[2026-04-01 10:08:14] Task completed by user request in chat."
+      },
+      {
+        "title": "Find place to send my paper",
+        "status": "Complete",
+        "date_due": "2026-03-19T19:00",
+        "priority": "High",
+        "task_metadata": "Added from Erdell list\n[2026-03-19 12:10:50] 🔍 Web search: 'mathematics education journals submission 2026 special issues' - Top journals: JRME, Educational Studies in Math. 2026 special issues on AI in education....\n[2026-03-19 12:11:23] 🔍 Web search: 'mathematics education journals submission 2026 special issues' - Top journals: JRME, Educational Studies in Math. 2026 special issues on AI in education....\n[2026-03-19 12:11:46] 🔍 Web search: 'mathematics education journals submission 2026 special issues' - Top journals: JRME, Educational Studies in Math. 2026 special issues on AI in education....\n[2026-03-19 14:00:04] 🔍 Web search: 'mathematics education journals submission 2026 special issues' - Top journals: JRME, Educational Studies in Math. 2026 special issues on AI in education....\n[2026-03-19 16:22:29] 📅 Due date updated: Today at 7:00 PM (was: none)\n[2026-03-19 20:41] ✅ PAPER SUBMITTED! Sent to Taylor & Francis Group (prestigious academic publisher)\n[2026-04-01 10:09:28] Marked as completed by user in chat.",
+        "date_completed": "2026-03-19T20:41:36"
       }
     ]
   }
