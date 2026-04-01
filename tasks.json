@@ -1,13 +1,13 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-03-24T11:01:00",
+  "updated_at": "2026-04-01T10:05:11.177237",
   "tasks": {
     "active": [
       {
         "title": "Do taxes!",
         "status": "Active",
-        "date_due": "2026-03-26",
+        "date_due": "2026-04-03",
         "priority": "Critical",
         "task_metadata": "Added from Erdell list\n[2026-03-19 12:10:50] 🔍 Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-19 12:11:23] 🔍 Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-19 12:11:46] 🔍 Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-19 14:00:04] 🔍 Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-22 20:01] 📅 Rescheduled to Thursday (2026-03-26)."
       },
