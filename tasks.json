@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-01T10:09:28.239672",
+  "updated_at": "2026-04-01T10:32:03.128127",
   "tasks": {
     "active": [
       {
@@ -109,6 +109,13 @@
         "date_due": "2026-05-01",
         "priority": "High",
         "task_metadata": "Added from user request\n[2026-03-23 11:35] ⏰ Added reminder: finish the CITI program at the start of May (2026-05-01), HIGH priority."
+      },
+      {
+        "title": "email DLAC committee to start delivering surveys",
+        "status": "Active",
+        "date_due": "2026-04-06T10:00",
+        "priority": "Critical",
+        "task_metadata": "Added via chat request. Relates to DLAC committee coordination."
       }
     ],
     "completed": [
