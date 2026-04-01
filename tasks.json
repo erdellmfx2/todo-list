@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-01T10:06:59.372894",
+  "updated_at": "2026-04-01T10:08:14.047521",
   "tasks": {
     "active": [
       {
@@ -110,13 +110,6 @@
         "date_due": "2026-04-03T19:30",
         "priority": "Low",
         "task_metadata": "Added from user request\n[2026-03-22 00:28] 📺 Added reminder: watch the new Godzilla TV show next week Friday at 7:30 PM, LOW priority. Notes: It is on Apple TV."
-      },
-      {
-        "title": "Interpret and understand the information gathered for the Prompt Bible",
-        "status": "Active",
-        "date_due": "2026-04-08T20:30",
-        "priority": "Critical",
-        "task_metadata": "Added from user request\n[2026-03-22 00:33] 🧠 Added: Interpret and understand the information gathered for the Prompt Bible due Wednesday at 8:30 PM, CRITICAL priority."
       },
       {
         "title": "Finish the CITI program",
@@ -298,6 +291,13 @@
         "priority": "High",
         "task_metadata": "Added from user request\\n[2026-03-20 00:59] 🏀 Added: play basketball with Bryan today at 3:00 PM, HIGH priority\n[2026-03-20 20:39] 📅 Rescheduled to Sunday at 3:00 PM.\n[2026-03-22 18:32] 📅 Rescheduled to Monday at 3:00 PM.\n[2026-03-24 11:01] ✅ TASK COMPLETED per user instruction.",
         "date_completed": "2026-03-24T11:01:00"
+      },
+      {
+        "title": "Interpret and understand the information gathered for the Prompt Bible",
+        "status": "Complete",
+        "date_due": "2026-04-08T20:30",
+        "priority": "Critical",
+        "task_metadata": "Added from user request\n[2026-03-22 00:33] 🧠 Added: Interpret and understand the information gathered for the Prompt Bible due Wednesday at 8:30 PM, CRITICAL priority.\n[2026-04-01 10:08:14] Task completed by user request in chat."
       }
     ]
   }
