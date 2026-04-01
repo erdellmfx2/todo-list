@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-01T10:05:11.177237",
+  "updated_at": "2026-04-01T10:06:59.372894",
   "tasks": {
     "active": [
       {
@@ -114,7 +114,7 @@
       {
         "title": "Interpret and understand the information gathered for the Prompt Bible",
         "status": "Active",
-        "date_due": "2026-03-25T20:30",
+        "date_due": "2026-04-08T20:30",
         "priority": "Critical",
         "task_metadata": "Added from user request\n[2026-03-22 00:33] 🧠 Added: Interpret and understand the information gathered for the Prompt Bible due Wednesday at 8:30 PM, CRITICAL priority."
       },
