@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-03T10:06:02.372244",
+  "updated_at": "2026-04-03T10:07:26.194519",
   "tasks": {
     "active": [
       {
@@ -116,13 +116,6 @@
         "date_due": "2026-04-06T10:00",
         "priority": "Critical",
         "task_metadata": "Added via chat request. Relates to DLAC committee coordination."
-      },
-      {
-        "title": "Call Tires Plus",
-        "status": "Active",
-        "date_due": "2026-04-02T11:00",
-        "priority": "Medium",
-        "task_metadata": "Added via voice note request."
       }
     ],
     "completed": [
@@ -319,6 +312,13 @@
         "date_due": "2026-04-03T10:00",
         "priority": "High",
         "task_metadata": "Added via chat request.\n[2026-04-03 10:06:02] Marked completed by user in chat."
+      },
+      {
+        "title": "Call Tires Plus",
+        "status": "Complete",
+        "date_due": "2026-04-02T11:00",
+        "priority": "Medium",
+        "task_metadata": "Added via voice note request.\n[2026-04-03 10:07:26] Marked completed by user in chat."
       }
     ]
   }
