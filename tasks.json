@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-03T13:39:27.405831",
+  "updated_at": "2026-04-05T10:59:20.143340",
   "tasks": {
     "active": [
       {
@@ -122,6 +122,13 @@
         "status": "Active",
         "date_due": "2026-04-03T19:00",
         "priority": "High",
+        "task_metadata": "Added via chat request."
+      },
+      {
+        "title": "update Google Gemma 4 models with Kimi K's idea, then benchmark",
+        "status": "Active",
+        "date_due": "2026-05-01",
+        "priority": "Critical",
         "task_metadata": "Added via chat request."
       }
     ],
