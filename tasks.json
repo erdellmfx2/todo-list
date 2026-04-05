@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-05T11:08:49.156104",
+  "updated_at": "2026-04-05T11:37:29.986592",
   "tasks": {
     "active": [
       {
@@ -136,6 +136,13 @@
         "status": "Active",
         "date_due": "2026-05-15",
         "priority": "High",
+        "task_metadata": "Added via chat request."
+      },
+      {
+        "title": "drop documents at eye doctor",
+        "status": "Active",
+        "date_due": "2026-04-06",
+        "priority": "Critical",
         "task_metadata": "Added via chat request."
       }
     ],
