@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-05T10:59:20.143340",
+  "updated_at": "2026-04-05T11:08:49.156104",
   "tasks": {
     "active": [
       {
@@ -129,6 +129,13 @@
         "status": "Active",
         "date_due": "2026-05-01",
         "priority": "Critical",
+        "task_metadata": "Added via chat request."
+      },
+      {
+        "title": "write a paper on doing research with the help of clawbot",
+        "status": "Active",
+        "date_due": "2026-05-15",
+        "priority": "High",
         "task_metadata": "Added via chat request."
       }
     ],
