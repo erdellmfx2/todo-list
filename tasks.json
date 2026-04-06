@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-06T11:01:30-04:00",
+  "updated_at": "2026-04-06T18:36:00-04:00",
   "tasks": {
     "active": [
       {
@@ -90,6 +90,25 @@
         "date_due": "2026-05-15",
         "priority": "High",
         "task_metadata": "Added via chat request."
+      },
+      {
+        "title": "change the air filter",
+        "status": "Continuing",
+        "date_due": "2026-08-01T17:00",
+        "priority": "Medium",
+        "task_metadata": "Added from user request\n[2026-03-20 11:40] \ud83d\udd04 Added recurring task: every 4 months; first due 2026-04-01 at 5:00 PM; MEDIUM priority.\n[2026-03-20 11:42] \ud83d\udd01 Updated recurrence total to 10 occurrences.\n[2026-03-22 15:20] \ud83d\udcc5 Date updated to 2026-04-01.\n[2026-04-05 18:59] \u2705 Marked done by user confirmation.\n[2026-04-06 18:36] \ud83d\udd01 Reinstated as recurring active task; status set to Continuing and due date rolled forward.",
+        "recurrence": {
+          "enabled": true,
+          "type": "monthly",
+          "interval": 4,
+          "first_due": "2026-04-01",
+          "next_due": "2026-12-01T17:00:00",
+          "remaining_occurrences": 9,
+          "total_occurrences": 10,
+          "completed_occurrences": 1,
+          "skip_weekends": false,
+          "day_of_month": 1
+        }
       }
     ],
     "completed": [
@@ -293,25 +312,6 @@
         "date_due": "2026-04-02T11:00",
         "priority": "Medium",
         "task_metadata": "Added via voice note request.\n[2026-04-03 10:07:26] Marked completed by user in chat."
-      },
-      {
-        "title": "change the air filter",
-        "status": "Done",
-        "date_due": "2026-04-01",
-        "priority": "Medium",
-        "task_metadata": "Added from user request\n[2026-03-20 11:40] \ud83d\udd04 Added recurring task: every 4 months; first due 2026-04-01 at 5:00 PM; MEDIUM priority.\n[2026-03-20 11:42] \ud83d\udd01 Updated recurrence total to 10 occurrences.\n[2026-03-22 15:20] \ud83d\udcc5 Date updated to 2026-04-01.\n[2026-04-05 18:59] \u2705 Marked done by user confirmation.",
-        "recurrence": {
-          "enabled": true,
-          "type": "monthly",
-          "interval": 4,
-          "first_due": "2026-04-01",
-          "next_due": "2026-08-01T17:00",
-          "remaining_occurrences": 9,
-          "total_occurrences": 10,
-          "completed_occurrences": 1,
-          "skip_weekends": false,
-          "day_of_month": 1
-        }
       },
       {
         "title": "Email struggling students",
