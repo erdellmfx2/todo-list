@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-06T18:36:00-04:00",
+  "updated_at": "2026-04-06T23:55:00-04:00",
   "tasks": {
     "active": [
       {
@@ -109,6 +109,22 @@
           "skip_weekends": false,
           "day_of_month": 1
         }
+      },
+      {
+        "id": "1692ad39",
+        "title": "Call Heskeith",
+        "status": "Active",
+        "priority": "Critical",
+        "date_due": "2026-04-07T14:00:00",
+        "task_metadata": "Added from user request on 2026-04-06. Priority critical.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-06T23:55:00-04:00",
+            "notes": "Created from user instruction"
+          }
+        ]
       }
     ],
     "completed": [
