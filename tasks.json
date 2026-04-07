@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-07T10:16:00-04:00",
+  "updated_at": "2026-04-07T14:39:00-04:00",
   "tasks": {
     "active": [
       {
@@ -154,6 +154,22 @@
             "action": "create",
             "by": "erdell",
             "at": "2026-04-07T10:16:00-04:00",
+            "notes": "Created from user instruction"
+          }
+        ]
+      },
+      {
+        "id": "e2a60b59",
+        "title": "follow up on travel support to the NRP7",
+        "status": "Active",
+        "priority": "Critical",
+        "date_due": "2026-04-08T10:00:00",
+        "task_metadata": "Added from user request on 2026-04-07. Priority critical.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-07T14:39:00-04:00",
             "notes": "Created from user instruction"
           }
         ]
