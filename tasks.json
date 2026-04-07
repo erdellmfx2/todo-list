@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-06T23:55:00-04:00",
+  "updated_at": "2026-04-07T10:16:00-04:00",
   "tasks": {
     "active": [
       {
@@ -122,6 +122,38 @@
             "action": "create",
             "by": "erdell",
             "at": "2026-04-06T23:55:00-04:00",
+            "notes": "Created from user instruction"
+          }
+        ]
+      },
+      {
+        "id": "5e4c1161",
+        "title": "set up work flow to build clawbot book",
+        "status": "Active",
+        "priority": "High",
+        "date_due": "2026-04-07T11:00:00",
+        "task_metadata": "Added from user request on 2026-04-07. Priority high.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-07T09:26:00-04:00",
+            "notes": "Created from user instruction"
+          }
+        ]
+      },
+      {
+        "id": "cc171258",
+        "title": "remind me to add thinking to lesson plan creation prompt",
+        "status": "Active",
+        "priority": "High",
+        "date_due": "2026-04-07T11:00:00",
+        "task_metadata": "Added from user request on 2026-04-07. Priority high.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-07T10:16:00-04:00",
             "notes": "Created from user instruction"
           }
         ]
