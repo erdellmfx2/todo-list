@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-07T14:39:00-04:00",
+  "updated_at": "2026-04-07T17:36:00-04:00",
   "tasks": {
     "active": [
       {
@@ -170,6 +170,22 @@
             "action": "create",
             "by": "erdell",
             "at": "2026-04-07T14:39:00-04:00",
+            "notes": "Created from user instruction"
+          }
+        ]
+      },
+      {
+        "id": "b8cef683",
+        "title": "prepare for AFAP presentation on Monday",
+        "status": "Active",
+        "priority": "Critical",
+        "date_due": "2026-04-10T19:00:00",
+        "task_metadata": "Added from user request on 2026-04-07. Priority critical.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-07T17:36:00-04:00",
             "notes": "Created from user instruction"
           }
         ]
