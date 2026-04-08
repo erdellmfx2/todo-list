@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-07T17:36:00-04:00",
+  "updated_at": "2026-04-08T19:06:00-04:00",
   "tasks": {
     "active": [
       {
@@ -187,6 +187,22 @@
             "by": "erdell",
             "at": "2026-04-07T17:36:00-04:00",
             "notes": "Created from user instruction"
+          }
+        ]
+      },
+      {
+        "id": "b61ac530",
+        "title": "check State Farm website",
+        "status": "Active",
+        "priority": "Medium",
+        "date_due": "2026-04-08T21:00:00",
+        "task_metadata": "Added from /nt user shortcut on 2026-04-08. Priority medium.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-08T19:06:00-04:00",
+            "notes": "Created from user shortcut /nt"
           }
         ]
       }
