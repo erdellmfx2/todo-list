@@ -1,16 +1,9 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-08T19:06:00-04:00",
+  "updated_at": "2026-04-08T22:25:54.728149",
   "tasks": {
     "active": [
-      {
-        "title": "Do taxes!",
-        "status": "Active",
-        "date_due": "2026-04-03",
-        "priority": "Critical",
-        "task_metadata": "Added from Erdell list\n[2026-03-19 12:10:50] \ud83d\udd0d Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-19 12:11:23] \ud83d\udd0d Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-19 12:11:46] \ud83d\udd0d Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-19 14:00:04] \ud83d\udd0d Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-22 20:01] \ud83d\udcc5 Rescheduled to Thursday (2026-03-26)."
-      },
       {
         "title": "Power wash the house",
         "status": "Active",
@@ -127,22 +120,6 @@
         ]
       },
       {
-        "id": "5e4c1161",
-        "title": "set up work flow to build clawbot book",
-        "status": "Active",
-        "priority": "High",
-        "date_due": "2026-04-07T11:00:00",
-        "task_metadata": "Added from user request on 2026-04-07. Priority high.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-07T09:26:00-04:00",
-            "notes": "Created from user instruction"
-          }
-        ]
-      },
-      {
         "id": "cc171258",
         "title": "remind me to add thinking to lesson plan creation prompt",
         "status": "Active",
@@ -187,22 +164,6 @@
             "by": "erdell",
             "at": "2026-04-07T17:36:00-04:00",
             "notes": "Created from user instruction"
-          }
-        ]
-      },
-      {
-        "id": "b61ac530",
-        "title": "check State Farm website",
-        "status": "Active",
-        "priority": "Medium",
-        "date_due": "2026-04-08T21:00:00",
-        "task_metadata": "Added from /nt user shortcut on 2026-04-08. Priority medium.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-08T19:06:00-04:00",
-            "notes": "Created from user shortcut /nt"
           }
         ]
       }
@@ -443,6 +404,65 @@
         "date_due": "2026-04-06T16:00",
         "priority": "Critical",
         "task_metadata": "Added via chat request.\n[2026-04-06 10:55] \u2705 Marked done by user confirmation."
+      },
+      {
+        "title": "Do taxes!",
+        "status": "Completed",
+        "date_due": "2026-04-03",
+        "priority": "Critical",
+        "task_metadata": "Added from Erdell list\n[2026-03-19 12:10:50] \ud83d\udd0d Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-19 12:11:23] \ud83d\udd0d Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-19 12:11:46] \ud83d\udd0d Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-19 14:00:04] \ud83d\udd0d Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-22 20:01] \ud83d\udcc5 Rescheduled to Thursday (2026-03-26).\n[2026-04-08 22:25] \u2705 Completed per user request.",
+        "history": [
+          {
+            "action": "status_update",
+            "by": "erdell",
+            "at": "2026-04-08T22:25:54.727679",
+            "notes": "Marked completed per user instruction in chat"
+          }
+        ]
+      },
+      {
+        "id": "5e4c1161",
+        "title": "set up work flow to build clawbot book",
+        "status": "Completed",
+        "priority": "High",
+        "date_due": "2026-04-07T11:00:00",
+        "task_metadata": "Added from user request on 2026-04-07. Priority high.\n[2026-04-08 22:25] \u2705 Completed per user request.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-07T09:26:00-04:00",
+            "notes": "Created from user instruction"
+          },
+          {
+            "action": "status_update",
+            "by": "erdell",
+            "at": "2026-04-08T22:25:54.728106",
+            "notes": "Marked completed per user instruction in chat"
+          }
+        ]
+      },
+      {
+        "id": "b61ac530",
+        "title": "check State Farm website",
+        "status": "Completed",
+        "priority": "Medium",
+        "date_due": "2026-04-08T21:00:00",
+        "task_metadata": "Added from /nt user shortcut on 2026-04-08. Priority medium.\n[2026-04-08 22:25] \u2705 Completed per user request.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-08T19:06:00-04:00",
+            "notes": "Created from user shortcut /nt"
+          },
+          {
+            "action": "status_update",
+            "by": "erdell",
+            "at": "2026-04-08T22:25:54.728137",
+            "notes": "Marked completed per user instruction in chat"
+          }
+        ]
       }
     ]
   }
