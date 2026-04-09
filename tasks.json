@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-09T15:47:27.587338",
+  "updated_at": "2026-04-09T15:47:51.464599",
   "tasks": {
     "active": [
       {
@@ -454,10 +454,10 @@
       {
         "id": "b61ac530",
         "title": "check State Farm website",
-        "status": "Completed",
+        "status": "Complete",
         "priority": "Medium",
         "date_due": "2026-04-08T21:00:00",
-        "task_metadata": "Added from /nt user shortcut on 2026-04-08. Priority medium.\n[2026-04-08 22:25] ✅ Completed per user request.",
+        "task_metadata": "Added from /nt user shortcut on 2026-04-08. Priority medium.\n[2026-04-08 22:25] ✅ Completed per user request.\n[2026-04-09 15:47:51] Marked done on 2026-04-09 15:47 EDT via request",
         "history": [
           {
             "action": "create",
