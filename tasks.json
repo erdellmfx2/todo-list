@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-09T15:41:44.300560",
+  "updated_at": "2026-04-09T15:47:27.587338",
   "tasks": {
     "active": [
       {
@@ -22,13 +22,6 @@
           "skip_weekends": false,
           "day_of_month": 22
         }
-      },
-      {
-        "title": "cancel Fitbit premium",
-        "status": "Active",
-        "date_due": "2026-05-01T10:00",
-        "priority": "High",
-        "task_metadata": "Added from user request\n[2026-03-20 11:38] ⏰ Added: cancel Fitbit premium due 2026-05-01 at 10:00 AM, HIGH priority."
       },
       {
         "title": "change the water filter",
@@ -479,6 +472,13 @@
             "notes": "Marked completed per user instruction in chat"
           }
         ]
+      },
+      {
+        "title": "cancel Fitbit premium",
+        "status": "Complete",
+        "date_due": "2026-05-01T10:00",
+        "priority": "High",
+        "task_metadata": "Added from user request\n[2026-03-20 11:38] ⏰ Added: cancel Fitbit premium due 2026-05-01 at 10:00 AM, HIGH priority.\n[2026-04-09 15:47:27] Marked done on 2026-04-09 15:47 EDT via request"
       }
     ]
   }
