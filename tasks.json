@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-09T15:47:51.464599",
+  "updated_at": "2026-04-09T15:48:34.987015",
   "tasks": {
     "active": [
       {
@@ -432,10 +432,10 @@
       {
         "id": "5e4c1161",
         "title": "set up work flow to build clawbot book",
-        "status": "Completed",
+        "status": "Complete",
         "priority": "High",
         "date_due": "2026-04-07T11:00:00",
-        "task_metadata": "Added from user request on 2026-04-07. Priority high.\n[2026-04-08 22:25] ✅ Completed per user request.",
+        "task_metadata": "Added from user request on 2026-04-07. Priority high.\n[2026-04-08 22:25] ✅ Completed per user request.\n[2026-04-09 15:48:34] Marked done on 2026-04-09 15:48 EDT via request",
         "history": [
           {
             "action": "create",
