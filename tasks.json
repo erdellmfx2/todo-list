@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-10T12:19:35.385541",
+  "updated_at": "2026-04-10T16:15:04.457359",
   "tasks": {
     "active": [
       {
@@ -163,6 +163,13 @@
         "status": "Active",
         "date_due": "2026-04-12T19:00",
         "priority": "Critical",
+        "task_metadata": ""
+      },
+      {
+        "title": "post class videos for statistics",
+        "status": "Active",
+        "date_due": "2026-04-10T20:00",
+        "priority": "High",
         "task_metadata": ""
       }
     ],
