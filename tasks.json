@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-10T10:29:31.553027",
+  "updated_at": "2026-04-10T11:56:14.262566",
   "tasks": {
     "active": [
       {
@@ -141,22 +141,6 @@
             "by": "erdell",
             "at": "2026-04-07T17:36:00-04:00",
             "notes": "Created from user instruction"
-          }
-        ]
-      },
-      {
-        "id": "76ea2e85",
-        "title": "remind me to use clawbot to track my business expenses",
-        "status": "Active",
-        "priority": "Critical",
-        "date_due": "2026-04-09T19:30:00",
-        "task_metadata": "Added from /nt user shortcut on 2026-04-08. Priority critical.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-08T22:48:00-04:00",
-            "notes": "Created from user shortcut /nt"
           }
         ]
       },
@@ -500,6 +484,22 @@
         "date_due": "2026-04-10T11:00",
         "priority": "Critical",
         "task_metadata": "[2026-04-10 10:29:31] Marked complete"
+      },
+      {
+        "id": "76ea2e85",
+        "title": "remind me to use clawbot to track my business expenses",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-04-09T19:30:00",
+        "task_metadata": "Added from /nt user shortcut on 2026-04-08. Priority critical.\n[2026-04-10 11:56:14] Marked complete",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-08T22:48:00-04:00",
+            "notes": "Created from user shortcut /nt"
+          }
+        ]
       }
     ]
   }
