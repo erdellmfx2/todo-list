@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-10T11:56:14.262566",
+  "updated_at": "2026-04-10T12:19:35.385541",
   "tasks": {
     "active": [
       {
@@ -155,6 +155,13 @@
         "title": "decide on dates for the last exam and the final exam for my classes",
         "status": "Active",
         "date_due": "2026-04-10T15:00",
+        "priority": "Critical",
+        "task_metadata": ""
+      },
+      {
+        "title": "grade assignments",
+        "status": "Active",
+        "date_due": "2026-04-12T19:00",
         "priority": "Critical",
         "task_metadata": ""
       }
