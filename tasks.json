@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-10T09:37:03.131177",
+  "updated_at": "2026-04-10T10:28:58.624415",
   "tasks": {
     "active": [
       {
@@ -95,22 +95,6 @@
           "skip_weekends": false,
           "day_of_month": 1
         }
-      },
-      {
-        "id": "1692ad39",
-        "title": "Call Heskeith",
-        "status": "Active",
-        "priority": "Critical",
-        "date_due": "2026-04-07T14:00:00",
-        "task_metadata": "Added from user request on 2026-04-06. Priority critical.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-06T23:55:00-04:00",
-            "notes": "Created from user instruction"
-          }
-        ]
       },
       {
         "id": "cc171258",
@@ -500,6 +484,22 @@
         "date_due": "2026-05-01T10:00",
         "priority": "High",
         "task_metadata": "Added from user request\n[2026-03-20 11:38] ⏰ Added: cancel Fitbit premium due 2026-05-01 at 10:00 AM, HIGH priority.\n[2026-04-09 15:47:27] Marked done on 2026-04-09 15:47 EDT via request"
+      },
+      {
+        "id": "1692ad39",
+        "title": "Call Heskeith",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-04-07T14:00:00",
+        "task_metadata": "Added from user request on 2026-04-06. Priority critical.\n[2026-04-10 10:28:58] Marked complete",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-06T23:55:00-04:00",
+            "notes": "Created from user instruction"
+          }
+        ]
       }
     ]
   }
