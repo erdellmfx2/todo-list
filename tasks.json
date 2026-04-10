@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-10T09:27:51.557165",
+  "updated_at": "2026-04-10T09:32:01.405395",
   "tasks": {
     "active": [
       {
@@ -181,6 +181,13 @@
         "status": "Active",
         "date_due": "2026-04-10T11:00",
         "priority": "Critical",
+        "task_metadata": ""
+      },
+      {
+        "title": "do MLL hours",
+        "status": "Active",
+        "date_due": "2026-04-13T11:00",
+        "priority": "High",
         "task_metadata": ""
       }
     ],
