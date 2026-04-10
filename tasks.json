@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-10T10:28:58.624415",
+  "updated_at": "2026-04-10T10:29:31.553027",
   "tasks": {
     "active": [
       {
@@ -159,13 +159,6 @@
             "notes": "Created from user shortcut /nt"
           }
         ]
-      },
-      {
-        "title": "Start payoff taxes on credit card",
-        "status": "Active",
-        "date_due": "2026-04-10T11:00",
-        "priority": "Critical",
-        "task_metadata": ""
       },
       {
         "title": "do MLL hours",
@@ -500,6 +493,13 @@
             "notes": "Created from user instruction"
           }
         ]
+      },
+      {
+        "title": "Start payoff taxes on credit card",
+        "status": "Complete",
+        "date_due": "2026-04-10T11:00",
+        "priority": "Critical",
+        "task_metadata": "[2026-04-10 10:29:31] Marked complete"
       }
     ]
   }
