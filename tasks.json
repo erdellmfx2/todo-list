@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-13T10:16:40.663925-04:00",
+  "updated_at": "2026-04-13T10:17:11.397612-04:00",
   "tasks": {
     "active": [
       {
@@ -113,22 +113,6 @@
         ]
       },
       {
-        "id": "e2a60b59",
-        "title": "follow up on travel support to the NRP7",
-        "status": "Active",
-        "priority": "Critical",
-        "date_due": "2026-04-08T10:00:00",
-        "task_metadata": "Added from user request on 2026-04-07. Priority critical.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-07T14:39:00-04:00",
-            "notes": "Created from user instruction"
-          }
-        ]
-      },
-      {
         "title": "do MLL hours",
         "status": "Active",
         "date_due": "2026-04-13T11:00",
@@ -190,6 +174,29 @@
       }
     ],
     "completed": [
+      {
+        "id": "e2a60b59",
+        "title": "follow up on travel support to the NRP7",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-04-08T10:00:00",
+        "task_metadata": "Added from user request on 2026-04-07. Priority critical.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-07T14:39:00-04:00",
+            "notes": "Created from user instruction"
+          },
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-13T10:17:11.397612-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ],
+        "completed_at": "2026-04-13T10:17:11.397612-04:00"
+      },
       {
         "id": "4251b1d2",
         "title": "send out TSC survey notice",
