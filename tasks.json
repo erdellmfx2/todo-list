@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-13T19:47:49.621742-04:00",
+  "updated_at": "2026-04-13T19:48:37.105961-04:00",
   "tasks": {
     "active": [
       {
@@ -127,13 +127,6 @@
         "task_metadata": ""
       },
       {
-        "title": "answer emails",
-        "status": "Active",
-        "date_due": "2026-04-10T20:30",
-        "priority": "High",
-        "task_metadata": ""
-      },
-      {
         "id": "42dce1e3",
         "title": "find another journal to submit factoring paper",
         "status": "Active",
@@ -151,6 +144,22 @@
       }
     ],
     "completed": [
+      {
+        "title": "answer emails",
+        "status": "Complete",
+        "date_due": "2026-04-10T20:30",
+        "priority": "High",
+        "task_metadata": "",
+        "completed_at": "2026-04-13T19:48:37.105961-04:00",
+        "history": [
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-13T19:48:37.105961-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ]
+      },
       {
         "id": "7e8135bd",
         "title": "continue paying taxes",
