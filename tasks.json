@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-13T13:51:02.345457-04:00",
+  "updated_at": "2026-04-13T19:47:49.621742-04:00",
   "tasks": {
     "active": [
       {
@@ -148,11 +148,13 @@
             "notes": "Created from user instruction via /nt shortcut"
           }
         ]
-      },
+      }
+    ],
+    "completed": [
       {
         "id": "7e8135bd",
         "title": "continue paying taxes",
-        "status": "Active",
+        "status": "Complete",
         "priority": "Critical",
         "date_due": "2026-04-13T16:00:00",
         "task_metadata": "Added from /nt user request on 2026-04-13. Priority critical.",
@@ -162,11 +164,16 @@
             "by": "erdell",
             "at": "2026-04-13T13:51:02.345457-04:00",
             "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-13T19:47:49.621742-04:00",
+            "notes": "Marked done per user request in chat"
           }
-        ]
-      }
-    ],
-    "completed": [
+        ],
+        "completed_at": "2026-04-13T19:47:49.621742-04:00"
+      },
       {
         "id": "6caf77ca",
         "title": "add sick leave in",
