@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-12T22:21:47.194802-04:00",
+  "updated_at": "2026-04-13T09:22:24.023119-04:00",
   "tasks": {
     "active": [
       {
@@ -223,6 +223,22 @@
             "action": "create",
             "by": "erdell",
             "at": "2026-04-12T22:21:47.194802-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          }
+        ]
+      },
+      {
+        "id": "4251b1d2",
+        "title": "send out TSC survey notice",
+        "status": "Active",
+        "priority": "High",
+        "date_due": "2026-04-13T11:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-13. Priority high.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-13T09:22:24.023119-04:00",
             "notes": "Created from user instruction via /nt shortcut"
           }
         ]
