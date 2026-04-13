@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-13T10:17:11.397612-04:00",
+  "updated_at": "2026-04-13T10:17:58.516922-04:00",
   "tasks": {
     "active": [
       {
@@ -120,13 +120,6 @@
         "task_metadata": ""
       },
       {
-        "title": "decide on dates for the last exam and the final exam for my classes",
-        "status": "Active",
-        "date_due": "2026-04-10T15:00",
-        "priority": "Critical",
-        "task_metadata": ""
-      },
-      {
         "title": "grade assignments",
         "status": "Active",
         "date_due": "2026-04-12T19:00",
@@ -174,6 +167,22 @@
       }
     ],
     "completed": [
+      {
+        "title": "decide on dates for the last exam and the final exam for my classes",
+        "status": "Complete",
+        "date_due": "2026-04-10T15:00",
+        "priority": "Critical",
+        "task_metadata": "",
+        "completed_at": "2026-04-13T10:17:58.516922-04:00",
+        "history": [
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-13T10:17:58.516922-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ]
+      },
       {
         "id": "e2a60b59",
         "title": "follow up on travel support to the NRP7",
