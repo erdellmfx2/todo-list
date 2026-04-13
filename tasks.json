@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-13T10:16:15.545507-04:00",
+  "updated_at": "2026-04-13T10:16:40.663925-04:00",
   "tasks": {
     "active": [
       {
@@ -187,11 +187,13 @@
             "notes": "Created from user instruction via /nt shortcut"
           }
         ]
-      },
+      }
+    ],
+    "completed": [
       {
         "id": "4251b1d2",
         "title": "send out TSC survey notice",
-        "status": "Active",
+        "status": "Complete",
         "priority": "High",
         "date_due": "2026-04-13T11:00:00",
         "task_metadata": "Added from /nt user request on 2026-04-13. Priority high.",
@@ -201,11 +203,16 @@
             "by": "erdell",
             "at": "2026-04-13T09:22:24.023119-04:00",
             "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-13T10:16:40.663925-04:00",
+            "notes": "Marked done per user request in chat"
           }
-        ]
-      }
-    ],
-    "completed": [
+        ],
+        "completed_at": "2026-04-13T10:16:40.663925-04:00"
+      },
       {
         "id": "16e162a0",
         "title": "post end of semester surveys to classess",
