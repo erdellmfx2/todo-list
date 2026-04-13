@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-13T09:42:43.339896-04:00",
+  "updated_at": "2026-04-13T09:43:18.483152-04:00",
   "tasks": {
     "active": [
       {
@@ -150,13 +150,6 @@
         "task_metadata": ""
       },
       {
-        "title": "post class videos for statistics",
-        "status": "Active",
-        "date_due": "2026-04-10T20:00",
-        "priority": "High",
-        "task_metadata": ""
-      },
-      {
         "title": "answer emails",
         "status": "Active",
         "date_due": "2026-04-10T20:30",
@@ -229,6 +222,22 @@
       }
     ],
     "completed": [
+      {
+        "title": "post class videos for statistics",
+        "status": "Complete",
+        "date_due": "2026-04-10T20:00",
+        "priority": "High",
+        "task_metadata": "",
+        "completed_at": "2026-04-13T09:43:18.483152-04:00",
+        "history": [
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-13T09:43:18.483152-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ]
+      },
       {
         "id": "b8cef683",
         "title": "prepare for AFAP presentation on Monday",
