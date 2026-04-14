@@ -1,15 +1,15 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-14T11:20:14.825029-04:00",
+  "updated_at": "2026-04-14T11:51:41.001680-04:00",
   "tasks": {
     "active": [
       {
         "title": "Power wash the house",
         "status": "Active",
-        "date_due": "2026-04-11T15:00",
+        "date_due": "2026-04-18T15:00:00",
         "priority": "Medium",
-        "task_metadata": "Added from Erdell list\n[2026-03-19 16:53:54] \ud83d\udd04 Recurrence added: every 3 months (5 total occurrences)\n[2026-03-20 11:36] \ud83d\udd04 Recurrence updated: every 6 months\n[2026-03-22 00:29] \ud83d\udcc5 Rescheduled to next week Saturday (2026-04-04).\n[2026-04-06 11:01] \ud83d\udcc5 Due date moved to Saturday, 2026-04-11 at 3:00 PM by user request.",
+        "task_metadata": "Added from Erdell list\n[2026-03-19 16:53:54] \ud83d\udd04 Recurrence added: every 3 months (5 total occurrences)\n[2026-03-20 11:36] \ud83d\udd04 Recurrence updated: every 6 months\n[2026-03-22 00:29] \ud83d\udcc5 Rescheduled to next week Saturday (2026-04-04).\n[2026-04-06 11:01] \ud83d\udcc5 Due date moved to Saturday, 2026-04-11 at 3:00 PM by user request.\n[2026-04-14 11:51] \ud83d\udcc5 Due date moved to next Saturday (2026-04-18) by user request.",
         "recurrence": {
           "enabled": true,
           "type": "monthly",
