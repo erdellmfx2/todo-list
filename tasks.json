@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-14T11:51:41.001680-04:00",
+  "updated_at": "2026-04-14T11:52:23.648395-04:00",
   "tasks": {
     "active": [
       {
@@ -52,9 +52,9 @@
       {
         "title": "watch the new Godzilla TV show",
         "status": "Active",
-        "date_due": "2026-04-10T19:30",
+        "date_due": "2026-04-17T19:30:00",
         "priority": "Low",
-        "task_metadata": "Added from user request\n[2026-03-22 00:28] \ud83d\udcfa Added reminder: watch the new Godzilla TV show next week Friday at 7:30 PM, LOW priority. Notes: It is on Apple TV.\n[2026-04-06 11:01] \ud83d\udcc5 Due date moved to Friday, 2026-04-10 at 7:30 PM by user request."
+        "task_metadata": "Added from user request\n[2026-03-22 00:28] \ud83d\udcfa Added reminder: watch the new Godzilla TV show next week Friday at 7:30 PM, LOW priority. Notes: It is on Apple TV.\n[2026-04-06 11:01] \ud83d\udcc5 Due date moved to Friday, 2026-04-10 at 7:30 PM by user request.\n[2026-04-14 11:52] \ud83d\udcc5 Due date moved to this Friday (2026-04-17) by user request."
       },
       {
         "title": "Finish the CITI program",
