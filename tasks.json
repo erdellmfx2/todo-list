@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-14T11:04:09.208264-04:00",
+  "updated_at": "2026-04-14T11:12:09.317562-04:00",
   "tasks": {
     "active": [
       {
@@ -143,13 +143,6 @@
         ]
       },
       {
-        "title": "call eye glasses company to check prescription",
-        "status": "Active",
-        "date_due": "2026-04-14T11:30",
-        "priority": "Critical",
-        "task_metadata": ""
-      },
-      {
         "id": "3ccbec19",
         "title": "post reflections to farp course",
         "status": "Active",
@@ -167,6 +160,22 @@
       }
     ],
     "completed": [
+      {
+        "title": "call eye glasses company to check prescription",
+        "status": "Complete",
+        "date_due": "2026-04-14T11:30",
+        "priority": "Critical",
+        "task_metadata": "",
+        "completed_at": "2026-04-14T11:12:09.317562-04:00",
+        "history": [
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-14T11:12:09.317562-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ]
+      },
       {
         "title": "follow up on funding from the mathematics department",
         "status": "Complete",
