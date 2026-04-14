@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-13T23:36:43.123091",
+  "updated_at": "2026-04-13T23:37:03.233395",
   "tasks": {
     "active": [
       {
@@ -146,6 +146,13 @@
         "title": "follow up on funding from the mathematics department",
         "status": "Active",
         "date_due": "2026-04-14T11:00",
+        "priority": "Critical",
+        "task_metadata": ""
+      },
+      {
+        "title": "call eye glasses company to check prescription",
+        "status": "Active",
+        "date_due": "2026-04-14T11:30",
         "priority": "Critical",
         "task_metadata": ""
       }
