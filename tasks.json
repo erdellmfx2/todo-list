@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-15T07:27:04.551464-04:00",
+  "updated_at": "2026-04-15T11:43:07.038462-04:00",
   "tasks": {
     "active": [
       {
@@ -143,22 +143,6 @@
         ]
       },
       {
-        "id": "98a4aa0d",
-        "title": "Have Eye Glass Checked",
-        "status": "Active",
-        "priority": "Critical",
-        "date_due": "2026-04-15T09:30:00",
-        "task_metadata": "Added from /nt user request on 2026-04-14. Priority critical.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-14T11:20:14.825029-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          }
-        ]
-      },
-      {
         "id": "48955b26",
         "title": "apply for FAMU2",
         "status": "Active",
@@ -192,6 +176,29 @@
       }
     ],
     "completed": [
+      {
+        "id": "98a4aa0d",
+        "title": "Have Eye Glass Checked",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-04-15T09:30:00",
+        "task_metadata": "Added from /nt user request on 2026-04-14. Priority critical.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-14T11:20:14.825029-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-15T11:43:07.038462-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ],
+        "completed_at": "2026-04-15T11:43:07.038462-04:00"
+      },
       {
         "id": "42dce1e3",
         "title": "find another journal to submit factoring paper",
