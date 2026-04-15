@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-15T11:43:07.038462-04:00",
+  "updated_at": "2026-04-15T11:45:17.217052-04:00",
   "tasks": {
     "active": [
       {
@@ -171,6 +171,22 @@
             "by": "erdell",
             "at": "2026-04-15T07:27:04.551464-04:00",
             "notes": "Created from user instruction via /nt shortcut"
+          }
+        ]
+      },
+      {
+        "id": "e86989d2",
+        "title": "look for text message to get new lenses",
+        "status": "Active",
+        "priority": "High",
+        "date_due": "2026-04-29T17:00:00",
+        "task_metadata": "Added from user request on 2026-04-15. Notes: new lenses expected in 5 to 10 business days.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-15T11:45:17.217052-04:00",
+            "notes": "Created from user instruction. Follow-up window is 5 to 10 business days."
           }
         ]
       }
