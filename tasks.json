@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-14T11:53:55.663078-04:00",
+  "updated_at": "2026-04-15T07:23:39.782875-04:00",
   "tasks": {
     "active": [
       {
@@ -154,6 +154,22 @@
             "action": "create",
             "by": "erdell",
             "at": "2026-04-14T11:20:14.825029-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          }
+        ]
+      },
+      {
+        "id": "48955b26",
+        "title": "apply for FAMU2",
+        "status": "Active",
+        "priority": "Critical",
+        "date_due": "2026-04-15T11:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-15. Priority critical.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-15T07:23:39.782875-04:00",
             "notes": "Created from user instruction via /nt shortcut"
           }
         ]
