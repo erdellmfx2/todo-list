@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-16T11:42:33.602674-04:00",
+  "updated_at": "2026-04-16T11:50:04.289232-04:00",
   "tasks": {
     "active": [
       {
@@ -143,22 +143,6 @@
         ]
       },
       {
-        "id": "48955b26",
-        "title": "apply for FAMU2",
-        "status": "Active",
-        "priority": "Critical",
-        "date_due": "2026-04-15T11:00:00",
-        "task_metadata": "Added from /nt user request on 2026-04-15. Priority critical.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-15T07:23:39.782875-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          }
-        ]
-      },
-      {
         "id": "ddcf465a",
         "title": "create a Saturday course to use Antigravity",
         "status": "Active",
@@ -224,6 +208,29 @@
       }
     ],
     "completed": [
+      {
+        "id": "48955b26",
+        "title": "apply for FAMU2",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-04-15T11:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-15. Priority critical.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-15T07:23:39.782875-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-16T11:50:04.289232-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ],
+        "completed_at": "2026-04-16T11:50:04.289232-04:00"
+      },
       {
         "id": "a177c19c",
         "title": "get letter of support from chair for AUC",
