@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-15T12:06:40.340561-04:00",
+  "updated_at": "2026-04-15T22:30:27.605150-04:00",
   "tasks": {
     "active": [
       {
@@ -202,6 +202,22 @@
             "action": "create",
             "by": "erdell",
             "at": "2026-04-15T12:06:40.340561-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          }
+        ]
+      },
+      {
+        "id": "a67217b1",
+        "title": "prepare for online test in college algebra",
+        "status": "Active",
+        "priority": "Critical",
+        "date_due": "2026-04-16T11:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-15. Priority critical.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-15T22:30:27.605150-04:00",
             "notes": "Created from user instruction via /nt shortcut"
           }
         ]
