@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-17T13:08:30.304456-04:00",
+  "updated_at": "2026-04-17T13:11:45.530899-04:00",
   "tasks": {
     "active": [
       {
@@ -250,6 +250,22 @@
             "action": "create",
             "by": "erdell",
             "at": "2026-04-17T13:08:30.304456-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          }
+        ]
+      },
+      {
+        "id": "c28b0fc6",
+        "title": "cancel class on Friday 4/22 attending PI luncheon",
+        "status": "Active",
+        "priority": "Critical",
+        "date_due": "2026-04-17T15:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-17. Priority critical.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-17T13:11:45.530899-04:00",
             "notes": "Created from user instruction via /nt shortcut"
           }
         ]
