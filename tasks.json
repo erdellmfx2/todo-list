@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-19T11:01:22.729192-04:00",
+  "updated_at": "2026-04-19T11:38:42.449751-04:00",
   "tasks": {
     "active": [
       {
@@ -314,6 +314,22 @@
             "action": "create",
             "by": "erdell",
             "at": "2026-04-19T11:01:22.729192-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          }
+        ]
+      },
+      {
+        "id": "dc45a891",
+        "title": "replace battery in scale",
+        "status": "Active",
+        "priority": "Medium",
+        "date_due": "2026-04-19T17:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-19. Priority medium.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-19T11:38:42.449751-04:00",
             "notes": "Created from user instruction via /nt shortcut"
           }
         ]
