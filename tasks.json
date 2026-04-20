@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-20T13:22:09.424263",
+  "updated_at": "2026-04-20T17:13:44.810215",
   "tasks": {
     "active": [
       {
@@ -206,22 +206,6 @@
             "by": "erdell",
             "at": "2026-04-19T21:41:47.756394-04:00",
             "notes": "Moved due date to tomorrow per user request"
-          }
-        ]
-      },
-      {
-        "id": "883018c3",
-        "title": "take letter to DMV 2900 Apalachee Pkwy",
-        "status": "Active",
-        "priority": "Critical",
-        "date_due": "2026-04-20T14:30:00",
-        "task_metadata": "Added from /nt user request on 2026-04-19. Priority critical.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-19T17:28:59.194260-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
           }
         ]
       },
@@ -1153,6 +1137,22 @@
         "date_due": "2026-04-20T19:00",
         "priority": "High",
         "task_metadata": "[2026-04-20 12:47:35] Marked complete"
+      },
+      {
+        "id": "883018c3",
+        "title": "take letter to DMV 2900 Apalachee Pkwy",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-04-20T14:30:00",
+        "task_metadata": "Added from /nt user request on 2026-04-19. Priority critical.\n[2026-04-20 17:13:44] Marked complete",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-19T17:28:59.194260-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          }
+        ]
       }
     ]
   }
