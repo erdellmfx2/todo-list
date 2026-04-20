@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-19T22:17:57.272798",
+  "updated_at": "2026-04-19T22:19:14.182408",
   "tasks": {
     "active": [
       {
@@ -224,6 +224,13 @@
             "notes": "Created from user instruction via /nt shortcut"
           }
         ]
+      },
+      {
+        "title": "Start writing a paper on PRIMER course",
+        "status": "Active",
+        "date_due": "2026-04-20T19:00",
+        "priority": "High",
+        "task_metadata": ""
       }
     ],
     "completed": [
