@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-19T22:13:47.496285",
+  "updated_at": "2026-04-19T22:14:22.859267",
   "tasks": {
     "active": [
       {
@@ -184,22 +184,6 @@
             "by": "erdell",
             "at": "2026-04-19T21:53:03.306664-04:00",
             "notes": "Moved due date to tomorrow per user request"
-          }
-        ]
-      },
-      {
-        "id": "1c7b6bbc",
-        "title": "add i am a member of the FAMU AI Cluster to my CV",
-        "status": "Active",
-        "priority": "Medium",
-        "date_due": "2026-04-18T17:00:00",
-        "task_metadata": "Added from /nt user request on 2026-04-17. Priority medium.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-17T13:08:30.304456-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
           }
         ]
       },
@@ -1115,6 +1099,22 @@
             "action": "create",
             "by": "erdell",
             "at": "2026-04-17T11:31:41.009917-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          }
+        ]
+      },
+      {
+        "id": "1c7b6bbc",
+        "title": "add i am a member of the FAMU AI Cluster to my CV",
+        "status": "Complete",
+        "priority": "Medium",
+        "date_due": "2026-04-18T17:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-17. Priority medium.\n[2026-04-19 22:14:22] Marked complete",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-17T13:08:30.304456-04:00",
             "notes": "Created from user instruction via /nt shortcut"
           }
         ]
