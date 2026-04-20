@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-19T22:55:19.965943",
+  "updated_at": "2026-04-19T22:55:53.850182",
   "tasks": {
     "active": [
       {
@@ -109,8 +109,8 @@
         "title": "remind me to add thinking to lesson plan creation prompt",
         "status": "Active",
         "priority": "High",
-        "date_due": "2026-04-19T11:00:00",
-        "task_metadata": "Added from user request on 2026-04-07. Priority high.\n[2026-04-14 11:52] 📅 Due date moved to this Sunday (2026-04-19) by user request.",
+        "date_due": "2026-04-26T11:00:00",
+        "task_metadata": "Added from user request on 2026-04-07. Priority high.\n[2026-04-14 11:52] 📅 Due date moved to this Sunday (2026-04-19) by user request.\n[2026-04-19 22:55:53] [2026-04-19 22:54] 📅 Due date moved to next Sunday by user request.",
         "history": [
           {
             "action": "create",
