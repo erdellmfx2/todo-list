@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-19T22:19:14.182408",
+  "updated_at": "2026-04-19T22:54:46.123113",
   "tasks": {
     "active": [
       {
@@ -123,9 +123,9 @@
       {
         "title": "do MLL hours",
         "status": "Active",
-        "date_due": "2026-04-15T11:00:00",
+        "date_due": "2026-04-20T11:00:00",
         "priority": "High",
-        "task_metadata": "[2026-04-14 11:53] 📅 Due date moved to tomorrow (2026-04-15) by user request."
+        "task_metadata": "[2026-04-14 11:53] 📅 Due date moved to tomorrow (2026-04-15) by user request.\n[2026-04-19 22:54:46] [2026-04-19 22:54] 📅 Due date moved to tomorrow by user request."
       },
       {
         "id": "ddcf465a",
