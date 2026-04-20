@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-20T12:46:20.119004",
+  "updated_at": "2026-04-20T12:47:35.207907",
   "tasks": {
     "active": [
       {
@@ -224,13 +224,6 @@
             "notes": "Created from user instruction via /nt shortcut"
           }
         ]
-      },
-      {
-        "title": "Start writing a paper on PRIMER course",
-        "status": "Active",
-        "date_due": "2026-04-20T19:00",
-        "priority": "High",
-        "task_metadata": ""
       },
       {
         "title": "Give data about the AI Primer mini course for the Blue Print paper",
@@ -1146,6 +1139,13 @@
             "notes": "Created from user instruction via /nt shortcut"
           }
         ]
+      },
+      {
+        "title": "Start writing a paper on PRIMER course",
+        "status": "Complete",
+        "date_due": "2026-04-20T19:00",
+        "priority": "High",
+        "task_metadata": "[2026-04-20 12:47:35] Marked complete"
       }
     ]
   }
