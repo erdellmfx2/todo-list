@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-19T21:40:57.430902-04:00",
+  "updated_at": "2026-04-19T21:41:47.756394-04:00",
   "tasks": {
     "active": [
       {
@@ -275,7 +275,7 @@
         "title": "study with Brilliance each day this week",
         "status": "Active",
         "priority": "Critical",
-        "date_due": "2026-04-19T17:00:00",
+        "date_due": "2026-04-20T17:00:00",
         "task_metadata": "Added from /nt user request on 2026-04-19. Priority critical.",
         "history": [
           {
@@ -283,6 +283,12 @@
             "by": "erdell",
             "at": "2026-04-19T11:01:22.729192-04:00",
             "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "reschedule",
+            "by": "erdell",
+            "at": "2026-04-19T21:41:47.756394-04:00",
+            "notes": "Moved due date to tomorrow per user request"
           }
         ]
       },
