@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-19T21:51:40.182784-04:00",
+  "updated_at": "2026-04-19T21:53:03.306664-04:00",
   "tasks": {
     "active": [
       {
@@ -170,7 +170,7 @@
         "title": "connect litebot to social media",
         "status": "Active",
         "priority": "Medium",
-        "date_due": "2026-04-17T18:00:00",
+        "date_due": "2026-04-20T18:00:00",
         "task_metadata": "Added from /nt user request on 2026-04-16. Priority medium.",
         "history": [
           {
@@ -178,6 +178,12 @@
             "by": "erdell",
             "at": "2026-04-16T19:15:12.863680-04:00",
             "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "reschedule",
+            "by": "erdell",
+            "at": "2026-04-19T21:53:03.306664-04:00",
+            "notes": "Moved due date to tomorrow per user request"
           }
         ]
       },
