@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-19T21:47:03.513324-04:00",
+  "updated_at": "2026-04-19T21:47:48.216849-04:00",
   "tasks": {
     "active": [
       {
@@ -126,22 +126,6 @@
         "date_due": "2026-04-15T11:00:00",
         "priority": "High",
         "task_metadata": "[2026-04-14 11:53] \ud83d\udcc5 Due date moved to tomorrow (2026-04-15) by user request."
-      },
-      {
-        "id": "3ccbec19",
-        "title": "post reflections to farp course",
-        "status": "Active",
-        "priority": "Critical",
-        "date_due": "2026-04-15T19:00:00",
-        "task_metadata": "Added from /nt user request on 2026-04-14. Priority critical.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-14T06:35:58.122339-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          }
-        ]
       },
       {
         "id": "ddcf465a",
@@ -327,6 +311,29 @@
       }
     ],
     "completed": [
+      {
+        "id": "3ccbec19",
+        "title": "post reflections to farp course",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-04-15T19:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-14. Priority critical.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-14T06:35:58.122339-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-19T21:47:48.216849-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ],
+        "completed_at": "2026-04-19T21:47:48.216849-04:00"
+      },
       {
         "title": "grade assignments",
         "status": "Complete",
