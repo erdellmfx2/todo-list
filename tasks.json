@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-19T21:45:17.171258-04:00",
+  "updated_at": "2026-04-19T21:47:03.513324-04:00",
   "tasks": {
     "active": [
       {
@@ -126,13 +126,6 @@
         "date_due": "2026-04-15T11:00:00",
         "priority": "High",
         "task_metadata": "[2026-04-14 11:53] \ud83d\udcc5 Due date moved to tomorrow (2026-04-15) by user request."
-      },
-      {
-        "title": "grade assignments",
-        "status": "Active",
-        "date_due": "2026-04-12T19:00",
-        "priority": "Critical",
-        "task_metadata": ""
       },
       {
         "id": "3ccbec19",
@@ -334,6 +327,22 @@
       }
     ],
     "completed": [
+      {
+        "title": "grade assignments",
+        "status": "Complete",
+        "date_due": "2026-04-12T19:00",
+        "priority": "Critical",
+        "task_metadata": "",
+        "completed_at": "2026-04-19T21:47:03.513324-04:00",
+        "history": [
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-19T21:47:03.513324-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ]
+      },
       {
         "id": "83f0f194",
         "title": "follow up AUC required activities",
