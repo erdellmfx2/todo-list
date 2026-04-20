@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-19T22:55:53.850182",
+  "updated_at": "2026-04-20T10:39:09.291575",
   "tasks": {
     "active": [
       {
@@ -231,6 +231,20 @@
         "date_due": "2026-04-20T19:00",
         "priority": "High",
         "task_metadata": ""
+      },
+      {
+        "title": "Give data about the AI Primer mini course for the Blue Print paper",
+        "status": "Active",
+        "date_due": "none",
+        "priority": "High",
+        "task_metadata": "Reminder created from paper-planning chat on 2026-04-20."
+      },
+      {
+        "title": "Create questionnaire to send out to the Phase 2 data science mentors",
+        "status": "Active",
+        "date_due": "none",
+        "priority": "High",
+        "task_metadata": "Reminder created from paper-planning chat on 2026-04-20."
       }
     ],
     "completed": [
