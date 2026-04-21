@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-20T17:13:44.810215",
+  "updated_at": "2026-04-21T08:12:15.190776",
   "tasks": {
     "active": [
       {
@@ -192,8 +192,8 @@
         "title": "study with Brilliance each day this week",
         "status": "Active",
         "priority": "Critical",
-        "date_due": "2026-04-20T17:00:00",
-        "task_metadata": "Added from /nt user request on 2026-04-19. Priority critical.",
+        "date_due": "2026-04-22T17:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-19. Priority critical.\n[2026-04-21 08:12:15] [2026-04-21 08:11] 📅 Due date moved to tomorrow by user request.",
         "history": [
           {
             "action": "create",
