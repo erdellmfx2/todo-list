@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-21T08:12:15.190776",
+  "updated_at": "2026-04-21T21:52:51.849878",
   "tasks": {
     "active": [
       {
@@ -236,6 +236,13 @@
         "date_due": "2026-04-21T20:00:00",
         "priority": "Critical",
         "task_metadata": "Created from /nt user request on 2026-04-20."
+      },
+      {
+        "title": "add atlas cloud to openclaw",
+        "status": "Active",
+        "date_due": "2026-04-22T10:00:00",
+        "priority": "Critical",
+        "task_metadata": "Created from /nt user request on 2026-04-21."
       }
     ],
     "completed": [
