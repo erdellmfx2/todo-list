@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-22T13:48:03.752105",
+  "updated_at": "2026-04-23T00:10:55.749923",
   "tasks": {
     "active": [
       {
@@ -264,6 +264,13 @@
         "date_due": "2026-04-24T17:00:00",
         "priority": "Critical",
         "task_metadata": "Created from /nt user request on 2026-04-22."
+      },
+      {
+        "title": "remind students to study systems of equations",
+        "status": "Active",
+        "date_due": "2026-04-23T09:30:00",
+        "priority": "Critical",
+        "task_metadata": "Created from /nt user request on 2026-04-23."
       }
     ],
     "completed": [
