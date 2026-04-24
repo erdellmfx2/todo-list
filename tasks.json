@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-24T12:58:05.226834",
+  "updated_at": "2026-04-24T14:44:51.632180",
   "tasks": {
     "active": [
       {
@@ -312,6 +312,13 @@
         "status": "Active",
         "date_due": "2026-06-01T09:00:00",
         "priority": "Medium",
+        "task_metadata": "Created from /nt user request on 2026-04-24."
+      },
+      {
+        "title": "double check that the college algebra finals are ready to go",
+        "status": "Active",
+        "date_due": "2026-04-25T12:00:00",
+        "priority": "Critical",
         "task_metadata": "Created from /nt user request on 2026-04-24."
       }
     ],
