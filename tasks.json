@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-24T10:09:55.015929",
+  "updated_at": "2026-04-24T12:58:05.226834",
   "tasks": {
     "active": [
       {
@@ -305,6 +305,13 @@
         "status": "Active",
         "date_due": "2026-04-26T18:00:00",
         "priority": "High",
+        "task_metadata": "Created from /nt user request on 2026-04-24."
+      },
+      {
+        "title": "update deepseek to use V4!",
+        "status": "Active",
+        "date_due": "2026-06-01T09:00:00",
+        "priority": "Medium",
         "task_metadata": "Created from /nt user request on 2026-04-24."
       }
     ],
