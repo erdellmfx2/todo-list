@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-24T14:44:51.632180",
+  "updated_at": "2026-04-24T18:57:11.360119",
   "tasks": {
     "active": [
       {
@@ -319,6 +319,13 @@
         "status": "Active",
         "date_due": "2026-04-25T12:00:00",
         "priority": "Critical",
+        "task_metadata": "Created from /nt user request on 2026-04-24."
+      },
+      {
+        "title": "check out life span podcast. lifespan.com",
+        "status": "Active",
+        "date_due": "2026-07-01T09:00:00",
+        "priority": "High",
         "task_metadata": "Created from /nt user request on 2026-04-24."
       }
     ],
