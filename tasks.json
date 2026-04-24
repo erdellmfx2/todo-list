@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-24T09:48:12.547365",
+  "updated_at": "2026-04-24T10:09:55.015929",
   "tasks": {
     "active": [
       {
@@ -298,6 +298,13 @@
         "status": "Active",
         "date_due": "2026-06-20T08:00:00",
         "priority": "Critical",
+        "task_metadata": "Created from /nt user request on 2026-04-24."
+      },
+      {
+        "title": "create rules for math competition",
+        "status": "Active",
+        "date_due": "2026-04-26T18:00:00",
+        "priority": "High",
         "task_metadata": "Created from /nt user request on 2026-04-24."
       }
     ],
