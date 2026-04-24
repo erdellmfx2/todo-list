@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-23T23:42:03.158600",
+  "updated_at": "2026-04-24T09:48:12.547365",
   "tasks": {
     "active": [
       {
@@ -292,6 +292,13 @@
         "date_due": "2026-04-24T09:30:00",
         "priority": "Critical",
         "task_metadata": "Created from /nt user request on 2026-04-23."
+      },
+      {
+        "title": "Do assessment write ups DLAC",
+        "status": "Active",
+        "date_due": "2026-06-20T08:00:00",
+        "priority": "Critical",
+        "task_metadata": "Created from /nt user request on 2026-04-24."
       }
     ],
     "completed": [
