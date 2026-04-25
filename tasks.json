@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-24T18:57:11.360119",
+  "updated_at": "2026-04-24T20:06:52.141481",
   "tasks": {
     "active": [
       {
@@ -325,6 +325,13 @@
         "title": "check out life span podcast. lifespan.com",
         "status": "Active",
         "date_due": "2026-07-01T09:00:00",
+        "priority": "High",
+        "task_metadata": "Created from /nt user request on 2026-04-24."
+      },
+      {
+        "title": "check student loans",
+        "status": "Active",
+        "date_due": "2026-04-28T09:00:00",
         "priority": "High",
         "task_metadata": "Created from /nt user request on 2026-04-24."
       }
