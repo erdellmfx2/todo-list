@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-24T20:06:52.141481",
+  "updated_at": "2026-04-24T20:24:54.292969",
   "tasks": {
     "active": [
       {
@@ -248,13 +248,6 @@
         "title": "Update the presentation material for recruiting",
         "status": "Active",
         "date_due": "2026-04-23T13:00:00",
-        "priority": "Critical",
-        "task_metadata": "Created from /nt user request on 2026-04-22."
-      },
-      {
-        "title": "sign AUC contract",
-        "status": "Active",
-        "date_due": "2026-04-22T17:00:00",
         "priority": "Critical",
         "task_metadata": "Created from /nt user request on 2026-04-22."
       },
@@ -1251,6 +1244,13 @@
             "notes": "Created from user instruction via /nt shortcut"
           }
         ]
+      },
+      {
+        "title": "sign AUC contract",
+        "status": "Complete",
+        "date_due": "2026-04-22T17:00:00",
+        "priority": "Critical",
+        "task_metadata": "Created from /nt user request on 2026-04-22.\n[2026-04-24 20:24:54] Marked done by user confirmation on 2026-04-24."
       }
     ]
   }
