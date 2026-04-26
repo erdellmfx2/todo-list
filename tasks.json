@@ -1,9 +1,17 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-26T14:08:50Z",
+  "updated_at": "2026-04-26T14:22:17Z",
   "tasks": {
     "active": [
+      {
+        "id": "18878715",
+        "title": "find someone to cut the grass",
+        "status": "Active",
+        "priority": "Critical",
+        "date_due": "2026-04-27",
+        "task_metadata": "Created from /nt user request on 2026-04-26."
+      },
       {
         "id": "46224666",
         "title": "load stats recording to YouTube",
