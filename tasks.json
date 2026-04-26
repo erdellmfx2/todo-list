@@ -1,9 +1,17 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-26T14:08:05.459468",
+  "updated_at": "2026-04-26T14:08:50Z",
   "tasks": {
     "active": [
+      {
+        "id": "46224666",
+        "title": "load stats recording to YouTube",
+        "status": "Active",
+        "priority": "High",
+        "date_due": "2026-04-29T20:00:00",
+        "task_metadata": "Created from /nt user request on 2026-04-26."
+      },
       {
         "title": "Update the presentation material for recruiting",
         "status": "Active",
