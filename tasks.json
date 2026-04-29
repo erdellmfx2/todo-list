@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-26T14:22:17Z",
+  "updated_at": "2026-04-29T21:03:00Z",
   "tasks": {
     "active": [
       {
@@ -19,13 +19,6 @@
         "priority": "High",
         "date_due": "2026-04-29T20:00:00",
         "task_metadata": "Created from /nt user request on 2026-04-26."
-      },
-      {
-        "title": "Update the presentation material for recruiting",
-        "status": "Active",
-        "date_due": "2026-04-23T13:00:00",
-        "priority": "Critical",
-        "task_metadata": "Created from /nt user request on 2026-04-22."
       },
       {
         "title": "complete orienetation module 0 AUC",
@@ -242,24 +235,26 @@
             "notes": "Moved due date to this Friday per user request"
           }
         ]
-      },
+      }
+    ],
+    "completed": [
       {
-        "id": "46224667",
-        "title": "Attendance for BC",
-        "description": "Attendance for BC meeting - Tuesday at 10 AM",
-        "due_date": "2026-04-28T10:00:00",
+        "id": "46224670",
+        "title": "Enter MLL Hour for Apr",
+        "description": "Enter MLL (Math Learning Lab) hours for April - Monday at 1:30 PM",
+        "due_date": "2026-04-27T13:30:00",
         "priority": "high",
-        "status": "Active",
-        "notes": "BC attendance commitment"
-      },
-      {
-        "id": "46224668",
-        "title": "Grade Project 4 CA",
-        "description": "Grade Project 4 for Computational Authorship - Tuesday at 11 AM",
-        "due_date": "2026-04-28T11:00:00",
-        "priority": "high",
-        "status": "Active",
-        "notes": "CA project grading"
+        "status": "Completed",
+        "notes": "Monthly MLL hour entry",
+        "history": [
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-29T17:02:00-04:00",
+            "notes": "Marked done by user request in chat."
+          }
+        ],
+        "completed_at": "2026-04-29T17:02:00-04:00"
       },
       {
         "id": "46224669",
@@ -267,20 +262,70 @@
         "description": "Grade final exam for Computational Authorship - Monday at 12:30 PM",
         "due_date": "2026-04-27T12:30:00",
         "priority": "high",
-        "status": "Active",
-        "notes": "CA final exam grading"
+        "status": "Completed",
+        "notes": "CA final exam grading",
+        "history": [
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-29T17:02:00-04:00",
+            "notes": "Marked done by user request in chat."
+          }
+        ],
+        "completed_at": "2026-04-29T17:02:00-04:00"
       },
       {
-        "id": "46224670",
-        "title": "Enter MLL Hour for Apr",
-        "description": "Enter MLL (Math Learning Lab) hours for April - Monday at 1:30 PM",
-        "due_date": "2026-04-27T13:30:00",
+        "id": "46224668",
+        "title": "Grade Project 4 CA",
+        "description": "Grade Project 4 for Computational Authorship - Tuesday at 11 AM",
+        "due_date": "2026-04-28T11:00:00",
         "priority": "high",
-        "status": "Active",
-        "notes": "Monthly MLL hour entry"
-      }
-    ],
-    "completed": [
+        "status": "Completed",
+        "notes": "CA project grading",
+        "history": [
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-29T17:02:00-04:00",
+            "notes": "Marked done by user request in chat."
+          }
+        ],
+        "completed_at": "2026-04-29T17:02:00-04:00"
+      },
+      {
+        "id": "46224667",
+        "title": "Attendance for BC",
+        "description": "Attendance for BC meeting - Tuesday at 10 AM",
+        "due_date": "2026-04-28T10:00:00",
+        "priority": "high",
+        "status": "Completed",
+        "notes": "BC attendance commitment",
+        "history": [
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-29T17:02:00-04:00",
+            "notes": "Marked done by user request in chat."
+          }
+        ],
+        "completed_at": "2026-04-29T17:02:00-04:00"
+      },
+      {
+        "title": "Update the presentation material for recruiting",
+        "status": "Completed",
+        "date_due": "2026-04-23T13:00:00",
+        "priority": "Critical",
+        "task_metadata": "Created from /nt user request on 2026-04-22.",
+        "history": [
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-29T17:02:00-04:00",
+            "notes": "Marked done by user request in chat."
+          }
+        ],
+        "completed_at": "2026-04-29T17:02:00-04:00"
+      },
       {
         "id": "81053880",
         "title": "study with Brilliance each day this week",
