@@ -53,8 +53,8 @@
         "title": "remind me to add thinking to lesson plan creation prompt",
         "status": "Active",
         "priority": "High",
-        "date_due": "2026-04-26T11:00:00",
-        "task_metadata": "Added from user request on 2026-04-07. Priority high.\n[2026-04-14 11:52] \ud83d\udcc5 Due date moved to this Sunday (2026-04-19) by user request.\n[2026-04-19 22:55:53] [2026-04-19 22:54] \ud83d\udcc5 Due date moved to next Sunday by user request.",
+        "date_due": "2026-05-06",
+        "task_metadata": "Added from user request on 2026-04-07. Priority high.\n[2026-04-14 11:52] \ud83d\udcc5 Due date moved to this Sunday (2026-04-19) by user request.\n[2026-04-19 22:55:53] [2026-04-19 22:54] \ud83d\udcc5 Due date moved to next Sunday by user request.\n[2026-04-30 12:28] \ud83d\udcc5 Due date moved to Wednesday (2026-05-06) by user request.",
         "history": [
           {
             "action": "create",
