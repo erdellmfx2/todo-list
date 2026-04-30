@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-04-29T21:03:00Z",
+  "updated_at": "2026-04-30T13:40:52Z",
   "tasks": {
     "active": [
       {
@@ -235,6 +235,13 @@
             "notes": "Moved due date to this Friday per user request"
           }
         ]
+      },
+      {
+        "title": "update syllabus for summer TSC course",
+        "status": "Active",
+        "date_due": "2026-05-08",
+        "priority": "High",
+        "task_metadata": "Created from /nt user request on 2026-04-30. User specified due second week in May and HIGH priority."
       }
     ],
     "completed": [
