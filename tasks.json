@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-02T13:07:43.654849",
+  "updated_at": "2026-05-02T13:11:32.829777",
   "tasks": {
     "active": [
       {
@@ -60,9 +60,9 @@
       {
         "title": "Finish the CITI program",
         "status": "Active",
-        "date_due": "2026-05-01",
+        "date_due": "2026-05-11",
         "priority": "High",
-        "task_metadata": "Added from user request\n[2026-03-23 11:35] ⏰ Added reminder: finish the CITI program at the start of May (2026-05-01), HIGH priority."
+        "task_metadata": "Added from user request\n[2026-03-23 11:35] ⏰ Added reminder: finish the CITI program at the start of May (2026-05-01), HIGH priority.\n[2026-05-02 13:11:32] [2026-05-02 13:05] 📅 Due date moved to next Monday by user request."
       },
       {
         "title": "write a paper on doing research with the help of clawbot",
