@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-02T13:14:53.794919",
+  "updated_at": "2026-05-02T13:24:11.616615",
   "tasks": {
     "active": [
       {
@@ -129,9 +129,9 @@
       {
         "title": "do the step by step analysis in nvivo",
         "status": "Active",
-        "date_due": "2026-04-21T20:00:00",
+        "date_due": "2026-05-06T20:00:00",
         "priority": "Medium",
-        "task_metadata": "Created from /nt user request on 2026-04-20. Notes: carry out the Blue Print paper step-by-step analysis in NVivo."
+        "task_metadata": "Created from /nt user request on 2026-04-20. Notes: carry out the Blue Print paper step-by-step analysis in NVivo.\n[2026-05-02 13:24:11] [2026-05-02 13:08] 📅 Due date moved to next Wednesday by user request."
       },
       {
         "title": "Power wash the house",
@@ -157,8 +157,8 @@
         "title": "create a Saturday course to use Antigravity",
         "status": "Active",
         "priority": "Medium",
-        "date_due": "2026-04-26T16:00:00",
-        "task_metadata": "Added from /nt user request on 2026-04-15. Priority medium.",
+        "date_due": "2026-05-06T16:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-15. Priority medium.\n[2026-05-02 13:24:11] [2026-05-02 13:08] 📅 Due date moved to next Wednesday by user request.",
         "history": [
           {
             "action": "create",
@@ -177,9 +177,9 @@
       {
         "title": "research Google research agent",
         "status": "Active",
-        "date_due": "2026-04-26T17:00:00",
+        "date_due": "2026-05-06T17:00:00",
         "priority": "Medium",
-        "task_metadata": "Created from /nt user request on 2026-04-23."
+        "task_metadata": "Created from /nt user request on 2026-04-23.\n[2026-05-02 13:24:11] [2026-05-02 13:08] 📅 Due date moved to next Wednesday by user request."
       },
       {
         "title": "update deepseek to use V4!",
@@ -210,9 +210,9 @@
       {
         "title": "watch the new Godzilla TV show",
         "status": "Active",
-        "date_due": "2026-04-24T19:30:00",
+        "date_due": "2026-05-06T19:30:00",
         "priority": "Low",
-        "task_metadata": "Added from user request\n[2026-03-22 00:28] 📺 Added reminder: watch the new Godzilla TV show next week Friday at 7:30 PM, LOW priority. Notes: It is on Apple TV.\n[2026-04-06 11:01] 📅 Due date moved to Friday, 2026-04-10 at 7:30 PM by user request.\n[2026-04-14 11:52] 📅 Due date moved to this Friday (2026-04-17) by user request.",
+        "task_metadata": "Added from user request\n[2026-03-22 00:28] 📺 Added reminder: watch the new Godzilla TV show next week Friday at 7:30 PM, LOW priority. Notes: It is on Apple TV.\n[2026-04-06 11:01] 📅 Due date moved to Friday, 2026-04-10 at 7:30 PM by user request.\n[2026-04-14 11:52] 📅 Due date moved to this Friday (2026-04-17) by user request.\n[2026-05-02 13:24:11] [2026-05-02 13:08] 📅 Due date moved to next Wednesday by user request.",
         "history": [
           {
             "action": "reschedule",
