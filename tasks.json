@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-02T13:04:24.069271",
+  "updated_at": "2026-05-02T13:06:01.754791",
   "tasks": {
     "active": [
       {
@@ -17,8 +17,8 @@
         "title": "load stats recording to YouTube",
         "status": "Active",
         "priority": "High",
-        "date_due": "2026-04-29T20:00:00",
-        "task_metadata": "Created from /nt user request on 2026-04-26."
+        "date_due": "2026-05-03T20:00:00",
+        "task_metadata": "Created from /nt user request on 2026-04-26.\n[2026-05-02 13:06:01] [2026-05-02 13:03] 📅 Due date moved to Sunday by user request."
       },
       {
         "title": "Do assessment write ups DLAC",
