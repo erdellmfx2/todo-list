@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-02T13:11:32.829777",
+  "updated_at": "2026-05-02T13:13:11.739199",
   "tasks": {
     "active": [
       {
@@ -109,8 +109,8 @@
         "title": "connect litebot to social media",
         "status": "Active",
         "priority": "Medium",
-        "date_due": "2026-04-20T18:00:00",
-        "task_metadata": "Added from /nt user request on 2026-04-16. Priority medium.",
+        "date_due": "2026-05-03T15:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-16. Priority medium.\n[2026-05-02 13:13:11] [2026-05-02 13:06] 📅 Due date moved to tomorrow at 3:00 PM by user request.",
         "history": [
           {
             "action": "create",
