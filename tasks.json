@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-01T12:16:13.238773",
+  "updated_at": "2026-05-02T12:55:14.374290",
   "tasks": {
     "active": [
       {
@@ -19,20 +19,6 @@
         "priority": "High",
         "date_due": "2026-04-29T20:00:00",
         "task_metadata": "Created from /nt user request on 2026-04-26."
-      },
-      {
-        "title": "complete orienetation module 0 AUC",
-        "status": "Active",
-        "date_due": "2026-04-24T17:00:00",
-        "priority": "Critical",
-        "task_metadata": "Created from /nt user request on 2026-04-22."
-      },
-      {
-        "title": "update Google Gemma 4 models with Kimi K's idea, then benchmark",
-        "status": "Active",
-        "date_due": "2026-05-01",
-        "priority": "Critical",
-        "task_metadata": "Added via chat request."
       },
       {
         "title": "Do assessment write ups DLAC",
@@ -242,13 +228,6 @@
         "date_due": "2026-05-08",
         "priority": "High",
         "task_metadata": "Created from /nt user request on 2026-04-30. User specified due second week in May and HIGH priority."
-      },
-      {
-        "title": "do the budget",
-        "status": "Active",
-        "date_due": "2026-05-01T11:00",
-        "priority": "High",
-        "task_metadata": "Created from /nt user request on 2026-05-01. High priority."
       }
     ],
     "completed": [
@@ -1369,6 +1348,27 @@
         "priority": "MEDIUM",
         "task_metadata": "Added from voice reminder\n[2026-03-19 22:01] 🎤 Voice reminder: \"Remind me to clean Bryan's room tomorrow at 10:00 AM\"\n[2026-03-20 17:19] ✅ TASK COMPLETED per user instruction.",
         "date_completed": "2026-03-20T17:19:16"
+      },
+      {
+        "title": "complete orienetation module 0 AUC",
+        "status": "Complete",
+        "date_due": "2026-04-24T17:00:00",
+        "priority": "Critical",
+        "task_metadata": "Created from /nt user request on 2026-04-22.\n[2026-05-02 12:55:14] Marked complete by user request on 2026-05-02."
+      },
+      {
+        "title": "update Google Gemma 4 models with Kimi K's idea, then benchmark",
+        "status": "Complete",
+        "date_due": "2026-05-01",
+        "priority": "Critical",
+        "task_metadata": "Added via chat request.\n[2026-05-02 12:55:14] Marked complete by user request on 2026-05-02."
+      },
+      {
+        "title": "do the budget",
+        "status": "Complete",
+        "date_due": "2026-05-01T11:00",
+        "priority": "High",
+        "task_metadata": "Created from /nt user request on 2026-05-01. High priority.\n[2026-05-02 12:55:14] Marked complete by user request on 2026-05-02."
       }
     ]
   }
