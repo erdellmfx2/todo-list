@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-02T13:06:01.754791",
+  "updated_at": "2026-05-02T13:07:43.654849",
   "tasks": {
     "active": [
       {
@@ -53,9 +53,9 @@
       {
         "title": "create rules for math competition",
         "status": "Active",
-        "date_due": "2026-04-26T18:00:00",
+        "date_due": "2026-05-06T18:00:00",
         "priority": "High",
-        "task_metadata": "Created from /nt user request on 2026-04-24."
+        "task_metadata": "Created from /nt user request on 2026-04-24.\n[2026-05-02 13:07:43] [2026-05-02 13:04] 📅 Due date moved to Wednesday by user request."
       },
       {
         "title": "Finish the CITI program",
