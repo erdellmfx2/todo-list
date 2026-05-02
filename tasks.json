@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-02T12:55:14.374290",
+  "updated_at": "2026-05-02T13:04:24.069271",
   "tasks": {
     "active": [
       {
@@ -9,8 +9,8 @@
         "title": "find someone to cut the grass",
         "status": "Active",
         "priority": "Critical",
-        "date_due": "2026-04-27",
-        "task_metadata": "Created from /nt user request on 2026-04-26."
+        "date_due": "2026-05-04",
+        "task_metadata": "Created from /nt user request on 2026-04-26.\n[2026-05-02 13:04:24] [2026-05-02 13:02] 📅 Due date moved to Monday by user request."
       },
       {
         "id": "46224666",
