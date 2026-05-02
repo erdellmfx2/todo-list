@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-02T13:13:11.739199",
+  "updated_at": "2026-05-02T13:14:53.794919",
   "tasks": {
     "active": [
       {
@@ -228,6 +228,13 @@
         "date_due": "2026-05-08",
         "priority": "High",
         "task_metadata": "Created from /nt user request on 2026-04-30. User specified due second week in May and HIGH priority."
+      },
+      {
+        "title": "pack bags for trip to Cali",
+        "status": "Active",
+        "date_due": "2026-05-03T16:00",
+        "priority": "High",
+        "task_metadata": "Created from /nt user request on 2026-05-02. User specified tomorrow at 4:00 PM and HIGH priority."
       }
     ],
     "completed": [
