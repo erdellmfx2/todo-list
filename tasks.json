@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-02T13:24:11.616615",
+  "updated_at": "2026-05-09T17:46:00-04:00",
   "tasks": {
     "active": [
       {
@@ -235,6 +235,22 @@
         "date_due": "2026-05-03T16:00",
         "priority": "High",
         "task_metadata": "Created from /nt user request on 2026-05-02. User specified tomorrow at 4:00 PM and HIGH priority."
+      },
+      {
+        "id": "e24f9c71",
+        "title": "learn how to use hyperframes",
+        "status": "Active",
+        "priority": "High",
+        "date_due": "2026-05-10T18:00:00",
+        "task_metadata": "Created from /nt user request on 2026-05-09. User specified tomorrow at 6:00 PM and HIGH priority.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-05-09T17:46:00-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          }
+        ]
       }
     ],
     "completed": [
