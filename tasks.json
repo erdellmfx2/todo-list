@@ -5,6 +5,22 @@
   "tasks": {
     "active": [
       {
+        "id": "86221301",
+        "title": "create video recording for first PowerPoint for stats class",
+        "status": "Active",
+        "priority": "Critical",
+        "date_due": "2026-05-10T18:00:00-04:00",
+        "task_metadata": "Created from /nt user request on 2026-05-10. Due today at 6:00 PM. Priority critical.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-05-10T13:37:00-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          }
+        ]
+      },
+      {
         "id": "59555096",
         "title": "send in receipts from trip",
         "status": "Active",
