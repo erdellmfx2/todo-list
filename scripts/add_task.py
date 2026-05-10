@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import argparse
-from task_lib import load_data, save_data
+from task_lib import find_task, load_data, new_task, save_data
 
 VALID_PRIORITY = {"Low", "Medium", "High", "Critical"}
 
@@ -14,19 +14,16 @@ def main():
     args = p.parse_args()
 
     data = load_data()
-    active = data.setdefault("tasks", {}).setdefault("active", [])
+    tasks = data.setdefault("tasks", {})
+    active = tasks.setdefault("active", [])
+    completed = tasks.setdefault("completed", [])
 
-    # prevent duplicate title in active list
-    if any(t.get("title", "").strip().lower() == args.title.strip().lower() for t in active):
-        raise SystemExit(f"Task already exists in active list: {args.title}")
+    _, existing = find_task(active, completed, args.title)
+    if existing:
+        raise SystemExit(f"Task already exists: {args.title}")
 
-    task = {
-        "title": args.title,
-        "status": "Active",
-        "date_due": args.due,
-        "priority": args.priority,
-        "task_metadata": args.metadata,
-    }
+    metadata = args.metadata or "Created via add_task.py"
+    task = new_task(args.title, due=args.due, priority=args.priority, metadata=metadata, by="helper-script")
     active.append(task)
     save_data(data)
     print(f"Added task: {args.title}")

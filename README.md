@@ -33,6 +33,7 @@ Located in `scripts/`:
 - `reorder_tasks.py` — enforce ordering: active first, completed second (with stable sort)
 - `sync_repo.sh` — commit/push `tasks.json` updates
 - `todo_guardian_report.py` — generate the Telegram-style Todo Guardian report
+- `hermes_task_manager.py` — Hermes-facing task command handler for create/complete/move requests
 
 ### Examples
 ```bash
@@ -53,6 +54,11 @@ python3 scripts/reorder_tasks.py
 
 # Sync changes to GitHub
 ./scripts/sync_repo.sh
+
+# Hermes-side shortcuts for natural task requests
+python3 scripts/hermes_task_manager.py create --title "pick the kids up" --when "tomorrow at 3pm" --priority Critical
+python3 scripts/hermes_task_manager.py complete --query "go to sleep"
+python3 scripts/hermes_task_manager.py move --query "going home" --when "next wednesday at 4 pm"
 ```
 
 ## Todo Guardian Updates

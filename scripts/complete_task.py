@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import argparse
-from task_lib import load_data, save_data, find_task, append_metadata
+from task_lib import find_task, load_data, mark_complete, save_data
 
 
 def main():
@@ -17,12 +17,13 @@ def main():
     if not task:
         raise SystemExit(f"Task not found: {args.title}")
 
-    task["status"] = "Complete"
-    append_metadata(task, args.note)
+    if bucket == "completed":
+        print(f"Task already completed: {task['title']}")
+        return
 
-    if bucket == "active":
-        active.remove(task)
-        completed.append(task)
+    mark_complete(task, note=args.note, by="helper-script")
+    active.remove(task)
+    completed.append(task)
 
     save_data(data)
     print(f"Completed task: {task['title']}")
