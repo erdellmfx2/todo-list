@@ -1,9 +1,25 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-10T13:39:00-04:00",
+  "updated_at": "2026-05-10T14:36:00-04:00",
   "tasks": {
     "active": [
+      {
+        "id": "73411053",
+        "title": "review email about proposal from Dr. Bailey",
+        "status": "Active",
+        "priority": "Critical",
+        "date_due": "2026-05-11T09:30:00-04:00",
+        "task_metadata": "Created from /nt user request on 2026-05-10. Due tomorrow at 9:30 AM. Priority critical.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-05-10T14:36:00-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          }
+        ]
+      },
       {
         "id": "46170084",
         "title": "attach Hermes to GitHub",
