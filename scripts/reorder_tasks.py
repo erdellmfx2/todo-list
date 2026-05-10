@@ -7,11 +7,13 @@ Ensure tasks.json is consistently ordered:
 """
 
 import json
+import subprocess
 from datetime import datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 TASKS_FILE = ROOT / "tasks.json"
+SYNC_SCRIPT = ROOT / "scripts" / "sync_repo.sh"
 
 PRIORITY_ORDER = {"Critical": 0, "High": 1, "Medium": 2, "Low": 3}
 
@@ -58,6 +60,9 @@ def main():
     with open(TASKS_FILE, "w", encoding="utf-8") as f:
         json.dump(ordered, f, indent=2, ensure_ascii=False)
         f.write("\n")
+
+    if SYNC_SCRIPT.exists():
+        subprocess.run([str(SYNC_SCRIPT)], cwd=ROOT, check=True)
 
     print(f"Reordered tasks.json | active={len(active)} completed={len(completed)}")
 
