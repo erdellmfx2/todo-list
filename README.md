@@ -32,6 +32,7 @@ Located in `scripts/`:
 - `append_metadata.py` — append notes to `task_metadata`
 - `reorder_tasks.py` — enforce ordering: active first, completed second (with stable sort)
 - `sync_repo.sh` — commit/push `tasks.json` updates
+- `todo_guardian_report.py` — generate the Telegram-style Todo Guardian report
 
 ### Examples
 ```bash
@@ -56,3 +57,6 @@ python3 scripts/reorder_tasks.py
 
 ## Todo Guardian Updates
 Todo Guardian is now configured to read from `erdellmfx2/todo-list` (`tasks.json -> tasks.active`) and can write learned insights/discussion notes into task metadata via helper scripts.
+
+### Auto-sync behavior
+All task mutations performed through the helper scripts now call `scripts/sync_repo.sh` automatically after `tasks.json` is written, so task changes are committed and pushed to GitHub immediately.

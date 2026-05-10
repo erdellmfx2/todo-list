@@ -2,12 +2,17 @@
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
-if ! git diff --quiet || ! git diff --cached --quiet; then
-  git add tasks.json
-  git commit -m "Update tasks.json via helper scripts" || true
+# Stage the canonical task file.
+git add tasks.json
+
+# Only commit if there are actual staged changes.
+if ! git diff --cached --quiet; then
+  git commit -m "Update tasks.json via helper scripts"
 fi
 
-TOKEN="$(gh auth token)"
-git push "https://erdellmfx2:${TOKEN}@github.com/erdellmfx2/todo-list.git" main
+# Rebase onto the remote in case tasks were changed elsewhere.
+git pull --rebase origin main
+
+git push origin main
 
 echo "Synced todo-list/tasks.json to GitHub."

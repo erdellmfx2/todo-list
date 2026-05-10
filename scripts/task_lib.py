@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 import json
+import subprocess
 from pathlib import Path
 from datetime import datetime
 
 ROOT = Path(__file__).resolve().parents[1]
 TASKS_FILE = ROOT / "tasks.json"
+SYNC_SCRIPT = ROOT / "scripts" / "sync_repo.sh"
 
 
 def load_data():
@@ -24,6 +26,16 @@ def save_data(data):
     with open(TASKS_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
         f.write("\n")
+    auto_sync_repo()
+
+
+def auto_sync_repo():
+    if not SYNC_SCRIPT.exists():
+        return
+    try:
+        subprocess.run([str(SYNC_SCRIPT)], cwd=ROOT, check=True)
+    except subprocess.CalledProcessError as exc:
+        raise RuntimeError(f"Auto-sync failed: {exc}") from exc
 
 
 def find_task(active_list, completed_list, title):
