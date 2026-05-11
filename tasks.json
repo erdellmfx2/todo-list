@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-11T14:17:25.286242-04:00",
+  "updated_at": "2026-05-11T15:05:25.461174-04:00",
   "tasks": {
     "active": [
       {
@@ -32,22 +32,6 @@
             "action": "create",
             "by": "erdell",
             "at": "2026-05-11T00:51:00-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          }
-        ]
-      },
-      {
-        "id": "89391005",
-        "title": "add lockdown browser to tests, put students into groups, and post assignment one to the orientation module",
-        "status": "Active",
-        "priority": "Critical",
-        "date_due": "2026-05-11T10:00:00-04:00",
-        "task_metadata": "Created from /nt user request on 2026-05-10. Due tomorrow at 10:00 AM. Priority critical.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-05-10T22:17:00-04:00",
             "notes": "Created from user instruction via /nt shortcut"
           }
         ]
@@ -1770,6 +1754,30 @@
         ],
         "completed_at": "2026-05-11T14:17:25.286159-04:00",
         "date_completed": "2026-05-11T14:17:25.286159-04:00"
+      },
+      {
+        "id": "89391005",
+        "title": "add lockdown browser to tests, put students into groups, and post assignment one to the orientation module",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-05-11T10:00:00-04:00",
+        "task_metadata": "Created from /nt user request on 2026-05-10. Due tomorrow at 10:00 AM. Priority critical.\n[2026-05-11 15:05:25] Marked complete via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-05-10T22:17:00-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-05-11T15:05:25.461167-04:00",
+            "notes": "Marked complete via Hermes task manager."
+          }
+        ],
+        "completed_at": "2026-05-11T15:05:25.461125-04:00",
+        "date_completed": "2026-05-11T15:05:25.461125-04:00"
       }
     ]
   }
