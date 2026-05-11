@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import argparse
-from task_lib import find_task, load_data, mark_complete, save_data
+from task_lib import find_task, load_data, mark_complete, refresh_repo_from_remote, repo_lock, save_data
 
 
 def main():
@@ -9,24 +9,26 @@ def main():
     p.add_argument("--note", default="Marked complete")
     args = p.parse_args()
 
-    data = load_data()
-    active = data.setdefault("tasks", {}).setdefault("active", [])
-    completed = data.setdefault("tasks", {}).setdefault("completed", [])
+    with repo_lock():
+        refresh_repo_from_remote()
+        data = load_data()
+        active = data.setdefault("tasks", {}).setdefault("active", [])
+        completed = data.setdefault("tasks", {}).setdefault("completed", [])
 
-    bucket, task = find_task(active, completed, args.title)
-    if not task:
-        raise SystemExit(f"Task not found: {args.title}")
+        bucket, task = find_task(active, completed, args.title)
+        if not task:
+            raise SystemExit(f"Task not found: {args.title}")
 
-    if bucket == "completed":
-        print(f"Task already completed: {task['title']}")
-        return
+        if bucket == "completed":
+            print(f"Task already completed: {task['title']}")
+            return
 
-    mark_complete(task, note=args.note, by="helper-script")
-    active.remove(task)
-    completed.append(task)
+        mark_complete(task, note=args.note, by="helper-script")
+        active.remove(task)
+        completed.append(task)
 
-    save_data(data)
-    print(f"Completed task: {task['title']}")
+        save_data(data)
+        print(f"Completed task: {task['title']}")
 
 
 if __name__ == "__main__":

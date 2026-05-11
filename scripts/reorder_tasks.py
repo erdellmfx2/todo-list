@@ -7,13 +7,8 @@ Ensure tasks.json is consistently ordered:
 """
 
 import json
-import subprocess
-from datetime import datetime
-from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
-TASKS_FILE = ROOT / "tasks.json"
-SYNC_SCRIPT = ROOT / "scripts" / "sync_repo.sh"
+from task_lib import current_time, load_data, refresh_repo_from_remote, repo_lock, save_data
 
 PRIORITY_ORDER = {"Critical": 0, "High": 1, "Medium": 2, "Low": 3}
 
@@ -34,37 +29,25 @@ def task_sort_key(task):
 
 
 def main():
-    if not TASKS_FILE.exists():
-        raise SystemExit(f"Missing {TASKS_FILE}")
+    with repo_lock():
+        refresh_repo_from_remote()
+        data = load_data()
+        tasks = data.setdefault("tasks", {})
+        active = sorted(tasks.get("active", []), key=task_sort_key)
+        completed = sorted(tasks.get("completed", []), key=task_sort_key)
 
-    with open(TASKS_FILE, "r", encoding="utf-8") as f:
-        data = json.load(f)
+        ordered = {
+            "version": data.get("version", "1.0"),
+            "description": data.get("description", "Task list with active tasks first and completed tasks below"),
+            "updated_at": current_time().isoformat(),
+            "tasks": {
+                "active": active,
+                "completed": completed,
+            },
+        }
 
-    tasks = data.setdefault("tasks", {})
-    active = tasks.get("active", [])
-    completed = tasks.get("completed", [])
-
-    active = sorted(active, key=task_sort_key)
-    completed = sorted(completed, key=task_sort_key)
-
-    ordered = {
-        "version": data.get("version", "1.0"),
-        "description": data.get("description", "Task list with active tasks first and completed tasks below"),
-        "updated_at": datetime.now().isoformat(),
-        "tasks": {
-            "active": active,
-            "completed": completed,
-        },
-    }
-
-    with open(TASKS_FILE, "w", encoding="utf-8") as f:
-        json.dump(ordered, f, indent=2, ensure_ascii=False)
-        f.write("\n")
-
-    if SYNC_SCRIPT.exists():
-        subprocess.run([str(SYNC_SCRIPT)], cwd=ROOT, check=True)
-
-    print(f"Reordered tasks.json | active={len(active)} completed={len(completed)}")
+        save_data(ordered)
+        print(f"Reordered tasks.json | active={len(active)} completed={len(completed)}")
 
 
 if __name__ == "__main__":

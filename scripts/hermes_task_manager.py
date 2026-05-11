@@ -14,6 +14,8 @@ from task_lib import (
     mark_complete,
     move_task,
     new_task,
+    refresh_repo_from_remote,
+    repo_lock,
     reopen_task,
     resolve_task,
     save_data,
@@ -264,7 +266,9 @@ def build_parser():
 def main():
     parser = build_parser()
     args = parser.parse_args()
-    args.func(args)
+    with repo_lock():
+        refresh_repo_from_remote()
+        args.func(args)
 
 
 if __name__ == "__main__":

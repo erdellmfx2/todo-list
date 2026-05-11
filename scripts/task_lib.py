@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
+import fcntl
 import json
 import secrets
 import subprocess
+from contextlib import contextmanager
 from datetime import datetime
 from difflib import SequenceMatcher
 from pathlib import Path
@@ -10,12 +12,40 @@ from zoneinfo import ZoneInfo
 ROOT = Path(__file__).resolve().parents[1]
 TASKS_FILE = ROOT / "tasks.json"
 SYNC_SCRIPT = ROOT / "scripts" / "sync_repo.sh"
+LOCK_FILE = ROOT / ".git" / "hermes-task.lock"
 TZ_NAME = "America/New_York"
 LOCAL_TZ = ZoneInfo(TZ_NAME)
 
 
 def current_time():
     return datetime.now(LOCAL_TZ)
+
+
+@contextmanager
+def repo_lock():
+    LOCK_FILE.parent.mkdir(parents=True, exist_ok=True)
+    with open(LOCK_FILE, "w", encoding="utf-8") as handle:
+        fcntl.flock(handle.fileno(), fcntl.LOCK_EX)
+        try:
+            yield
+        finally:
+            fcntl.flock(handle.fileno(), fcntl.LOCK_UN)
+
+
+def refresh_repo_from_remote():
+    subprocess.run(["git", "fetch", "origin", "main"], cwd=ROOT, check=True)
+    ahead_behind = subprocess.check_output(
+        ["git", "rev-list", "--left-right", "--count", "HEAD...origin/main"],
+        cwd=ROOT,
+        text=True,
+    ).strip()
+    ahead_count, behind_count = [int(part) for part in ahead_behind.split()]
+    if ahead_count == 0 and behind_count > 0:
+        subprocess.run(["git", "reset", "--hard", "origin/main"], cwd=ROOT, check=True)
+    elif ahead_count > 0 and behind_count > 0:
+        raise RuntimeError(
+            "Local repo has diverged from origin/main. Resolve the divergence before mutating tasks."
+        )
 
 
 def normalize_title(value):
