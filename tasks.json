@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-11T15:05:25.461174-04:00",
+  "updated_at": "2026-05-11T15:05:38.194754-04:00",
   "tasks": {
     "active": [
       {
@@ -332,9 +332,9 @@
         "id": "eb7a4d14",
         "title": "update TSC syllabus",
         "status": "Active",
-        "date_due": "2026-05-11T14:00:00-04:00",
+        "date_due": "2026-05-12",
         "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
+        "task_metadata": "Created via Hermes task manager.\n[2026-05-11 15:05:38] Due date moved to tomorrow via Hermes task manager.",
         "history": [
           {
             "action": "create",
@@ -347,6 +347,12 @@
             "by": "hermes",
             "at": "2026-05-11T10:16:41.402725-04:00",
             "notes": "Original due text: today at 2 pm"
+          },
+          {
+            "action": "reschedule",
+            "by": "hermes",
+            "at": "2026-05-11T15:05:38.194741-04:00",
+            "notes": "Due date moved to tomorrow via Hermes task manager."
           }
         ]
       }
