@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-11T10:16:41.402728-04:00",
+  "updated_at": "2026-05-11T13:23:57.112296-04:00",
   "tasks": {
     "active": [
       {
@@ -48,22 +48,6 @@
             "action": "create",
             "by": "erdell",
             "at": "2026-05-10T22:17:00-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          }
-        ]
-      },
-      {
-        "id": "73411053",
-        "title": "review email about proposal from Dr. Bailey",
-        "status": "Active",
-        "priority": "Critical",
-        "date_due": "2026-05-11T09:30:00-04:00",
-        "task_metadata": "Created from /nt user request on 2026-05-10. Due tomorrow at 9:30 AM. Priority critical.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-05-10T14:36:00-04:00",
             "notes": "Created from user instruction via /nt shortcut"
           }
         ]
@@ -1720,6 +1704,30 @@
         ],
         "completed_at": "2026-05-11T01:33:34.159114-04:00",
         "date_completed": "2026-05-11T01:33:34.159114-04:00"
+      },
+      {
+        "id": "73411053",
+        "title": "review email about proposal from Dr. Bailey",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-05-11T09:30:00-04:00",
+        "task_metadata": "Created from /nt user request on 2026-05-10. Due tomorrow at 9:30 AM. Priority critical.\n[2026-05-11 13:23:57] Marked complete per user request on 2026-05-11",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-05-10T14:36:00-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "complete",
+            "by": "helper-script",
+            "at": "2026-05-11T13:23:57.112285-04:00",
+            "notes": "Marked complete per user request on 2026-05-11"
+          }
+        ],
+        "completed_at": "2026-05-11T13:23:57.112212-04:00",
+        "date_completed": "2026-05-11T13:23:57.112212-04:00"
       }
     ]
   }
