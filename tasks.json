@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-10T22:17:00-04:00",
+  "updated_at": "2026-05-10T23:52:00-04:00",
   "tasks": {
     "active": [
       {
@@ -16,22 +16,6 @@
             "action": "create",
             "by": "erdell",
             "at": "2026-05-10T22:17:00-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          }
-        ]
-      },
-      {
-        "id": "43417126",
-        "title": "send the children to bed",
-        "status": "Active",
-        "priority": "Medium",
-        "date_due": "2026-05-10T21:00:00-04:00",
-        "task_metadata": "Created from /nt user request on 2026-05-10. Due today at 9:00 PM. Priority medium.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-05-10T20:21:00-04:00",
             "notes": "Created from user instruction via /nt shortcut"
           }
         ]
@@ -145,13 +129,6 @@
             "notes": "Created from user instruction"
           }
         ]
-      },
-      {
-        "title": "create rules for math competition",
-        "status": "Active",
-        "date_due": "2026-05-06T18:00:00",
-        "priority": "High",
-        "task_metadata": "Created from /nt user request on 2026-04-24.\n[2026-05-02 13:07:43] [2026-05-02 13:04] \ud83d\udcc5 Due date moved to Wednesday by user request."
       },
       {
         "title": "Finish the CITI program",
@@ -326,13 +303,6 @@
         "task_metadata": "Created from /nt user request on 2026-04-30. User specified due second week in May and HIGH priority."
       },
       {
-        "title": "pack bags for trip to Cali",
-        "status": "Active",
-        "date_due": "2026-05-03T16:00",
-        "priority": "High",
-        "task_metadata": "Created from /nt user request on 2026-05-02. User specified tomorrow at 4:00 PM and HIGH priority."
-      },
-      {
         "id": "e24f9c71",
         "title": "learn how to use hyperframes",
         "status": "Active",
@@ -369,11 +339,13 @@
             "notes": "Original due text: Tomorrow at 12 noon"
           }
         ]
-      },
+      }
+    ],
+    "completed": [
       {
         "id": "9fcf8e3d",
         "title": "do writing and figuring",
-        "status": "Active",
+        "status": "Complete",
         "date_due": "2026-05-10T21:30:00-04:00",
         "priority": "Medium",
         "task_metadata": "Created via Hermes task manager.",
@@ -389,11 +361,71 @@
             "by": "hermes",
             "at": "2026-05-10T20:22:46.438483-04:00",
             "notes": "Original due text: Today at 9:30 pm"
+          },
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-05-10T23:52:00-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ],
+        "completed_at": "2026-05-10T23:52:00-04:00"
+      },
+      {
+        "title": "pack bags for trip to Cali",
+        "status": "Complete",
+        "date_due": "2026-05-03T16:00",
+        "priority": "High",
+        "task_metadata": "Created from /nt user request on 2026-05-02. User specified tomorrow at 4:00 PM and HIGH priority.",
+        "completed_at": "2026-05-10T23:52:00-04:00",
+        "history": [
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-05-10T23:52:00-04:00",
+            "notes": "Marked done per user request in chat"
           }
         ]
-      }
-    ],
-    "completed": [
+      },
+      {
+        "title": "create rules for math competition",
+        "status": "Complete",
+        "date_due": "2026-05-06T18:00:00",
+        "priority": "High",
+        "task_metadata": "Created from /nt user request on 2026-04-24.\n[2026-05-02 13:07:43] [2026-05-02 13:04] \ud83d\udcc5 Due date moved to Wednesday by user request.",
+        "completed_at": "2026-05-10T23:52:00-04:00",
+        "history": [
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-05-10T23:52:00-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ]
+      },
+      {
+        "id": "43417126",
+        "title": "send the children to bed",
+        "status": "Complete",
+        "priority": "Medium",
+        "date_due": "2026-05-10T21:00:00-04:00",
+        "task_metadata": "Created from /nt user request on 2026-05-10. Due today at 9:00 PM. Priority medium.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-05-10T20:21:00-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-05-10T23:52:00-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ],
+        "completed_at": "2026-05-10T23:52:00-04:00"
+      },
       {
         "id": "46224670",
         "title": "Enter MLL Hour for Apr",
