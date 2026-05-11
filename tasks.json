@@ -1,9 +1,25 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-11T00:51:00-04:00",
+  "updated_at": "2026-05-11T00:52:00-04:00",
   "tasks": {
     "active": [
+      {
+        "id": "74853771",
+        "title": "set up friday study and planning sessions for the summer",
+        "status": "Active",
+        "priority": "Critical",
+        "date_due": "2026-05-12T15:00:00-04:00",
+        "task_metadata": "Created from /nt user request on 2026-05-11. Due tomorrow at 3:00 PM. Priority critical.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-05-11T00:52:00-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          }
+        ]
+      },
       {
         "id": "90312523",
         "title": "course homework assignments: touch different areas of life, social, programming, storytelling, problem solving, data gathering and analysis; include bug checking code; also learn about GitHub",
