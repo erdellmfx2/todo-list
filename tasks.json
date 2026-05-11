@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-11T13:23:57.112296-04:00",
+  "updated_at": "2026-05-11T13:24:04.155802-04:00",
   "tasks": {
     "active": [
       {
@@ -48,22 +48,6 @@
             "action": "create",
             "by": "erdell",
             "at": "2026-05-10T22:17:00-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          }
-        ]
-      },
-      {
-        "id": "46170084",
-        "title": "attach Hermes to GitHub",
-        "status": "Active",
-        "priority": "Medium",
-        "date_due": "2026-05-11T10:00:00-04:00",
-        "task_metadata": "Created from /nt user request on 2026-05-10. Due tomorrow at 10:00 AM.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-05-10T13:39:00-04:00",
             "notes": "Created from user instruction via /nt shortcut"
           }
         ]
@@ -1728,6 +1712,30 @@
         ],
         "completed_at": "2026-05-11T13:23:57.112212-04:00",
         "date_completed": "2026-05-11T13:23:57.112212-04:00"
+      },
+      {
+        "id": "46170084",
+        "title": "attach Hermes to GitHub",
+        "status": "Complete",
+        "priority": "Medium",
+        "date_due": "2026-05-11T10:00:00-04:00",
+        "task_metadata": "Created from /nt user request on 2026-05-10. Due tomorrow at 10:00 AM.\n[2026-05-11 13:24:04] Marked complete per user request on 2026-05-11",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-05-10T13:39:00-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "complete",
+            "by": "helper-script",
+            "at": "2026-05-11T13:24:04.155789-04:00",
+            "notes": "Marked complete per user request on 2026-05-11"
+          }
+        ],
+        "completed_at": "2026-05-11T13:24:04.155712-04:00",
+        "date_completed": "2026-05-11T13:24:04.155712-04:00"
       }
     ]
   }
