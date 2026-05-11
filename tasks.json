@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-11T07:10:51.938070-04:00",
+  "updated_at": "2026-05-11T07:13:03.633909-04:00",
   "tasks": {
     "active": [
       {
@@ -418,6 +418,28 @@
             "action": "create_request",
             "by": "hermes",
             "at": "2026-05-11T07:10:51.938063-04:00",
+            "notes": "Original due text: Today at 2 pm"
+          }
+        ]
+      },
+      {
+        "id": "47bdfd8b",
+        "title": "print summer schedule for door",
+        "status": "Active",
+        "date_due": "2026-05-11T14:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-11T07:13:03.633897-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-11T07:13:03.633905-04:00",
             "notes": "Original due text: Today at 2 pm"
           }
         ]
