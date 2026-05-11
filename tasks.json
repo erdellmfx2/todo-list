@@ -1,9 +1,25 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-10T20:22:46.438490-04:00",
+  "updated_at": "2026-05-10T22:17:00-04:00",
   "tasks": {
     "active": [
+      {
+        "id": "89391005",
+        "title": "add lockdown browser to tests, put students into groups, and post assignment one to the orientation module",
+        "status": "Active",
+        "priority": "Critical",
+        "date_due": "2026-05-11T10:00:00-04:00",
+        "task_metadata": "Created from /nt user request on 2026-05-10. Due tomorrow at 10:00 AM. Priority critical.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-05-10T22:17:00-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          }
+        ]
+      },
       {
         "id": "43417126",
         "title": "send the children to bed",
