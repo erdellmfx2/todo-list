@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-11T01:33:18.281396-04:00",
+  "updated_at": "2026-05-11T01:33:34.159167-04:00",
   "tasks": {
     "active": [
       {
@@ -397,28 +397,6 @@
             "by": "hermes",
             "at": "2026-05-11T01:03:12.146672-04:00",
             "notes": "Original due text: Today at 5 pm"
-          }
-        ]
-      },
-      {
-        "id": "fd561259",
-        "title": "hermes workflow smoke test",
-        "status": "Active",
-        "date_due": "2026-05-12T11:00:00-04:00",
-        "priority": "Low",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-05-11T01:33:18.281357-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-11T01:33:18.281388-04:00",
-            "notes": "Original due text: tomorrow at 11:00 am"
           }
         ]
       }
@@ -1646,6 +1624,36 @@
         "date_due": "2026-05-01T11:00",
         "priority": "High",
         "task_metadata": "Created from /nt user request on 2026-05-01. High priority.\n[2026-05-02 12:55:14] Marked complete by user request on 2026-05-02."
+      },
+      {
+        "id": "fd561259",
+        "title": "hermes workflow smoke test",
+        "status": "Complete",
+        "date_due": "2026-05-12T11:00:00-04:00",
+        "priority": "Low",
+        "task_metadata": "Created via Hermes task manager.\n[2026-05-11 01:33:34] Completed immediately after managed workflow smoke test.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-11T01:33:18.281357-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-11T01:33:18.281388-04:00",
+            "notes": "Original due text: tomorrow at 11:00 am"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-05-11T01:33:34.159160-04:00",
+            "notes": "Completed immediately after managed workflow smoke test."
+          }
+        ],
+        "completed_at": "2026-05-11T01:33:34.159114-04:00",
+        "date_completed": "2026-05-11T01:33:34.159114-04:00"
       }
     ]
   }
