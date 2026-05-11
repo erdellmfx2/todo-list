@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-11T13:24:04.155802-04:00",
+  "updated_at": "2026-05-11T13:24:11.163970-04:00",
   "tasks": {
     "active": [
       {
@@ -48,22 +48,6 @@
             "action": "create",
             "by": "erdell",
             "at": "2026-05-10T22:17:00-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          }
-        ]
-      },
-      {
-        "id": "86221301",
-        "title": "create video recording for first PowerPoint for stats class",
-        "status": "Active",
-        "priority": "Critical",
-        "date_due": "2026-05-10T18:00:00-04:00",
-        "task_metadata": "Created from /nt user request on 2026-05-10. Due today at 6:00 PM. Priority critical.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-05-10T13:37:00-04:00",
             "notes": "Created from user instruction via /nt shortcut"
           }
         ]
@@ -1736,6 +1720,30 @@
         ],
         "completed_at": "2026-05-11T13:24:04.155712-04:00",
         "date_completed": "2026-05-11T13:24:04.155712-04:00"
+      },
+      {
+        "id": "86221301",
+        "title": "create video recording for first PowerPoint for stats class",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-05-10T18:00:00-04:00",
+        "task_metadata": "Created from /nt user request on 2026-05-10. Due today at 6:00 PM. Priority critical.\n[2026-05-11 13:24:11] Marked complete per user request on 2026-05-11",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-05-10T13:37:00-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "complete",
+            "by": "helper-script",
+            "at": "2026-05-11T13:24:11.163957-04:00",
+            "notes": "Marked complete per user request on 2026-05-11"
+          }
+        ],
+        "completed_at": "2026-05-11T13:24:11.163879-04:00",
+        "date_completed": "2026-05-11T13:24:11.163879-04:00"
       }
     ]
   }
