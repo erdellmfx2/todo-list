@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-11T15:05:38.194754-04:00",
+  "updated_at": "2026-05-13T07:08:12.114100-04:00",
   "tasks": {
     "active": [
       {
@@ -353,6 +353,28 @@
             "by": "hermes",
             "at": "2026-05-11T15:05:38.194741-04:00",
             "notes": "Due date moved to tomorrow via Hermes task manager."
+          }
+        ]
+      },
+      {
+        "id": "1f8031e7",
+        "title": "update codex CLI on Linux to make images each night",
+        "status": "Active",
+        "date_due": "2026-05-13T13:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-13T07:08:12.114078-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-13T07:08:12.114093-04:00",
+            "notes": "Original due text: Today at 1 pm"
           }
         ]
       }
