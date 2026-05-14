@@ -5,6 +5,58 @@
   "tasks": {
     "active": [
       {
+        "id": "18878715",
+        "title": "find someone to cut the grass",
+        "status": "Active",
+        "priority": "Critical",
+        "date_due": "2026-05-04",
+        "task_metadata": "Created from /nt user request on 2026-04-26.\n[2026-05-02 13:04:24] [2026-05-02 13:02] 📅 Due date moved to Monday by user request."
+      },
+      {
+        "id": "59555096",
+        "title": "send in receipts from trip",
+        "status": "Active",
+        "priority": "Critical",
+        "date_due": "2026-05-10T17:00:00-04:00",
+        "task_metadata": "Created from /nt user request on 2026-05-10. Due today at 5:00 PM. Priority critical.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-05-10T13:37:00-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          }
+        ]
+      },
+      {
+        "id": "eb7a4d14",
+        "title": "update TSC syllabus",
+        "status": "Active",
+        "date_due": "2026-05-12",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-05-11 15:05:38] Due date moved to tomorrow via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-11T10:16:41.402718-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-11T10:16:41.402725-04:00",
+            "notes": "Original due text: today at 2 pm"
+          },
+          {
+            "action": "reschedule",
+            "by": "hermes",
+            "at": "2026-05-11T15:05:38.194741-04:00",
+            "notes": "Due date moved to tomorrow via Hermes task manager."
+          }
+        ]
+      },
+      {
         "id": "74853771",
         "title": "set up friday study and planning sessions for the summer",
         "status": "Active",
@@ -17,6 +69,28 @@
             "by": "erdell",
             "at": "2026-05-11T00:52:00-04:00",
             "notes": "Created from user instruction via /nt shortcut"
+          }
+        ]
+      },
+      {
+        "id": "1f8031e7",
+        "title": "update codex CLI on Linux to make images each night",
+        "status": "Active",
+        "date_due": "2026-05-13T13:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-13T07:08:12.114078-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-13T07:08:12.114093-04:00",
+            "notes": "Original due text: Today at 1 pm"
           }
         ]
       },
@@ -37,28 +111,48 @@
         ]
       },
       {
-        "id": "59555096",
-        "title": "send in receipts from trip",
+        "id": "7c0ab961",
+        "title": "complete CEDAR entries for student",
         "status": "Active",
+        "date_due": "2026-05-15T13:00:00-04:00",
         "priority": "Critical",
-        "date_due": "2026-05-10T17:00:00-04:00",
-        "task_metadata": "Created from /nt user request on 2026-05-10. Due today at 5:00 PM. Priority critical.",
+        "task_metadata": "Created via Hermes task manager.",
         "history": [
           {
             "action": "create",
-            "by": "erdell",
-            "at": "2026-05-10T13:37:00-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
+            "by": "hermes",
+            "at": "2026-05-14T00:00:41.065159-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-14T00:00:41.065171-04:00",
+            "notes": "Original due text: Tomorrow at 1 pm"
           }
         ]
       },
       {
-        "id": "18878715",
-        "title": "find someone to cut the grass",
+        "id": "bb544522",
+        "title": "have codex create all the announcement for each course",
         "status": "Active",
+        "date_due": "2026-05-15T17:00:00-04:00",
         "priority": "Critical",
-        "date_due": "2026-05-04",
-        "task_metadata": "Created from /nt user request on 2026-04-26.\n[2026-05-02 13:04:24] [2026-05-02 13:02] 📅 Due date moved to Monday by user request."
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-14T00:01:24.056157-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-14T00:01:24.056170-04:00",
+            "notes": "Original due text: tomorrow at 5 pm"
+          }
+        ]
       },
       {
         "title": "Do assessment write ups DLAC",
@@ -91,177 +185,6 @@
         ]
       },
       {
-        "title": "Finish the CITI program",
-        "status": "Active",
-        "date_due": "2026-05-11",
-        "priority": "High",
-        "task_metadata": "Added from user request\n[2026-03-23 11:35] ⏰ Added reminder: finish the CITI program at the start of May (2026-05-01), HIGH priority.\n[2026-05-02 13:11:32] [2026-05-02 13:05] 📅 Due date moved to next Monday by user request."
-      },
-      {
-        "title": "write a paper on doing research with the help of clawbot",
-        "status": "Active",
-        "date_due": "2026-05-15",
-        "priority": "High",
-        "task_metadata": "Added via chat request."
-      },
-      {
-        "title": "change the water filter",
-        "status": "Active",
-        "date_due": "2026-07-01",
-        "priority": "High",
-        "task_metadata": "Added from user request\n[2026-03-20 11:41] 🔄 Added recurring task: every 6 months, first due 2026-07-01, total 8 occurrences, HIGH priority.\n[2026-03-22 15:19] 📅 Date confirmed/updated to 2026-07-01.",
-        "recurrence": {
-          "enabled": true,
-          "type": "monthly",
-          "interval": 6,
-          "first_due": "2026-07-01",
-          "next_due": "2027-01-01T00:00",
-          "remaining_occurrences": 7,
-          "total_occurrences": 8,
-          "completed_occurrences": 0,
-          "skip_weekends": false,
-          "day_of_month": 1
-        }
-      },
-      {
-        "title": "check out life span podcast. lifespan.com",
-        "status": "Active",
-        "date_due": "2026-07-01T09:00:00",
-        "priority": "High",
-        "task_metadata": "Created from /nt user request on 2026-04-24."
-      },
-      {
-        "title": "Give data about the AI Primer mini course for the Blue Print paper",
-        "status": "Active",
-        "date_due": "none",
-        "priority": "High",
-        "task_metadata": "Reminder created from paper-planning chat on 2026-04-20."
-      },
-      {
-        "id": "af958596",
-        "title": "connect litebot to social media",
-        "status": "Active",
-        "priority": "Medium",
-        "date_due": "2026-05-03T15:00:00",
-        "task_metadata": "Added from /nt user request on 2026-04-16. Priority medium.\n[2026-05-02 13:13:11] [2026-05-02 13:06] 📅 Due date moved to tomorrow at 3:00 PM by user request.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-16T19:15:12.863680-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          },
-          {
-            "action": "reschedule",
-            "by": "erdell",
-            "at": "2026-04-19T21:53:03.306664-04:00",
-            "notes": "Moved due date to tomorrow per user request"
-          }
-        ]
-      },
-      {
-        "title": "do the step by step analysis in nvivo",
-        "status": "Active",
-        "date_due": "2026-05-06T20:00:00",
-        "priority": "Medium",
-        "task_metadata": "Created from /nt user request on 2026-04-20. Notes: carry out the Blue Print paper step-by-step analysis in NVivo.\n[2026-05-02 13:24:11] [2026-05-02 13:08] 📅 Due date moved to next Wednesday by user request."
-      },
-      {
-        "title": "Power wash the house",
-        "status": "Active",
-        "date_due": "2026-04-26T15:00:00",
-        "priority": "Medium",
-        "task_metadata": "Added from Erdell list\n[2026-03-19 16:53:54] 🔄 Recurrence added: every 3 months (5 total occurrences)\n[2026-03-20 11:36] 🔄 Recurrence updated: every 6 months\n[2026-03-22 00:29] 📅 Rescheduled to next week Saturday (2026-04-04).\n[2026-04-06 11:01] 📅 Due date moved to Saturday, 2026-04-11 at 3:00 PM by user request.\n[2026-04-14 11:51] 📅 Due date moved to next Saturday (2026-04-18) by user request.\n[2026-04-19 22:55:19] [2026-04-19 22:54] 📅 Due date moved to next Sunday by user request.",
-        "recurrence": {
-          "enabled": true,
-          "type": "monthly",
-          "interval": 6,
-          "first_due": "2026-03-22",
-          "next_due": "2026-10-04T00:00",
-          "remaining_occurrences": 4,
-          "total_occurrences": 5,
-          "completed_occurrences": 0,
-          "skip_weekends": false,
-          "day_of_month": 22
-        }
-      },
-      {
-        "id": "ddcf465a",
-        "title": "create a Saturday course to use Antigravity",
-        "status": "Active",
-        "priority": "Medium",
-        "date_due": "2026-05-06T16:00:00",
-        "task_metadata": "Added from /nt user request on 2026-04-15. Priority medium.\n[2026-05-02 13:24:11] [2026-05-02 13:08] 📅 Due date moved to next Wednesday by user request.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-15T07:27:04.551464-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          },
-          {
-            "action": "reschedule",
-            "by": "erdell",
-            "at": "2026-04-19T21:48:33.047202-04:00",
-            "notes": "Moved due date to next Sunday per user request"
-          }
-        ]
-      },
-      {
-        "title": "research Google research agent",
-        "status": "Active",
-        "date_due": "2026-05-06T17:00:00",
-        "priority": "Medium",
-        "task_metadata": "Created from /nt user request on 2026-04-23.\n[2026-05-02 13:24:11] [2026-05-02 13:08] 📅 Due date moved to next Wednesday by user request."
-      },
-      {
-        "title": "update deepseek to use V4!",
-        "status": "Active",
-        "date_due": "2026-06-01T09:00:00",
-        "priority": "Medium",
-        "task_metadata": "Created from /nt user request on 2026-04-24."
-      },
-      {
-        "title": "change the air filter",
-        "status": "Continuing",
-        "date_due": "2026-08-01T17:00",
-        "priority": "Medium",
-        "task_metadata": "Added from user request\n[2026-03-20 11:40] 🔄 Added recurring task: every 4 months; first due 2026-04-01 at 5:00 PM; MEDIUM priority.\n[2026-03-20 11:42] 🔁 Updated recurrence total to 10 occurrences.\n[2026-03-22 15:20] 📅 Date updated to 2026-04-01.\n[2026-04-05 18:59] ✅ Marked done by user confirmation.\n[2026-04-06 18:36] 🔁 Reinstated as recurring active task; status set to Continuing and due date rolled forward.",
-        "recurrence": {
-          "enabled": true,
-          "type": "monthly",
-          "interval": 4,
-          "first_due": "2026-04-01",
-          "next_due": "2026-12-01T17:00:00",
-          "remaining_occurrences": 9,
-          "total_occurrences": 10,
-          "completed_occurrences": 1,
-          "skip_weekends": false,
-          "day_of_month": 1
-        }
-      },
-      {
-        "title": "watch the new Godzilla TV show",
-        "status": "Active",
-        "date_due": "2026-05-15T19:30:00-04:00",
-        "priority": "Low",
-        "task_metadata": "Added from user request\n[2026-03-22 00:28] 📺 Added reminder: watch the new Godzilla TV show next week Friday at 7:30 PM, LOW priority. Notes: It is on Apple TV.\n[2026-04-06 11:01] 📅 Due date moved to Friday, 2026-04-10 at 7:30 PM by user request.\n[2026-04-14 11:52] 📅 Due date moved to this Friday (2026-04-17) by user request.\n[2026-05-02 13:24:11] [2026-05-02 13:08] 📅 Due date moved to next Wednesday by user request.\n[2026-05-10T23:53:00-04:00] 📅 Due date moved to this Friday by user request.",
-        "history": [
-          {
-            "action": "reschedule",
-            "by": "erdell",
-            "at": "2026-04-19T21:45:17.171258-04:00",
-            "notes": "Moved due date to this Friday per user request"
-          },
-          {
-            "action": "reschedule",
-            "by": "erdell",
-            "at": "2026-05-10T23:53:00-04:00",
-            "notes": "Moved due date from 2026-05-06T19:30:00 to this Friday per user request"
-          }
-        ]
-      },
-      {
         "title": "update syllabus for summer TSC course",
         "status": "Active",
         "date_due": "2026-05-08",
@@ -281,6 +204,35 @@
             "by": "erdell",
             "at": "2026-05-09T17:46:00-04:00",
             "notes": "Created from user instruction via /nt shortcut"
+          }
+        ]
+      },
+      {
+        "title": "Finish the CITI program",
+        "status": "Active",
+        "date_due": "2026-05-11",
+        "priority": "High",
+        "task_metadata": "Added from user request\n[2026-03-23 11:35] ⏰ Added reminder: finish the CITI program at the start of May (2026-05-01), HIGH priority.\n[2026-05-02 13:11:32] [2026-05-02 13:05] 📅 Due date moved to next Monday by user request."
+      },
+      {
+        "id": "f6c4cf4a",
+        "title": "go to sleep",
+        "status": "Active",
+        "date_due": "2026-05-11T10:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-11T01:24:36.844814-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-11T01:24:36.844823-04:00",
+            "notes": "Original due text: today at 10 am"
           }
         ]
       },
@@ -329,184 +281,872 @@
         ]
       },
       {
-        "id": "eb7a4d14",
-        "title": "update TSC syllabus",
+        "title": "write a paper on doing research with the help of clawbot",
         "status": "Active",
-        "date_due": "2026-05-12",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.\n[2026-05-11 15:05:38] Due date moved to tomorrow via Hermes task manager.",
+        "date_due": "2026-05-15",
+        "priority": "High",
+        "task_metadata": "Added via chat request."
+      },
+      {
+        "title": "change the water filter",
+        "status": "Active",
+        "date_due": "2026-07-01",
+        "priority": "High",
+        "task_metadata": "Added from user request\n[2026-03-20 11:41] 🔄 Added recurring task: every 6 months, first due 2026-07-01, total 8 occurrences, HIGH priority.\n[2026-03-22 15:19] 📅 Date confirmed/updated to 2026-07-01.",
+        "recurrence": {
+          "enabled": true,
+          "type": "monthly",
+          "interval": 6,
+          "first_due": "2026-07-01",
+          "next_due": "2027-01-01T00:00",
+          "remaining_occurrences": 7,
+          "total_occurrences": 8,
+          "completed_occurrences": 0,
+          "skip_weekends": false,
+          "day_of_month": 1
+        }
+      },
+      {
+        "title": "check out life span podcast. lifespan.com",
+        "status": "Active",
+        "date_due": "2026-07-01T09:00:00",
+        "priority": "High",
+        "task_metadata": "Created from /nt user request on 2026-04-24."
+      },
+      {
+        "title": "Give data about the AI Primer mini course for the Blue Print paper",
+        "status": "Active",
+        "date_due": "none",
+        "priority": "High",
+        "task_metadata": "Reminder created from paper-planning chat on 2026-04-20."
+      },
+      {
+        "title": "Power wash the house",
+        "status": "Active",
+        "date_due": "2026-04-26T15:00:00",
+        "priority": "Medium",
+        "task_metadata": "Added from Erdell list\n[2026-03-19 16:53:54] 🔄 Recurrence added: every 3 months (5 total occurrences)\n[2026-03-20 11:36] 🔄 Recurrence updated: every 6 months\n[2026-03-22 00:29] 📅 Rescheduled to next week Saturday (2026-04-04).\n[2026-04-06 11:01] 📅 Due date moved to Saturday, 2026-04-11 at 3:00 PM by user request.\n[2026-04-14 11:51] 📅 Due date moved to next Saturday (2026-04-18) by user request.\n[2026-04-19 22:55:19] [2026-04-19 22:54] 📅 Due date moved to next Sunday by user request.",
+        "recurrence": {
+          "enabled": true,
+          "type": "monthly",
+          "interval": 6,
+          "first_due": "2026-03-22",
+          "next_due": "2026-10-04T00:00",
+          "remaining_occurrences": 4,
+          "total_occurrences": 5,
+          "completed_occurrences": 0,
+          "skip_weekends": false,
+          "day_of_month": 22
+        }
+      },
+      {
+        "id": "af958596",
+        "title": "connect litebot to social media",
+        "status": "Active",
+        "priority": "Medium",
+        "date_due": "2026-05-03T15:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-16. Priority medium.\n[2026-05-02 13:13:11] [2026-05-02 13:06] 📅 Due date moved to tomorrow at 3:00 PM by user request.",
         "history": [
           {
             "action": "create",
-            "by": "hermes",
-            "at": "2026-05-11T10:16:41.402718-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-11T10:16:41.402725-04:00",
-            "notes": "Original due text: today at 2 pm"
+            "by": "erdell",
+            "at": "2026-04-16T19:15:12.863680-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
           },
           {
             "action": "reschedule",
-            "by": "hermes",
-            "at": "2026-05-11T15:05:38.194741-04:00",
-            "notes": "Due date moved to tomorrow via Hermes task manager."
+            "by": "erdell",
+            "at": "2026-04-19T21:53:03.306664-04:00",
+            "notes": "Moved due date to tomorrow per user request"
           }
         ]
       },
       {
-        "id": "1f8031e7",
-        "title": "update codex CLI on Linux to make images each night",
+        "id": "ddcf465a",
+        "title": "create a Saturday course to use Antigravity",
         "status": "Active",
-        "date_due": "2026-05-13T13:00:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
+        "priority": "Medium",
+        "date_due": "2026-05-06T16:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-15. Priority medium.\n[2026-05-02 13:24:11] [2026-05-02 13:08] 📅 Due date moved to next Wednesday by user request.",
         "history": [
           {
             "action": "create",
-            "by": "hermes",
-            "at": "2026-05-13T07:08:12.114078-04:00",
-            "notes": "Created via Hermes task workflow"
+            "by": "erdell",
+            "at": "2026-04-15T07:27:04.551464-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
           },
           {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-13T07:08:12.114093-04:00",
-            "notes": "Original due text: Today at 1 pm"
+            "action": "reschedule",
+            "by": "erdell",
+            "at": "2026-04-19T21:48:33.047202-04:00",
+            "notes": "Moved due date to next Sunday per user request"
           }
         ]
       },
       {
-        "id": "7c0ab961",
-        "title": "complete CEDAR entries for student",
+        "title": "research Google research agent",
         "status": "Active",
-        "date_due": "2026-05-15T13:00:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-05-14T00:00:41.065159-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-14T00:00:41.065171-04:00",
-            "notes": "Original due text: Tomorrow at 1 pm"
-          }
-        ]
+        "date_due": "2026-05-06T17:00:00",
+        "priority": "Medium",
+        "task_metadata": "Created from /nt user request on 2026-04-23.\n[2026-05-02 13:24:11] [2026-05-02 13:08] 📅 Due date moved to next Wednesday by user request."
       },
       {
-        "id": "bb544522",
-        "title": "have codex create all the announcement for each course",
+        "title": "do the step by step analysis in nvivo",
         "status": "Active",
-        "date_due": "2026-05-15T17:00:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
+        "date_due": "2026-05-06T20:00:00",
+        "priority": "Medium",
+        "task_metadata": "Created from /nt user request on 2026-04-20. Notes: carry out the Blue Print paper step-by-step analysis in NVivo.\n[2026-05-02 13:24:11] [2026-05-02 13:08] 📅 Due date moved to next Wednesday by user request."
+      },
+      {
+        "title": "update deepseek to use V4!",
+        "status": "Active",
+        "date_due": "2026-06-01T09:00:00",
+        "priority": "Medium",
+        "task_metadata": "Created from /nt user request on 2026-04-24."
+      },
+      {
+        "title": "change the air filter",
+        "status": "Continuing",
+        "date_due": "2026-08-01T17:00",
+        "priority": "Medium",
+        "task_metadata": "Added from user request\n[2026-03-20 11:40] 🔄 Added recurring task: every 4 months; first due 2026-04-01 at 5:00 PM; MEDIUM priority.\n[2026-03-20 11:42] 🔁 Updated recurrence total to 10 occurrences.\n[2026-03-22 15:20] 📅 Date updated to 2026-04-01.\n[2026-04-05 18:59] ✅ Marked done by user confirmation.\n[2026-04-06 18:36] 🔁 Reinstated as recurring active task; status set to Continuing and due date rolled forward.",
+        "recurrence": {
+          "enabled": true,
+          "type": "monthly",
+          "interval": 4,
+          "first_due": "2026-04-01",
+          "next_due": "2026-12-01T17:00:00",
+          "remaining_occurrences": 9,
+          "total_occurrences": 10,
+          "completed_occurrences": 1,
+          "skip_weekends": false,
+          "day_of_month": 1
+        }
+      },
+      {
+        "title": "watch the new Godzilla TV show",
+        "status": "Active",
+        "date_due": "2026-05-15T19:30:00-04:00",
+        "priority": "Low",
+        "task_metadata": "Added from user request\n[2026-03-22 00:28] 📺 Added reminder: watch the new Godzilla TV show next week Friday at 7:30 PM, LOW priority. Notes: It is on Apple TV.\n[2026-04-06 11:01] 📅 Due date moved to Friday, 2026-04-10 at 7:30 PM by user request.\n[2026-04-14 11:52] 📅 Due date moved to this Friday (2026-04-17) by user request.\n[2026-05-02 13:24:11] [2026-05-02 13:08] 📅 Due date moved to next Wednesday by user request.\n[2026-05-10T23:53:00-04:00] 📅 Due date moved to this Friday by user request.",
         "history": [
           {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-05-14T00:01:24.056157-04:00",
-            "notes": "Created via Hermes task workflow"
+            "action": "reschedule",
+            "by": "erdell",
+            "at": "2026-04-19T21:45:17.171258-04:00",
+            "notes": "Moved due date to this Friday per user request"
           },
           {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-14T00:01:24.056170-04:00",
-            "notes": "Original due text: tomorrow at 5 pm"
+            "action": "reschedule",
+            "by": "erdell",
+            "at": "2026-05-10T23:53:00-04:00",
+            "notes": "Moved due date from 2026-05-06T19:30:00 to this Friday per user request"
           }
         ]
       }
     ],
     "completed": [
       {
-        "id": "9fcf8e3d",
-        "title": "do writing and figuring",
+        "title": "Feed the grass",
         "status": "Complete",
-        "date_due": "2026-05-10T21:30:00-04:00",
+        "date_due": "2026-03-19T17:00",
+        "priority": "High",
+        "task_metadata": "Added from Erdell list (today at 5 PM)\n[2026-03-19 12:10:50] 🔍 Web search: 'spring lawn fertilization timing soil temperature 2026' - Optimal when soil reaches 50-55°F. Apply before rain. Use slow-release nitrogen fertilizer....\n[2026-03-19 12:11:23] 🔍 Web search: 'spring lawn fertilization timing soil temperature 2026' - Optimal when soil reaches 50-55°F. Apply before rain. Use slow-release nitrogen fertilizer....\n[2026-03-19 12:11:46] 🔍 Web search: 'spring lawn fertilization timing soil temperature 2026' - Optimal when soil reaches 50-55°F. Apply before rain. Use slow-release nitrogen fertilizer....\n[2026-03-19 14:00:04] 🔍 Web search: 'spring lawn fertilization timing soil temperature 2026' - Optimal when soil reaches 50-55°F. Apply before rain. Use slow-release nitrogen fertilizer....\n[2026-03-19 14:05:41] ✅ Fertilizer and dispenser already acquired and ready for use.\n[2026-03-19 16:17:00] ✅ TASK COMPLETED - Fertilizer applied successfully.",
+        "completed_at": "2026-03-19T16:17:50"
+      },
+      {
+        "title": "check with Carlos",
+        "status": "Complete",
+        "date_due": "2026-03-19T15:00",
+        "priority": "Critical",
+        "task_metadata": "Added from Erdell list\n[2026-03-19 12:10:50] 🔍 Web search: 'effective meeting preparation with executives 2026' - BLUF approach recommended: Bottom Line Up Front. Prepare agenda, research background, define clear o...\n[2026-03-19 12:11:23] 🔍 Web search: 'effective meeting preparation with executives 2026' - BLUF approach recommended: Bottom Line Up Front. Prepare agenda, research background, define clear o...\n[2026-03-19 12:11:46] 🔍 Web search: 'effective meeting preparation with executives 2026' - BLUF approach recommended: Bottom Line Up Front. Prepare agenda, research background, define clear o...\n[2026-03-19 14:00:04] 🔍 Web search: 'effective meeting preparation with executives 2026' - BLUF approach recommended: Bottom Line Up Front. Prepare agenda, research background, define clear o...\n[2026-03-19 16:18:00] ✅ TASK COMPLETED - Meeting/check-in completed successfully.",
+        "completed_at": "2026-03-19T16:19:49"
+      },
+      {
+        "title": "Find place to send my paper",
+        "status": "Complete",
+        "date_due": "2026-03-19T19:00",
+        "priority": "High",
+        "task_metadata": "Added from Erdell list\n[2026-03-19 12:10:50] 🔍 Web search: 'mathematics education journals submission 2026 special issues' - Top journals: JRME, Educational Studies in Math. 2026 special issues on AI in education....\n[2026-03-19 12:11:23] 🔍 Web search: 'mathematics education journals submission 2026 special issues' - Top journals: JRME, Educational Studies in Math. 2026 special issues on AI in education....\n[2026-03-19 12:11:46] 🔍 Web search: 'mathematics education journals submission 2026 special issues' - Top journals: JRME, Educational Studies in Math. 2026 special issues on AI in education....\n[2026-03-19 14:00:04] 🔍 Web search: 'mathematics education journals submission 2026 special issues' - Top journals: JRME, Educational Studies in Math. 2026 special issues on AI in education....\n[2026-03-19 16:22:29] 📅 Due date updated: Today at 7:00 PM (was: none)\n[2026-03-19 20:41] ✅ PAPER SUBMITTED! Sent to Taylor & Francis Group (prestigious academic publisher)\n[2026-04-01 10:09:28] Marked as completed by user in chat.",
+        "date_completed": "2026-03-19T20:41:36"
+      },
+      {
+        "title": "ASAF proposal",
+        "status": "Completed",
+        "date_due": "2026-03-19T20:00",
+        "priority": "High",
+        "task_metadata": "[2026-03-19 16:26:09] Added: ASAF proposal due today at 8:00 PM, HIGH priority\n[2026-03-19 22:43] ✅ ASAF PROPOSAL COMPLETED! Submitted 2 hours 43 minutes past 8:00 PM deadline\n[2026-03-19 22:44] ✅ ASAF PROPOSAL COMPLETED! Submitted at 10:44 PM",
+        "date_completed": "2026-03-19T22:44:51"
+      },
+      {
+        "title": "run q_bot for lesson plans",
+        "status": "Completed",
+        "date_due": "2026-03-19T21:00",
         "priority": "Medium",
-        "task_metadata": "Created via Hermes task manager.",
+        "task_metadata": "[2026-03-19 16:26:09] Added: run q_bot for lesson plans due today at 9:00 PM, MEDIUM priority\n[2026-03-20 00:45] ✅ TASK COMPLETED - q_bot lesson plan workflow executed and validated.",
+        "date_completed": "2026-03-20T00:45:33"
+      },
+      {
+        "title": "Clean Bryan's room",
+        "status": "Completed",
+        "date_due": "2026-03-20T10:00",
+        "priority": "MEDIUM",
+        "task_metadata": "Added from voice reminder\n[2026-03-19 22:01] 🎤 Voice reminder: \"Remind me to clean Bryan's room tomorrow at 10:00 AM\"\n[2026-03-20 17:19] ✅ TASK COMPLETED per user instruction.",
+        "date_completed": "2026-03-20T17:19:16"
+      },
+      {
+        "title": "do noony's taxes",
+        "status": "Completed",
+        "date_due": "2026-03-20T19:30",
+        "priority": "High",
+        "task_metadata": "Added from user request\n[2026-03-20 13:47] 💰 Added: do noony's taxes due today at 7:30 PM, HIGH priority.\n[2026-03-20 20:37] ✅ TASK COMPLETED per user message: do noony’s taxes done.",
+        "date_completed": "2026-03-20T20:37:29"
+      },
+      {
+        "title": "activate the chargepoint card",
+        "status": "Completed",
+        "date_due": "2026-03-20T20:30",
+        "priority": "Low",
+        "task_metadata": "Added from user request\n[2026-03-20 17:24] 🔔 Reminder task: activate the chargepoint card this afternoon at 8:30 PM, LOW priority.\n[2026-03-20 20:38] ✅ TASK COMPLETED per user message: activate the chargepoint card done.",
+        "date_completed": "2026-03-20T20:38:17"
+      },
+      {
+        "title": "unstop the bathroom sink",
+        "status": "Completed",
+        "date_due": "2026-03-21T12:00",
+        "priority": "Medium",
+        "task_metadata": "Added from user request\n[2026-03-21 11:45] 🧴 Added: unstock the bathroom sink due today at 12:00 PM, MEDIUM priority.\n[2026-03-21 11:45] ✏️ Renamed task title to 'unstop the bathroom sink'.\n[2026-03-21 12:20] ✅ TASK COMPLETED per user instruction.",
+        "date_completed": "2026-03-21T12:20:13"
+      },
+      {
+        "title": "Reach out to Mrs. Walker to schedule next tutoring session",
+        "status": "Completed",
+        "date_due": "2026-03-22T15:00",
+        "priority": "Medium",
+        "task_metadata": "Added from user request\n[2026-03-20 11:50] 📞 Added: Reach out to Mrs. Walker to schedule next tutoring session due Sunday 3:00 PM, MEDIUM priority.\n[2026-03-21 13:22] ✅ TASK COMPLETED per user instruction.",
+        "date_completed": "2026-03-21T13:22:33"
+      },
+      {
+        "title": "Create then sell prompt Bible for clawbot",
+        "status": "Completed",
+        "date_due": "2026-03-20T20:00",
+        "priority": "Critical",
+        "task_metadata": "[2026-03-19 18:33:50] Added: Create then sell prompt Bible for clawbot - CRITICAL priority\nPROJECT BREAKDOWN:\n1. **NotebookLM Setup**: Create a notebookLM to store data and information\n2. **Research Queries**: Develop search queries for deep research on Google/Gemini\n3. **Marketing Strategy**: Come up with comprehensive marketing approach\n4. **Creation Process**: Figure out step-by-step process for creating and selling\n5. **Partnerships**: Identify potential partners for collaboration\n6. **Technical Tools**: Determine required technical tools and resources\n7. **Risk Assessment**: Identify what else might not be considered\n\nPROJECT SCOPE:\n• Product: \"Prompt Bible for Clawbot\" - Comprehensive guide/collection\n• Goal: Create and sell AI prompt expertise\n• Deadline: Tomorrow at 8:00 PM\n• Priority: CRITICAL\n\nNEXT STEPS:\n1. Research existing prompt marketplaces\n2. Define target audience (Clawbot users)\n3. Outline content structure\n4. Identify monetization strategies\n5. Create project timeline\n\n[2026-03-19 18:41:19] 🎯 SUBTASK ADDED: Create private GitHub repository for project\n   Repository name: prompt-bible-clawbot (private)\n   Purpose: Central repository for all research, content, and project files\n   Structure:\n     - /research/ (Tavily API findings, market analysis)\n     - /content/ (Prompt collections, tutorials, templates)\n     - /marketing/ (Strategy, materials, outreach)\n     - /tools/ (Technical setup, automation scripts)\n     - /planning/ (Timeline, milestones, deliverables)\n\n[2026-03-19 18:45:42] 🚀 PROJECT PROGRESS UPDATE:\n   • Project structure created: prompt-bible-clawbot/ directory\n   • Comprehensive research initiated: 16 Tavily API queries running\n   • GitHub repository ready for creation: prompt-bible-clawbot (private)\n   • Next steps: Analyze findings, create content outline\n   \n   RESEARCH QUERIES EXECUTING:\n   1. Market Analysis (4 queries)\n   2. Competitor Analysis (4 queries)\n   3. Technical & Marketing (8 queries)\n   \n   EXPECTED COMPLETION: Within 30 minutes\n   TIME REMAINING: 25 hours until deadline\n\n[2026-03-19 18:47:06] 🎯 COMPREHENSIVE RESEARCH COMPLETED:\n   • Tavily API queries executed: 20\n   • Sources analyzed: 116\n   • Research file: prompt_bible_research.json (3.5MB)\n   \n   KEY FINDINGS:\n   1. Market Size: AI prompt market growing at 25.9% CAGR to 0.99B by 2033\n   2. OpenClaw Users: 2M+ active users with high satisfaction\n   3. Prompt Engineering Market: 73.6M in 2026 → .7B by 2034 (33.27% CAGR)\n   4. Top Competitors: God of Prompt, allPrompts, Wharton AI Prompts\n   5. Successful Platforms: Gumroad, Etsy, PromptBase\n   6. Pricing Models: Subscription, usage-based, license fees\n   7. Technical Tools: NotebookLM, GitHub, automated testing frameworks\n   \n   IMMEDIATE OPPORTUNITIES:\n   • Niche focus: Clawbot-specific prompts (2M+ user base)\n   • Pricing: 9-99 one-time or -29/month subscription\n   • Platform: Start with Gumroad, expand to dedicated site\n   • Content: 50+ prompts across basic/advanced categories\n   • Marketing: Community-driven, content marketing, affiliates\n   \n   PROJECT STRUCTURE READY:\n   • Directory: prompt-bible-clawbot/\n   • GitHub repo ready for creation: prompt-bible-clawbot (private)\n   • Next: Create repo, analyze findings, develop content outline\n[2026-03-22 00:30] ✅ Marked done (mock completion): initial information gathered.",
+        "date_completed": "2026-03-22T00:30:33"
+      },
+      {
+        "title": "check if Google's antigravity can use OpenAI Codex through OAuth",
+        "status": "Completed",
+        "date_due": "2026-03-22T17:00",
+        "priority": "Medium",
+        "task_metadata": "Added from user request\n[2026-03-22 01:47] 🔍 Added: check if Google's antigravity can use OpenAI Codex through OAuth due today at 5:00 PM, MEDIUM priority.\n[2026-03-22 10:17] ✅ TASK COMPLETED per user instruction.",
+        "date_completed": "2026-03-22T10:17:17"
+      },
+      {
+        "title": "print out weekly schedule for Bryan Brilliance and Braya",
+        "status": "Completed",
+        "date_due": "2026-03-22T19:00",
+        "priority": "High",
+        "task_metadata": "Added from user request\n[2026-03-20 11:59] 🗓️ Added: print out weekly schedule for Bryan Brilliance and Braya due Sunday 7:00 PM, HIGH priority.\n[2026-03-22 14:10] ✅ TASK COMPLETED per user instruction.",
+        "date_completed": "2026-03-22T14:10:46"
+      },
+      {
+        "title": "pay the bills",
+        "status": "Completed",
+        "date_due": "2026-03-22T17:00",
+        "priority": "Critical",
+        "task_metadata": "Added from user request\n[2026-03-22 16:11] 💳 Reminder: pay the bills due today at 5:00 PM, CRITICAL priority.\n[2026-03-22 16:42] ✅ TASK COMPLETED per user instruction.",
+        "date_completed": "2026-03-22T16:42:02"
+      },
+      {
+        "title": "hang the certificates",
+        "status": "Completed",
+        "date_due": "2026-03-20T16:30",
+        "priority": "High",
+        "task_metadata": "Added from user request\n[2026-03-20 13:12] 🖼️ Added: hang the certificates due today at 4:30 PM, HIGH priority.\nTime selected using today's schedule snapshot (midday classes through ~2:15 PM), leaving buffer for transition/tasks.\n[2026-03-22 18:14] ✅ TASK COMPLETED per user instruction (audio).",
+        "date_completed": "2026-03-22T18:14:42"
+      },
+      {
+        "title": "Start pulling together research lesson prompt paper",
+        "status": "Completed",
+        "date_due": "2026-03-22T19:00",
+        "priority": "Critical",
+        "task_metadata": "Added from user request\\n[2026-03-20 11:51] 📝 Added: Start pulling together research lesson prompt paper due Sunday 7:00 PM, CRITICAL priority.\n[2026-03-22 19:39] ✅ TASK COMPLETED per user instruction.",
+        "date_completed": "2026-03-22T19:39:00"
+      },
+      {
+        "title": "go to tutoring session",
+        "status": "Completed",
+        "date_due": "2026-03-23T13:45",
+        "priority": "High",
+        "task_metadata": "Added from user request\n[2026-03-22 00:19] 📚 Added: go to tutoring session tomorrow at 1:45 PM, HIGH priority.\n[2026-03-22 19:39] ✅ TASK COMPLETED per user instruction.",
+        "date_completed": "2026-03-22T19:39:37"
+      },
+      {
+        "title": "work on budget and proposal for the start program",
+        "status": "Completed",
+        "date_due": "2026-03-22T22:30",
+        "priority": "Critical",
+        "task_metadata": "Added from user request\n[2026-03-22 20:21] 📊 Added: work on budget and proposal for the start program due today at 10:30 PM, CRITICAL priority.\n[2026-03-23 11:17] ✅ Marked done per Erdell instruction.",
+        "date_completed": "2026-03-23T11:17:12.298174"
+      },
+      {
+        "title": "Call and email the chair about preview day",
+        "status": "Completed",
+        "date_due": "2026-03-23T12:00",
+        "priority": "Low",
+        "task_metadata": "Added from user request\n[2026-03-23 11:17] ☎️ Added: Call and email the chair about preview day due today at 12:00 PM, LOW priority.\n[2026-03-23 11:27] ✅ Marked done per Erdell instruction.",
+        "date_completed": "2026-03-23T11:27:20.264837"
+      },
+      {
+        "title": "Update my paper submission after class",
+        "status": "Completed",
+        "date_due": "2026-03-23",
+        "priority": "Critical",
+        "task_metadata": "Added from user request\n[2026-03-23 11:27] 📌 Added reminder: update paper submission today after class, CRITICAL priority.\n[2026-03-23 17:03] ✅ Marked done per Erdell instruction.",
+        "date_completed": "2026-03-23T17:03:19.753149"
+      },
+      {
+        "title": "play basketball with Bryan",
+        "status": "Completed",
+        "date_due": "2026-03-23T15:00",
+        "priority": "High",
+        "task_metadata": "Added from user request\\n[2026-03-20 00:59] 🏀 Added: play basketball with Bryan today at 3:00 PM, HIGH priority\n[2026-03-20 20:39] 📅 Rescheduled to Sunday at 3:00 PM.\n[2026-03-22 18:32] 📅 Rescheduled to Monday at 3:00 PM.\n[2026-03-24 11:01] ✅ TASK COMPLETED per user instruction.",
+        "date_completed": "2026-03-24T11:01:00"
+      },
+      {
+        "id": "b8cef683",
+        "title": "prepare for AFAP presentation on Monday",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-04-10T19:00:00",
+        "task_metadata": "Added from user request on 2026-04-07. Priority critical.",
         "history": [
           {
             "action": "create",
-            "by": "hermes",
-            "at": "2026-05-10T20:22:46.438478-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-10T20:22:46.438483-04:00",
-            "notes": "Original due text: Today at 9:30 pm"
+            "by": "erdell",
+            "at": "2026-04-07T17:36:00-04:00",
+            "notes": "Created from user instruction"
           },
           {
             "action": "complete",
             "by": "erdell",
-            "at": "2026-05-10T23:52:00-04:00",
+            "at": "2026-04-13T09:42:43.339896-04:00",
             "notes": "Marked done per user request in chat"
           }
         ],
-        "completed_at": "2026-05-10T23:52:00-04:00"
+        "completed_at": "2026-04-13T09:42:43.339896-04:00"
       },
       {
-        "title": "pack bags for trip to Cali",
+        "title": "post class videos for statistics",
         "status": "Complete",
-        "date_due": "2026-05-03T16:00",
+        "date_due": "2026-04-10T20:00",
         "priority": "High",
-        "task_metadata": "Created from /nt user request on 2026-05-02. User specified tomorrow at 4:00 PM and HIGH priority.",
-        "completed_at": "2026-05-10T23:52:00-04:00",
+        "task_metadata": "",
+        "completed_at": "2026-04-13T09:43:18.483152-04:00",
         "history": [
           {
             "action": "complete",
             "by": "erdell",
-            "at": "2026-05-10T23:52:00-04:00",
+            "at": "2026-04-13T09:43:18.483152-04:00",
             "notes": "Marked done per user request in chat"
           }
         ]
       },
       {
-        "title": "create rules for math competition",
+        "id": "16e162a0",
+        "title": "post end of semester surveys to classess",
         "status": "Complete",
-        "date_due": "2026-05-06T18:00:00",
-        "priority": "High",
-        "task_metadata": "Created from /nt user request on 2026-04-24.\n[2026-05-02 13:07:43] [2026-05-02 13:04] 📅 Due date moved to Wednesday by user request.",
-        "completed_at": "2026-05-10T23:52:00-04:00",
-        "history": [
-          {
-            "action": "complete",
-            "by": "erdell",
-            "at": "2026-05-10T23:52:00-04:00",
-            "notes": "Marked done per user request in chat"
-          }
-        ]
-      },
-      {
-        "id": "43417126",
-        "title": "send the children to bed",
-        "status": "Complete",
-        "priority": "Medium",
-        "date_due": "2026-05-10T21:00:00-04:00",
-        "task_metadata": "Created from /nt user request on 2026-05-10. Due today at 9:00 PM. Priority medium.",
+        "priority": "Critical",
+        "date_due": "2026-04-13T10:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-12. Priority critical.",
         "history": [
           {
             "action": "create",
             "by": "erdell",
-            "at": "2026-05-10T20:21:00-04:00",
+            "at": "2026-04-12T22:09:17.980124-04:00",
             "notes": "Created from user instruction via /nt shortcut"
           },
           {
             "action": "complete",
             "by": "erdell",
-            "at": "2026-05-10T23:52:00-04:00",
+            "at": "2026-04-13T10:16:15.545507-04:00",
             "notes": "Marked done per user request in chat"
           }
         ],
-        "completed_at": "2026-05-10T23:52:00-04:00"
+        "completed_at": "2026-04-13T10:16:15.545507-04:00"
+      },
+      {
+        "id": "4251b1d2",
+        "title": "send out TSC survey notice",
+        "status": "Complete",
+        "priority": "High",
+        "date_due": "2026-04-13T11:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-13. Priority high.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-13T09:22:24.023119-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-13T10:16:40.663925-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ],
+        "completed_at": "2026-04-13T10:16:40.663925-04:00"
+      },
+      {
+        "id": "e2a60b59",
+        "title": "follow up on travel support to the NRP7",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-04-08T10:00:00",
+        "task_metadata": "Added from user request on 2026-04-07. Priority critical.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-07T14:39:00-04:00",
+            "notes": "Created from user instruction"
+          },
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-13T10:17:11.397612-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ],
+        "completed_at": "2026-04-13T10:17:11.397612-04:00"
+      },
+      {
+        "title": "decide on dates for the last exam and the final exam for my classes",
+        "status": "Complete",
+        "date_due": "2026-04-10T15:00",
+        "priority": "Critical",
+        "task_metadata": "",
+        "completed_at": "2026-04-13T10:17:58.516922-04:00",
+        "history": [
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-13T10:17:58.516922-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ]
+      },
+      {
+        "id": "6caf77ca",
+        "title": "add sick leave in",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-04-14T20:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-12. Priority critical.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-12T22:21:47.194802-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-13T10:48:35.140727-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ],
+        "completed_at": "2026-04-13T10:48:35.140727-04:00"
+      },
+      {
+        "id": "7e8135bd",
+        "title": "continue paying taxes",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-04-13T16:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-13. Priority critical.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-13T13:51:02.345457-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-13T19:47:49.621742-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ],
+        "completed_at": "2026-04-13T19:47:49.621742-04:00"
+      },
+      {
+        "title": "answer emails",
+        "status": "Complete",
+        "date_due": "2026-04-10T20:30",
+        "priority": "High",
+        "task_metadata": "",
+        "completed_at": "2026-04-13T19:48:37.105961-04:00",
+        "history": [
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-13T19:48:37.105961-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ]
+      },
+      {
+        "title": "follow up on funding from the mathematics department",
+        "status": "Complete",
+        "date_due": "2026-04-14T11:00",
+        "priority": "Critical",
+        "task_metadata": "",
+        "completed_at": "2026-04-14T11:04:09.208264-04:00",
+        "history": [
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-14T11:04:09.208264-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ]
+      },
+      {
+        "title": "call eye glasses company to check prescription",
+        "status": "Complete",
+        "date_due": "2026-04-14T11:30",
+        "priority": "Critical",
+        "task_metadata": "",
+        "completed_at": "2026-04-14T11:12:09.317562-04:00",
+        "history": [
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-14T11:12:09.317562-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ]
+      },
+      {
+        "id": "42dce1e3",
+        "title": "find another journal to submit factoring paper",
+        "status": "Complete",
+        "priority": "High",
+        "date_due": "2026-04-15T20:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-12. Priority high.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-12T04:37:46.873611-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-14T11:53:55.663078-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ],
+        "completed_at": "2026-04-14T11:53:55.663078-04:00"
+      },
+      {
+        "id": "98a4aa0d",
+        "title": "Have Eye Glass Checked",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-04-15T09:30:00",
+        "task_metadata": "Added from /nt user request on 2026-04-14. Priority critical.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-14T11:20:14.825029-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-15T11:43:07.038462-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ],
+        "completed_at": "2026-04-15T11:43:07.038462-04:00"
+      },
+      {
+        "id": "a177c19c",
+        "title": "get letter of support from chair for AUC",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-04-16T11:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-15. Priority critical.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-15T12:06:40.340561-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-16T11:42:33.602674-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ],
+        "completed_at": "2026-04-16T11:42:33.602674-04:00"
+      },
+      {
+        "id": "48955b26",
+        "title": "apply for FAMU2",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-04-15T11:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-15. Priority critical.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-15T07:23:39.782875-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-16T11:50:04.289232-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ],
+        "completed_at": "2026-04-16T11:50:04.289232-04:00"
+      },
+      {
+        "id": "b49467d3",
+        "title": "send a draft letter to Dr. Ajth of AUC",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-04-16T20:30:00",
+        "task_metadata": "Added from /nt user request on 2026-04-16. Priority critical.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-16T14:04:42.632077-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-16T18:24:53.785001-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ],
+        "completed_at": "2026-04-16T18:24:53.785001-04:00"
+      },
+      {
+        "id": "c9bbf396",
+        "title": "create study program for Brilliance's baptism",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-04-19T17:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-19. Priority critical.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-19T10:49:37.346272-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-19T11:00:32.141061-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ],
+        "completed_at": "2026-04-19T11:00:32.141061-04:00"
+      },
+      {
+        "id": "2cc6d7b8",
+        "title": "make questions for Dr. Bandara",
+        "status": "Complete",
+        "priority": "Medium",
+        "date_due": "2026-04-19T17:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-17. Priority medium.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-17T13:12:12.669826-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-19T20:05:50.303366-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ],
+        "completed_at": "2026-04-19T20:05:50.303366-04:00"
+      },
+      {
+        "id": "83f0f194",
+        "title": "follow up AUC required activities",
+        "status": "Complete",
+        "priority": "Medium",
+        "date_due": "2026-04-19T19:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-18. Default priority medium.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-18T13:10:15.851256-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-19T21:40:57.430902-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ],
+        "completed_at": "2026-04-19T21:40:57.430902-04:00"
+      },
+      {
+        "title": "grade assignments",
+        "status": "Complete",
+        "date_due": "2026-04-12T19:00",
+        "priority": "Critical",
+        "task_metadata": "",
+        "completed_at": "2026-04-19T21:47:03.513324-04:00",
+        "history": [
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-19T21:47:03.513324-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ]
+      },
+      {
+        "id": "3ccbec19",
+        "title": "post reflections to farp course",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-04-15T19:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-14. Priority critical.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-14T06:35:58.122339-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-19T21:47:48.216849-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ],
+        "completed_at": "2026-04-19T21:47:48.216849-04:00"
+      },
+      {
+        "id": "a67217b1",
+        "title": "prepare for online test in college algebra",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-04-16T11:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-15. Priority critical.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-15T22:30:27.605150-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-19T21:49:22.200276-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ],
+        "completed_at": "2026-04-19T21:49:22.200276-04:00"
+      },
+      {
+        "id": "b223dbce",
+        "title": "look for email from 2026 FDSI Course Access",
+        "status": "Complete",
+        "priority": "High",
+        "date_due": "2026-04-17T11:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-15. Priority high.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-15T23:02:42.710015-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-19T21:51:40.182784-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ],
+        "completed_at": "2026-04-19T21:51:40.182784-04:00"
+      },
+      {
+        "id": "81053880",
+        "title": "study with Brilliance each day this week",
+        "status": "Completed",
+        "priority": "Critical",
+        "date_due": "2026-04-22T17:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-19. Priority critical.\n[2026-04-21 08:12:15] [2026-04-21 08:11] 📅 Due date moved to tomorrow by user request.\n[2026-04-26 10:08] ✅ TASK COMPLETED per user instruction.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-19T11:01:22.729192-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "reschedule",
+            "by": "erdell",
+            "at": "2026-04-19T21:41:47.756394-04:00",
+            "notes": "Moved due date to tomorrow per user request"
+          },
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-26T10:08:05.457088-04:00",
+            "notes": "Marked done per user request"
+          }
+        ],
+        "date_completed": "2026-04-26T10:08:05.457088-04:00"
+      },
+      {
+        "id": "46224667",
+        "title": "Attendance for BC",
+        "description": "Attendance for BC meeting - Tuesday at 10 AM",
+        "due_date": "2026-04-28T10:00:00",
+        "priority": "high",
+        "status": "Completed",
+        "notes": "BC attendance commitment",
+        "history": [
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-29T17:02:00-04:00",
+            "notes": "Marked done by user request in chat."
+          }
+        ],
+        "completed_at": "2026-04-29T17:02:00-04:00"
       },
       {
         "id": "46224670",
@@ -563,24 +1203,6 @@
         "completed_at": "2026-04-29T17:02:00-04:00"
       },
       {
-        "id": "46224667",
-        "title": "Attendance for BC",
-        "description": "Attendance for BC meeting - Tuesday at 10 AM",
-        "due_date": "2026-04-28T10:00:00",
-        "priority": "high",
-        "status": "Completed",
-        "notes": "BC attendance commitment",
-        "history": [
-          {
-            "action": "complete",
-            "by": "erdell",
-            "at": "2026-04-29T17:02:00-04:00",
-            "notes": "Marked done by user request in chat."
-          }
-        ],
-        "completed_at": "2026-04-29T17:02:00-04:00"
-      },
-      {
         "title": "Update the presentation material for recruiting",
         "status": "Completed",
         "date_due": "2026-04-23T13:00:00",
@@ -597,1055 +1219,88 @@
         "completed_at": "2026-04-29T17:02:00-04:00"
       },
       {
-        "id": "81053880",
-        "title": "study with Brilliance each day this week",
-        "status": "Completed",
-        "priority": "Critical",
-        "date_due": "2026-04-22T17:00:00",
-        "task_metadata": "Added from /nt user request on 2026-04-19. Priority critical.\n[2026-04-21 08:12:15] [2026-04-21 08:11] 📅 Due date moved to tomorrow by user request.\n[2026-04-26 10:08] ✅ TASK COMPLETED per user instruction.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-19T11:01:22.729192-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          },
-          {
-            "action": "reschedule",
-            "by": "erdell",
-            "at": "2026-04-19T21:41:47.756394-04:00",
-            "notes": "Moved due date to tomorrow per user request"
-          },
-          {
-            "action": "complete",
-            "by": "erdell",
-            "at": "2026-04-26T10:08:05.457088-04:00",
-            "notes": "Marked done per user request"
-          }
-        ],
-        "date_completed": "2026-04-26T10:08:05.457088-04:00"
-      },
-      {
-        "title": "check with Carlos",
+        "title": "create rules for math competition",
         "status": "Complete",
-        "date_due": "2026-03-19T15:00",
-        "priority": "Critical",
-        "task_metadata": "Added from Erdell list\n[2026-03-19 12:10:50] 🔍 Web search: 'effective meeting preparation with executives 2026' - BLUF approach recommended: Bottom Line Up Front. Prepare agenda, research background, define clear o...\n[2026-03-19 12:11:23] 🔍 Web search: 'effective meeting preparation with executives 2026' - BLUF approach recommended: Bottom Line Up Front. Prepare agenda, research background, define clear o...\n[2026-03-19 12:11:46] 🔍 Web search: 'effective meeting preparation with executives 2026' - BLUF approach recommended: Bottom Line Up Front. Prepare agenda, research background, define clear o...\n[2026-03-19 14:00:04] 🔍 Web search: 'effective meeting preparation with executives 2026' - BLUF approach recommended: Bottom Line Up Front. Prepare agenda, research background, define clear o...\n[2026-03-19 16:18:00] ✅ TASK COMPLETED - Meeting/check-in completed successfully.",
-        "completed_at": "2026-03-19T16:19:49"
-      },
-      {
-        "title": "Create then sell prompt Bible for clawbot",
-        "status": "Completed",
-        "date_due": "2026-03-20T20:00",
-        "priority": "Critical",
-        "task_metadata": "[2026-03-19 18:33:50] Added: Create then sell prompt Bible for clawbot - CRITICAL priority\nPROJECT BREAKDOWN:\n1. **NotebookLM Setup**: Create a notebookLM to store data and information\n2. **Research Queries**: Develop search queries for deep research on Google/Gemini\n3. **Marketing Strategy**: Come up with comprehensive marketing approach\n4. **Creation Process**: Figure out step-by-step process for creating and selling\n5. **Partnerships**: Identify potential partners for collaboration\n6. **Technical Tools**: Determine required technical tools and resources\n7. **Risk Assessment**: Identify what else might not be considered\n\nPROJECT SCOPE:\n• Product: \"Prompt Bible for Clawbot\" - Comprehensive guide/collection\n• Goal: Create and sell AI prompt expertise\n• Deadline: Tomorrow at 8:00 PM\n• Priority: CRITICAL\n\nNEXT STEPS:\n1. Research existing prompt marketplaces\n2. Define target audience (Clawbot users)\n3. Outline content structure\n4. Identify monetization strategies\n5. Create project timeline\n\n[2026-03-19 18:41:19] 🎯 SUBTASK ADDED: Create private GitHub repository for project\n   Repository name: prompt-bible-clawbot (private)\n   Purpose: Central repository for all research, content, and project files\n   Structure:\n     - /research/ (Tavily API findings, market analysis)\n     - /content/ (Prompt collections, tutorials, templates)\n     - /marketing/ (Strategy, materials, outreach)\n     - /tools/ (Technical setup, automation scripts)\n     - /planning/ (Timeline, milestones, deliverables)\n\n[2026-03-19 18:45:42] 🚀 PROJECT PROGRESS UPDATE:\n   • Project structure created: prompt-bible-clawbot/ directory\n   • Comprehensive research initiated: 16 Tavily API queries running\n   • GitHub repository ready for creation: prompt-bible-clawbot (private)\n   • Next steps: Analyze findings, create content outline\n   \n   RESEARCH QUERIES EXECUTING:\n   1. Market Analysis (4 queries)\n   2. Competitor Analysis (4 queries)\n   3. Technical & Marketing (8 queries)\n   \n   EXPECTED COMPLETION: Within 30 minutes\n   TIME REMAINING: 25 hours until deadline\n\n[2026-03-19 18:47:06] 🎯 COMPREHENSIVE RESEARCH COMPLETED:\n   • Tavily API queries executed: 20\n   • Sources analyzed: 116\n   • Research file: prompt_bible_research.json (3.5MB)\n   \n   KEY FINDINGS:\n   1. Market Size: AI prompt market growing at 25.9% CAGR to 0.99B by 2033\n   2. OpenClaw Users: 2M+ active users with high satisfaction\n   3. Prompt Engineering Market: 73.6M in 2026 → .7B by 2034 (33.27% CAGR)\n   4. Top Competitors: God of Prompt, allPrompts, Wharton AI Prompts\n   5. Successful Platforms: Gumroad, Etsy, PromptBase\n   6. Pricing Models: Subscription, usage-based, license fees\n   7. Technical Tools: NotebookLM, GitHub, automated testing frameworks\n   \n   IMMEDIATE OPPORTUNITIES:\n   • Niche focus: Clawbot-specific prompts (2M+ user base)\n   • Pricing: 9-99 one-time or -29/month subscription\n   • Platform: Start with Gumroad, expand to dedicated site\n   • Content: 50+ prompts across basic/advanced categories\n   • Marketing: Community-driven, content marketing, affiliates\n   \n   PROJECT STRUCTURE READY:\n   • Directory: prompt-bible-clawbot/\n   • GitHub repo ready for creation: prompt-bible-clawbot (private)\n   • Next: Create repo, analyze findings, develop content outline\n[2026-03-22 00:30] ✅ Marked done (mock completion): initial information gathered.",
-        "date_completed": "2026-03-22T00:30:33"
-      },
-      {
-        "title": "pay the bills",
-        "status": "Completed",
-        "date_due": "2026-03-22T17:00",
-        "priority": "Critical",
-        "task_metadata": "Added from user request\n[2026-03-22 16:11] 💳 Reminder: pay the bills due today at 5:00 PM, CRITICAL priority.\n[2026-03-22 16:42] ✅ TASK COMPLETED per user instruction.",
-        "date_completed": "2026-03-22T16:42:02"
-      },
-      {
-        "title": "Start pulling together research lesson prompt paper",
-        "status": "Completed",
-        "date_due": "2026-03-22T19:00",
-        "priority": "Critical",
-        "task_metadata": "Added from user request\\n[2026-03-20 11:51] 📝 Added: Start pulling together research lesson prompt paper due Sunday 7:00 PM, CRITICAL priority.\n[2026-03-22 19:39] ✅ TASK COMPLETED per user instruction.",
-        "date_completed": "2026-03-22T19:39:00"
-      },
-      {
-        "title": "work on budget and proposal for the start program",
-        "status": "Completed",
-        "date_due": "2026-03-22T22:30",
-        "priority": "Critical",
-        "task_metadata": "Added from user request\n[2026-03-22 20:21] 📊 Added: work on budget and proposal for the start program due today at 10:30 PM, CRITICAL priority.\n[2026-03-23 11:17] ✅ Marked done per Erdell instruction.",
-        "date_completed": "2026-03-23T11:17:12.298174"
-      },
-      {
-        "title": "Update my paper submission after class",
-        "status": "Completed",
-        "date_due": "2026-03-23",
-        "priority": "Critical",
-        "task_metadata": "Added from user request\n[2026-03-23 11:27] 📌 Added reminder: update paper submission today after class, CRITICAL priority.\n[2026-03-23 17:03] ✅ Marked done per Erdell instruction.",
-        "date_completed": "2026-03-23T17:03:19.753149"
-      },
-      {
-        "title": "Do taxes!",
-        "status": "Complete",
-        "date_due": "2026-04-03",
-        "priority": "Critical",
-        "task_metadata": "Added from Erdell list\n[2026-03-19 12:10:50] 🔍 Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-19 12:11:23] 🔍 Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-19 12:11:46] 🔍 Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-19 14:00:04] 🔍 Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-22 20:01] 📅 Rescheduled to Thursday (2026-03-26).\n[2026-04-08 22:25] ✅ Completed per user request.\n[2026-04-09 15:41:44] Marked done on 2026-04-09 15:41 EDT via request",
-        "history": [
-          {
-            "action": "status_update",
-            "by": "erdell",
-            "at": "2026-04-08T22:25:54.727679",
-            "notes": "Marked completed per user instruction in chat"
-          }
-        ]
-      },
-      {
-        "title": "email DLAC committee to start delivering surveys",
-        "status": "Done",
-        "date_due": "2026-04-06T10:00",
-        "priority": "Critical",
-        "task_metadata": "Added via chat request. Relates to DLAC committee coordination.\n[2026-04-06 10:55] ✅ Marked done by user confirmation."
-      },
-      {
-        "title": "drop documents at eye doctor",
-        "status": "Done",
-        "date_due": "2026-04-06T16:00",
-        "priority": "Critical",
-        "task_metadata": "Added via chat request.\n[2026-04-06 10:55] ✅ Marked done by user confirmation."
-      },
-      {
-        "id": "1692ad39",
-        "title": "Call Heskeith",
-        "status": "Complete",
-        "priority": "Critical",
-        "date_due": "2026-04-07T14:00:00",
-        "task_metadata": "Added from user request on 2026-04-06. Priority critical.\n[2026-04-10 10:28:58] Marked complete",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-06T23:55:00-04:00",
-            "notes": "Created from user instruction"
-          }
-        ]
-      },
-      {
-        "id": "e2a60b59",
-        "title": "follow up on travel support to the NRP7",
-        "status": "Complete",
-        "priority": "Critical",
-        "date_due": "2026-04-08T10:00:00",
-        "task_metadata": "Added from user request on 2026-04-07. Priority critical.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-07T14:39:00-04:00",
-            "notes": "Created from user instruction"
-          },
-          {
-            "action": "complete",
-            "by": "erdell",
-            "at": "2026-04-13T10:17:11.397612-04:00",
-            "notes": "Marked done per user request in chat"
-          }
-        ],
-        "completed_at": "2026-04-13T10:17:11.397612-04:00"
-      },
-      {
-        "title": "Interpret and understand the information gathered for the Prompt Bible",
-        "status": "Complete",
-        "date_due": "2026-04-08T20:30",
-        "priority": "Critical",
-        "task_metadata": "Added from user request\n[2026-03-22 00:33] 🧠 Added: Interpret and understand the information gathered for the Prompt Bible due Wednesday at 8:30 PM, CRITICAL priority.\n[2026-04-01 10:08:14] Task completed by user request in chat."
-      },
-      {
-        "id": "76ea2e85",
-        "title": "remind me to use clawbot to track my business expenses",
-        "status": "Complete",
-        "priority": "Critical",
-        "date_due": "2026-04-09T19:30:00",
-        "task_metadata": "Added from /nt user shortcut on 2026-04-08. Priority critical.\n[2026-04-10 11:56:14] Marked complete",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-08T22:48:00-04:00",
-            "notes": "Created from user shortcut /nt"
-          }
-        ]
-      },
-      {
-        "title": "Start payoff taxes on credit card",
-        "status": "Complete",
-        "date_due": "2026-04-10T11:00",
-        "priority": "Critical",
-        "task_metadata": "[2026-04-10 10:29:31] Marked complete"
-      },
-      {
-        "title": "decide on dates for the last exam and the final exam for my classes",
-        "status": "Complete",
-        "date_due": "2026-04-10T15:00",
-        "priority": "Critical",
-        "task_metadata": "",
-        "completed_at": "2026-04-13T10:17:58.516922-04:00",
+        "date_due": "2026-05-06T18:00:00",
+        "priority": "High",
+        "task_metadata": "Created from /nt user request on 2026-04-24.\n[2026-05-02 13:07:43] [2026-05-02 13:04] 📅 Due date moved to Wednesday by user request.",
+        "completed_at": "2026-05-10T23:52:00-04:00",
         "history": [
           {
             "action": "complete",
             "by": "erdell",
-            "at": "2026-04-13T10:17:58.516922-04:00",
+            "at": "2026-05-10T23:52:00-04:00",
             "notes": "Marked done per user request in chat"
           }
         ]
       },
       {
-        "id": "b8cef683",
-        "title": "prepare for AFAP presentation on Monday",
+        "id": "9fcf8e3d",
+        "title": "do writing and figuring",
         "status": "Complete",
-        "priority": "Critical",
-        "date_due": "2026-04-10T19:00:00",
-        "task_metadata": "Added from user request on 2026-04-07. Priority critical.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-07T17:36:00-04:00",
-            "notes": "Created from user instruction"
-          },
-          {
-            "action": "complete",
-            "by": "erdell",
-            "at": "2026-04-13T09:42:43.339896-04:00",
-            "notes": "Marked done per user request in chat"
-          }
-        ],
-        "completed_at": "2026-04-13T09:42:43.339896-04:00"
-      },
-      {
-        "title": "grade assignments",
-        "status": "Complete",
-        "date_due": "2026-04-12T19:00",
-        "priority": "Critical",
-        "task_metadata": "",
-        "completed_at": "2026-04-19T21:47:03.513324-04:00",
-        "history": [
-          {
-            "action": "complete",
-            "by": "erdell",
-            "at": "2026-04-19T21:47:03.513324-04:00",
-            "notes": "Marked done per user request in chat"
-          }
-        ]
-      },
-      {
-        "id": "16e162a0",
-        "title": "post end of semester surveys to classess",
-        "status": "Complete",
-        "priority": "Critical",
-        "date_due": "2026-04-13T10:00:00",
-        "task_metadata": "Added from /nt user request on 2026-04-12. Priority critical.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-12T22:09:17.980124-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          },
-          {
-            "action": "complete",
-            "by": "erdell",
-            "at": "2026-04-13T10:16:15.545507-04:00",
-            "notes": "Marked done per user request in chat"
-          }
-        ],
-        "completed_at": "2026-04-13T10:16:15.545507-04:00"
-      },
-      {
-        "id": "7e8135bd",
-        "title": "continue paying taxes",
-        "status": "Complete",
-        "priority": "Critical",
-        "date_due": "2026-04-13T16:00:00",
-        "task_metadata": "Added from /nt user request on 2026-04-13. Priority critical.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-13T13:51:02.345457-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          },
-          {
-            "action": "complete",
-            "by": "erdell",
-            "at": "2026-04-13T19:47:49.621742-04:00",
-            "notes": "Marked done per user request in chat"
-          }
-        ],
-        "completed_at": "2026-04-13T19:47:49.621742-04:00"
-      },
-      {
-        "title": "follow up on funding from the mathematics department",
-        "status": "Complete",
-        "date_due": "2026-04-14T11:00",
-        "priority": "Critical",
-        "task_metadata": "",
-        "completed_at": "2026-04-14T11:04:09.208264-04:00",
-        "history": [
-          {
-            "action": "complete",
-            "by": "erdell",
-            "at": "2026-04-14T11:04:09.208264-04:00",
-            "notes": "Marked done per user request in chat"
-          }
-        ]
-      },
-      {
-        "title": "call eye glasses company to check prescription",
-        "status": "Complete",
-        "date_due": "2026-04-14T11:30",
-        "priority": "Critical",
-        "task_metadata": "",
-        "completed_at": "2026-04-14T11:12:09.317562-04:00",
-        "history": [
-          {
-            "action": "complete",
-            "by": "erdell",
-            "at": "2026-04-14T11:12:09.317562-04:00",
-            "notes": "Marked done per user request in chat"
-          }
-        ]
-      },
-      {
-        "id": "6caf77ca",
-        "title": "add sick leave in",
-        "status": "Complete",
-        "priority": "Critical",
-        "date_due": "2026-04-14T20:00:00",
-        "task_metadata": "Added from /nt user request on 2026-04-12. Priority critical.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-12T22:21:47.194802-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          },
-          {
-            "action": "complete",
-            "by": "erdell",
-            "at": "2026-04-13T10:48:35.140727-04:00",
-            "notes": "Marked done per user request in chat"
-          }
-        ],
-        "completed_at": "2026-04-13T10:48:35.140727-04:00"
-      },
-      {
-        "id": "98a4aa0d",
-        "title": "Have Eye Glass Checked",
-        "status": "Complete",
-        "priority": "Critical",
-        "date_due": "2026-04-15T09:30:00",
-        "task_metadata": "Added from /nt user request on 2026-04-14. Priority critical.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-14T11:20:14.825029-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          },
-          {
-            "action": "complete",
-            "by": "erdell",
-            "at": "2026-04-15T11:43:07.038462-04:00",
-            "notes": "Marked done per user request in chat"
-          }
-        ],
-        "completed_at": "2026-04-15T11:43:07.038462-04:00"
-      },
-      {
-        "id": "48955b26",
-        "title": "apply for FAMU2",
-        "status": "Complete",
-        "priority": "Critical",
-        "date_due": "2026-04-15T11:00:00",
-        "task_metadata": "Added from /nt user request on 2026-04-15. Priority critical.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-15T07:23:39.782875-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          },
-          {
-            "action": "complete",
-            "by": "erdell",
-            "at": "2026-04-16T11:50:04.289232-04:00",
-            "notes": "Marked done per user request in chat"
-          }
-        ],
-        "completed_at": "2026-04-16T11:50:04.289232-04:00"
-      },
-      {
-        "id": "3ccbec19",
-        "title": "post reflections to farp course",
-        "status": "Complete",
-        "priority": "Critical",
-        "date_due": "2026-04-15T19:00:00",
-        "task_metadata": "Added from /nt user request on 2026-04-14. Priority critical.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-14T06:35:58.122339-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          },
-          {
-            "action": "complete",
-            "by": "erdell",
-            "at": "2026-04-19T21:47:48.216849-04:00",
-            "notes": "Marked done per user request in chat"
-          }
-        ],
-        "completed_at": "2026-04-19T21:47:48.216849-04:00"
-      },
-      {
-        "id": "a177c19c",
-        "title": "get letter of support from chair for AUC",
-        "status": "Complete",
-        "priority": "Critical",
-        "date_due": "2026-04-16T11:00:00",
-        "task_metadata": "Added from /nt user request on 2026-04-15. Priority critical.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-15T12:06:40.340561-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          },
-          {
-            "action": "complete",
-            "by": "erdell",
-            "at": "2026-04-16T11:42:33.602674-04:00",
-            "notes": "Marked done per user request in chat"
-          }
-        ],
-        "completed_at": "2026-04-16T11:42:33.602674-04:00"
-      },
-      {
-        "id": "a67217b1",
-        "title": "prepare for online test in college algebra",
-        "status": "Complete",
-        "priority": "Critical",
-        "date_due": "2026-04-16T11:00:00",
-        "task_metadata": "Added from /nt user request on 2026-04-15. Priority critical.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-15T22:30:27.605150-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          },
-          {
-            "action": "complete",
-            "by": "erdell",
-            "at": "2026-04-19T21:49:22.200276-04:00",
-            "notes": "Marked done per user request in chat"
-          }
-        ],
-        "completed_at": "2026-04-19T21:49:22.200276-04:00"
-      },
-      {
-        "id": "b49467d3",
-        "title": "send a draft letter to Dr. Ajth of AUC",
-        "status": "Complete",
-        "priority": "Critical",
-        "date_due": "2026-04-16T20:30:00",
-        "task_metadata": "Added from /nt user request on 2026-04-16. Priority critical.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-16T14:04:42.632077-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          },
-          {
-            "action": "complete",
-            "by": "erdell",
-            "at": "2026-04-16T18:24:53.785001-04:00",
-            "notes": "Marked done per user request in chat"
-          }
-        ],
-        "completed_at": "2026-04-16T18:24:53.785001-04:00"
-      },
-      {
-        "id": "c28b0fc6",
-        "title": "cancel class on Friday 4/22 attending PI luncheon",
-        "status": "Complete",
-        "priority": "Critical",
-        "date_due": "2026-04-17T15:00:00",
-        "task_metadata": "Added from /nt user request on 2026-04-17. Priority critical.\n[2026-04-19 22:14:55] Marked complete",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-17T13:11:45.530899-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          }
-        ]
-      },
-      {
-        "id": "c9bbf396",
-        "title": "create study program for Brilliance's baptism",
-        "status": "Complete",
-        "priority": "Critical",
-        "date_due": "2026-04-19T17:00:00",
-        "task_metadata": "Added from /nt user request on 2026-04-19. Priority critical.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-19T10:49:37.346272-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          },
-          {
-            "action": "complete",
-            "by": "erdell",
-            "at": "2026-04-19T11:00:32.141061-04:00",
-            "notes": "Marked done per user request in chat"
-          }
-        ],
-        "completed_at": "2026-04-19T11:00:32.141061-04:00"
-      },
-      {
-        "id": "883018c3",
-        "title": "take letter to DMV 2900 Apalachee Pkwy",
-        "status": "Complete",
-        "priority": "Critical",
-        "date_due": "2026-04-20T14:30:00",
-        "task_metadata": "Added from /nt user request on 2026-04-19. Priority critical.\n[2026-04-20 17:13:44] Marked complete",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-19T17:28:59.194260-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          }
-        ]
-      },
-      {
-        "title": "post College Agebra Final Exam",
-        "status": "Complete",
-        "date_due": "2026-04-21T20:00:00",
-        "priority": "Critical",
-        "task_metadata": "Created from /nt user request on 2026-04-20.\n[2026-04-25 18:32:51] Marked done per user request in chat"
-      },
-      {
-        "title": "add atlas cloud to openclaw",
-        "status": "Complete",
-        "date_due": "2026-04-22T10:00:00",
-        "priority": "Critical",
-        "task_metadata": "Created from /nt user request on 2026-04-21.\n[2026-04-25 18:32:52] Marked done per user request in chat"
-      },
-      {
-        "title": "sign AUC contract",
-        "status": "Complete",
-        "date_due": "2026-04-22T17:00:00",
-        "priority": "Critical",
-        "task_metadata": "Created from /nt user request on 2026-04-22.\n[2026-04-24 20:24:54] Marked done by user confirmation on 2026-04-24."
-      },
-      {
-        "title": "remind students to study systems of equations",
-        "status": "Complete",
-        "date_due": "2026-04-23T09:30:00",
-        "priority": "Critical",
-        "task_metadata": "Created from /nt user request on 2026-04-23.\n[2026-04-25 18:32:52] Marked done per user request in chat"
-      },
-      {
-        "title": "PAY THE Bills",
-        "status": "Complete",
-        "date_due": "2026-04-24T09:30:00",
-        "priority": "Critical",
-        "task_metadata": "Created from /nt user request on 2026-04-23.\n[2026-04-25 18:32:52] Marked done per user request in chat"
-      },
-      {
-        "title": "double check that the college algebra finals are ready to go",
-        "status": "Complete",
-        "date_due": "2026-04-25T12:00:00",
-        "priority": "Critical",
-        "task_metadata": "Created from /nt user request on 2026-04-24.\n[2026-04-25 18:32:52] Marked done per user request in chat"
-      },
-      {
-        "title": "Test Repository Setup",
-        "status": "Complete",
-        "date_due": "2026-03-17",
-        "priority": "High",
-        "task_metadata": "Description: Test the new todo-manager repository structure and ensure both Erdell and lite_bot can access it properly.\nNotes: This is a test task to demonstrate the task format and ensure the repository is working correctly. Once confirmed, we can begin migrating from the GitHub Pages todo website to this repository-based system.\nTags: setup, test, repository, integration, proactive_help, overdue, priority, github-actions\nHistory: [2026-03-16T18:51:00Z] created by lite_bot: Initial test task to verify repository structure and access | [2026-03-18T12:05:00Z] status_update by lite_bot: Task analysis completed. Repository testing initiated. Comprehensive report sent to Telegram. Task marked as overdue (due March 17). Starting immediate testing procedures. | [2026-03-18T16:06:00Z] proactive_help by lite_bot: Proactive Todo Guardian analysis completed. Conducted web searches for GitHub repository best practices, human-AI collaboration, and testing procedures. Generated concrete action plan with 5 specific steps. Sent comprehensive report to Telegram with resources and search queries. | [2026-03-18T18:05:00Z] proactive_help by lite_bot: Enhanced Proactive Todo Guardian analysis with real 2026 web search data. Found concrete solutions for GitHub repository setup with human-AI collaboration. Provided psychology-based strategies for overcoming procrastination on overdue tasks. Sent comprehensive actionable report to Telegram with 5-step implementation plan, specific resources, and immediate next steps. | [2026-03-18T21:00:00Z] proactive_help by lite_bot: Cron-triggered Proactive Todo Guardian executed. Conducted fresh 2026 web searches for GitHub repository testing, AI-human collaboration, and procrastination psychology. Generated comprehensive 5-step implementation plan with specific commands for GitHub Actions automated testing. Provided psychology-based strategies for overcoming overdue task procrastination. Sent detailed actionable report to Telegram with concrete next steps.\nSource: erdellmfx2/todo-manager/tasks/active/task-001.json\n[2026-03-19 01:54:57] Completed per Erdell instruction",
-        "source": {
-          "repository": "erdellmfx2/todo-manager",
-          "path": "tasks/active/task-001.json",
-          "original_id": "task-001"
-        }
-      },
-      {
-        "title": "Feed the grass",
-        "status": "Complete",
-        "date_due": "2026-03-19T17:00",
-        "priority": "High",
-        "task_metadata": "Added from Erdell list (today at 5 PM)\n[2026-03-19 12:10:50] 🔍 Web search: 'spring lawn fertilization timing soil temperature 2026' - Optimal when soil reaches 50-55°F. Apply before rain. Use slow-release nitrogen fertilizer....\n[2026-03-19 12:11:23] 🔍 Web search: 'spring lawn fertilization timing soil temperature 2026' - Optimal when soil reaches 50-55°F. Apply before rain. Use slow-release nitrogen fertilizer....\n[2026-03-19 12:11:46] 🔍 Web search: 'spring lawn fertilization timing soil temperature 2026' - Optimal when soil reaches 50-55°F. Apply before rain. Use slow-release nitrogen fertilizer....\n[2026-03-19 14:00:04] 🔍 Web search: 'spring lawn fertilization timing soil temperature 2026' - Optimal when soil reaches 50-55°F. Apply before rain. Use slow-release nitrogen fertilizer....\n[2026-03-19 14:05:41] ✅ Fertilizer and dispenser already acquired and ready for use.\n[2026-03-19 16:17:00] ✅ TASK COMPLETED - Fertilizer applied successfully.",
-        "completed_at": "2026-03-19T16:17:50"
-      },
-      {
-        "title": "Find place to send my paper",
-        "status": "Complete",
-        "date_due": "2026-03-19T19:00",
-        "priority": "High",
-        "task_metadata": "Added from Erdell list\n[2026-03-19 12:10:50] 🔍 Web search: 'mathematics education journals submission 2026 special issues' - Top journals: JRME, Educational Studies in Math. 2026 special issues on AI in education....\n[2026-03-19 12:11:23] 🔍 Web search: 'mathematics education journals submission 2026 special issues' - Top journals: JRME, Educational Studies in Math. 2026 special issues on AI in education....\n[2026-03-19 12:11:46] 🔍 Web search: 'mathematics education journals submission 2026 special issues' - Top journals: JRME, Educational Studies in Math. 2026 special issues on AI in education....\n[2026-03-19 14:00:04] 🔍 Web search: 'mathematics education journals submission 2026 special issues' - Top journals: JRME, Educational Studies in Math. 2026 special issues on AI in education....\n[2026-03-19 16:22:29] 📅 Due date updated: Today at 7:00 PM (was: none)\n[2026-03-19 20:41] ✅ PAPER SUBMITTED! Sent to Taylor & Francis Group (prestigious academic publisher)\n[2026-04-01 10:09:28] Marked as completed by user in chat.",
-        "date_completed": "2026-03-19T20:41:36"
-      },
-      {
-        "title": "ASAF proposal",
-        "status": "Completed",
-        "date_due": "2026-03-19T20:00",
-        "priority": "High",
-        "task_metadata": "[2026-03-19 16:26:09] Added: ASAF proposal due today at 8:00 PM, HIGH priority\n[2026-03-19 22:43] ✅ ASAF PROPOSAL COMPLETED! Submitted 2 hours 43 minutes past 8:00 PM deadline\n[2026-03-19 22:44] ✅ ASAF PROPOSAL COMPLETED! Submitted at 10:44 PM",
-        "date_completed": "2026-03-19T22:44:51"
-      },
-      {
-        "title": "hang the certificates",
-        "status": "Completed",
-        "date_due": "2026-03-20T16:30",
-        "priority": "High",
-        "task_metadata": "Added from user request\n[2026-03-20 13:12] 🖼️ Added: hang the certificates due today at 4:30 PM, HIGH priority.\nTime selected using today's schedule snapshot (midday classes through ~2:15 PM), leaving buffer for transition/tasks.\n[2026-03-22 18:14] ✅ TASK COMPLETED per user instruction (audio).",
-        "date_completed": "2026-03-22T18:14:42"
-      },
-      {
-        "title": "do noony's taxes",
-        "status": "Completed",
-        "date_due": "2026-03-20T19:30",
-        "priority": "High",
-        "task_metadata": "Added from user request\n[2026-03-20 13:47] 💰 Added: do noony's taxes due today at 7:30 PM, HIGH priority.\n[2026-03-20 20:37] ✅ TASK COMPLETED per user message: do noony’s taxes done.",
-        "date_completed": "2026-03-20T20:37:29"
-      },
-      {
-        "title": "print out weekly schedule for Bryan Brilliance and Braya",
-        "status": "Completed",
-        "date_due": "2026-03-22T19:00",
-        "priority": "High",
-        "task_metadata": "Added from user request\n[2026-03-20 11:59] 🗓️ Added: print out weekly schedule for Bryan Brilliance and Braya due Sunday 7:00 PM, HIGH priority.\n[2026-03-22 14:10] ✅ TASK COMPLETED per user instruction.",
-        "date_completed": "2026-03-22T14:10:46"
-      },
-      {
-        "title": "go to tutoring session",
-        "status": "Completed",
-        "date_due": "2026-03-23T13:45",
-        "priority": "High",
-        "task_metadata": "Added from user request\n[2026-03-22 00:19] 📚 Added: go to tutoring session tomorrow at 1:45 PM, HIGH priority.\n[2026-03-22 19:39] ✅ TASK COMPLETED per user instruction.",
-        "date_completed": "2026-03-22T19:39:37"
-      },
-      {
-        "title": "play basketball with Bryan",
-        "status": "Completed",
-        "date_due": "2026-03-23T15:00",
-        "priority": "High",
-        "task_metadata": "Added from user request\\n[2026-03-20 00:59] 🏀 Added: play basketball with Bryan today at 3:00 PM, HIGH priority\n[2026-03-20 20:39] 📅 Rescheduled to Sunday at 3:00 PM.\n[2026-03-22 18:32] 📅 Rescheduled to Monday at 3:00 PM.\n[2026-03-24 11:01] ✅ TASK COMPLETED per user instruction.",
-        "date_completed": "2026-03-24T11:01:00"
-      },
-      {
-        "title": "Email struggling students",
-        "status": "Done",
-        "date_due": "2026-03-26",
-        "priority": "High",
-        "task_metadata": "Added from Erdell list\n[2026-03-19 16:23:57] ⚡ Priority escalated: HIGH (was: MEDIUM)\n[2026-03-19 16:53:54] 🔄 Recurrence added: weekly (every Monday)\n[2026-03-20 11:37] 🔧 Updated: recurrence removed; converted to regular task due 2026-03-26.\n[2026-04-06 10:55] ✅ Marked done by user confirmation."
-      },
-      {
-        "title": "pay water bill",
-        "status": "Complete",
-        "date_due": "2026-04-03T10:00",
-        "priority": "High",
-        "task_metadata": "Added via chat request.\n[2026-04-03 10:06:02] Marked completed by user in chat."
-      },
-      {
-        "title": "grade college algebra test 3",
-        "status": "Done",
-        "date_due": "2026-04-03T19:00",
-        "priority": "High",
-        "task_metadata": "Added via chat request.\n[2026-04-06 10:55] ✅ Marked done by user confirmation."
-      },
-      {
-        "id": "5e4c1161",
-        "title": "set up work flow to build clawbot book",
-        "status": "Complete",
-        "priority": "High",
-        "date_due": "2026-04-07T11:00:00",
-        "task_metadata": "Added from user request on 2026-04-07. Priority high.\n[2026-04-08 22:25] ✅ Completed per user request.\n[2026-04-09 15:48:34] Marked done on 2026-04-09 15:48 EDT via request",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-07T09:26:00-04:00",
-            "notes": "Created from user instruction"
-          },
-          {
-            "action": "status_update",
-            "by": "erdell",
-            "at": "2026-04-08T22:25:54.728106",
-            "notes": "Marked completed per user instruction in chat"
-          }
-        ]
-      },
-      {
-        "title": "post class videos for statistics",
-        "status": "Complete",
-        "date_due": "2026-04-10T20:00",
-        "priority": "High",
-        "task_metadata": "",
-        "completed_at": "2026-04-13T09:43:18.483152-04:00",
-        "history": [
-          {
-            "action": "complete",
-            "by": "erdell",
-            "at": "2026-04-13T09:43:18.483152-04:00",
-            "notes": "Marked done per user request in chat"
-          }
-        ]
-      },
-      {
-        "title": "answer emails",
-        "status": "Complete",
-        "date_due": "2026-04-10T20:30",
-        "priority": "High",
-        "task_metadata": "",
-        "completed_at": "2026-04-13T19:48:37.105961-04:00",
-        "history": [
-          {
-            "action": "complete",
-            "by": "erdell",
-            "at": "2026-04-13T19:48:37.105961-04:00",
-            "notes": "Marked done per user request in chat"
-          }
-        ]
-      },
-      {
-        "id": "4251b1d2",
-        "title": "send out TSC survey notice",
-        "status": "Complete",
-        "priority": "High",
-        "date_due": "2026-04-13T11:00:00",
-        "task_metadata": "Added from /nt user request on 2026-04-13. Priority high.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-13T09:22:24.023119-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          },
-          {
-            "action": "complete",
-            "by": "erdell",
-            "at": "2026-04-13T10:16:40.663925-04:00",
-            "notes": "Marked done per user request in chat"
-          }
-        ],
-        "completed_at": "2026-04-13T10:16:40.663925-04:00"
-      },
-      {
-        "id": "42dce1e3",
-        "title": "find another journal to submit factoring paper",
-        "status": "Complete",
-        "priority": "High",
-        "date_due": "2026-04-15T20:00:00",
-        "task_metadata": "Added from /nt user request on 2026-04-12. Priority high.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-12T04:37:46.873611-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          },
-          {
-            "action": "complete",
-            "by": "erdell",
-            "at": "2026-04-14T11:53:55.663078-04:00",
-            "notes": "Marked done per user request in chat"
-          }
-        ],
-        "completed_at": "2026-04-14T11:53:55.663078-04:00"
-      },
-      {
-        "id": "b223dbce",
-        "title": "look for email from 2026 FDSI Course Access",
-        "status": "Complete",
-        "priority": "High",
-        "date_due": "2026-04-17T11:00:00",
-        "task_metadata": "Added from /nt user request on 2026-04-15. Priority high.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-15T23:02:42.710015-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          },
-          {
-            "action": "complete",
-            "by": "erdell",
-            "at": "2026-04-19T21:51:40.182784-04:00",
-            "notes": "Marked done per user request in chat"
-          }
-        ],
-        "completed_at": "2026-04-19T21:51:40.182784-04:00"
-      },
-      {
-        "id": "1d4829c9",
-        "title": "contact Yohn about AUC",
-        "status": "Complete",
-        "priority": "High",
-        "date_due": "2026-04-17T14:15:00",
-        "task_metadata": "Added from /nt user request on 2026-04-17. Priority high.\n[2026-04-19 22:13:47] Marked complete",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-17T11:31:41.009917-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          }
-        ]
-      },
-      {
-        "title": "do MLL hours",
-        "status": "Complete",
-        "date_due": "2026-04-20T11:00:00",
-        "priority": "High",
-        "task_metadata": "[2026-04-14 11:53] 📅 Due date moved to tomorrow (2026-04-15) by user request.\n[2026-04-19 22:54:46] [2026-04-19 22:54] 📅 Due date moved to tomorrow by user request.\n[2026-04-25 18:32:51] Marked done per user request in chat"
-      },
-      {
-        "title": "Start writing a paper on PRIMER course",
-        "status": "Complete",
-        "date_due": "2026-04-20T19:00",
-        "priority": "High",
-        "task_metadata": "[2026-04-20 12:47:35] Marked complete"
-      },
-      {
-        "title": "check student loans",
-        "status": "Complete",
-        "date_due": "2026-04-28T09:00:00",
-        "priority": "High",
-        "task_metadata": "Created from /nt user request on 2026-04-24.\n[2026-04-25 18:32:52] Marked done per user request in chat"
-      },
-      {
-        "id": "e86989d2",
-        "title": "look for text message to get new lenses",
-        "status": "Complete",
-        "priority": "High",
-        "date_due": "2026-04-29T17:00:00",
-        "task_metadata": "Added from user request on 2026-04-15. Notes: new lenses expected in 5 to 10 business days.\n[2026-04-25 18:32:52] Marked done per user request in chat",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-15T11:45:17.217052-04:00",
-            "notes": "Created from user instruction. Follow-up window is 5 to 10 business days."
-          }
-        ]
-      },
-      {
-        "title": "cancel Fitbit premium",
-        "status": "Complete",
-        "date_due": "2026-05-01T10:00",
-        "priority": "High",
-        "task_metadata": "Added from user request\n[2026-03-20 11:38] ⏰ Added: cancel Fitbit premium due 2026-05-01 at 10:00 AM, HIGH priority.\n[2026-04-09 15:47:27] Marked done on 2026-04-09 15:47 EDT via request"
-      },
-      {
-        "title": "Create questionnaire to send out to the Phase 2 data science mentors",
-        "status": "Complete",
-        "date_due": "none",
-        "priority": "High",
-        "task_metadata": "Reminder created from paper-planning chat on 2026-04-20.\n[2026-04-25 18:32:52] Marked done per user request in chat"
-      },
-      {
-        "title": "run q_bot for lesson plans",
-        "status": "Completed",
-        "date_due": "2026-03-19T21:00",
+        "date_due": "2026-05-10T21:30:00-04:00",
         "priority": "Medium",
-        "task_metadata": "[2026-03-19 16:26:09] Added: run q_bot for lesson plans due today at 9:00 PM, MEDIUM priority\n[2026-03-20 00:45] ✅ TASK COMPLETED - q_bot lesson plan workflow executed and validated.",
-        "date_completed": "2026-03-20T00:45:33"
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-10T20:22:46.438478-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-10T20:22:46.438483-04:00",
+            "notes": "Original due text: Today at 9:30 pm"
+          },
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-05-10T23:52:00-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ],
+        "completed_at": "2026-05-10T23:52:00-04:00"
       },
       {
-        "title": "unstop the bathroom sink",
-        "status": "Completed",
-        "date_due": "2026-03-21T12:00",
-        "priority": "Medium",
-        "task_metadata": "Added from user request\n[2026-03-21 11:45] 🧴 Added: unstock the bathroom sink due today at 12:00 PM, MEDIUM priority.\n[2026-03-21 11:45] ✏️ Renamed task title to 'unstop the bathroom sink'.\n[2026-03-21 12:20] ✅ TASK COMPLETED per user instruction.",
-        "date_completed": "2026-03-21T12:20:13"
-      },
-      {
-        "title": "Reach out to Mrs. Walker to schedule next tutoring session",
-        "status": "Completed",
-        "date_due": "2026-03-22T15:00",
-        "priority": "Medium",
-        "task_metadata": "Added from user request\n[2026-03-20 11:50] 📞 Added: Reach out to Mrs. Walker to schedule next tutoring session due Sunday 3:00 PM, MEDIUM priority.\n[2026-03-21 13:22] ✅ TASK COMPLETED per user instruction.",
-        "date_completed": "2026-03-21T13:22:33"
-      },
-      {
-        "title": "check if Google's antigravity can use OpenAI Codex through OAuth",
-        "status": "Completed",
-        "date_due": "2026-03-22T17:00",
-        "priority": "Medium",
-        "task_metadata": "Added from user request\n[2026-03-22 01:47] 🔍 Added: check if Google's antigravity can use OpenAI Codex through OAuth due today at 5:00 PM, MEDIUM priority.\n[2026-03-22 10:17] ✅ TASK COMPLETED per user instruction.",
-        "date_completed": "2026-03-22T10:17:17"
-      },
-      {
-        "title": "Call Tires Plus",
+        "title": "pack bags for trip to Cali",
         "status": "Complete",
-        "date_due": "2026-04-02T11:00",
-        "priority": "Medium",
-        "task_metadata": "Added via voice note request.\n[2026-04-03 10:07:26] Marked completed by user in chat."
+        "date_due": "2026-05-03T16:00",
+        "priority": "High",
+        "task_metadata": "Created from /nt user request on 2026-05-02. User specified tomorrow at 4:00 PM and HIGH priority.",
+        "completed_at": "2026-05-10T23:52:00-04:00",
+        "history": [
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-05-10T23:52:00-04:00",
+            "notes": "Marked done per user request in chat"
+          }
+        ]
       },
       {
-        "id": "b61ac530",
-        "title": "check State Farm website",
+        "id": "43417126",
+        "title": "send the children to bed",
         "status": "Complete",
         "priority": "Medium",
-        "date_due": "2026-04-08T21:00:00",
-        "task_metadata": "Added from /nt user shortcut on 2026-04-08. Priority medium.\n[2026-04-08 22:25] ✅ Completed per user request.\n[2026-04-09 15:47:51] Marked done on 2026-04-09 15:47 EDT via request",
+        "date_due": "2026-05-10T21:00:00-04:00",
+        "task_metadata": "Created from /nt user request on 2026-05-10. Due today at 9:00 PM. Priority medium.",
         "history": [
           {
             "action": "create",
             "by": "erdell",
-            "at": "2026-04-08T19:06:00-04:00",
-            "notes": "Created from user shortcut /nt"
-          },
-          {
-            "action": "status_update",
-            "by": "erdell",
-            "at": "2026-04-08T22:25:54.728137",
-            "notes": "Marked completed per user instruction in chat"
-          }
-        ]
-      },
-      {
-        "id": "1c7b6bbc",
-        "title": "add i am a member of the FAMU AI Cluster to my CV",
-        "status": "Complete",
-        "priority": "Medium",
-        "date_due": "2026-04-18T17:00:00",
-        "task_metadata": "Added from /nt user request on 2026-04-17. Priority medium.\n[2026-04-19 22:14:22] Marked complete",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-17T13:08:30.304456-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          }
-        ]
-      },
-      {
-        "id": "2cc6d7b8",
-        "title": "make questions for Dr. Bandara",
-        "status": "Complete",
-        "priority": "Medium",
-        "date_due": "2026-04-19T17:00:00",
-        "task_metadata": "Added from /nt user request on 2026-04-17. Priority medium.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-17T13:12:12.669826-04:00",
+            "at": "2026-05-10T20:21:00-04:00",
             "notes": "Created from user instruction via /nt shortcut"
           },
           {
             "action": "complete",
             "by": "erdell",
-            "at": "2026-04-19T20:05:50.303366-04:00",
+            "at": "2026-05-10T23:52:00-04:00",
             "notes": "Marked done per user request in chat"
           }
         ],
-        "completed_at": "2026-04-19T20:05:50.303366-04:00"
-      },
-      {
-        "id": "dc45a891",
-        "title": "replace battery in scale",
-        "status": "Complete",
-        "priority": "Medium",
-        "date_due": "2026-04-19T17:00:00",
-        "task_metadata": "Added from /nt user request on 2026-04-19. Priority medium.\n[2026-04-19 22:17:57] Marked complete",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-19T11:38:42.449751-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          }
-        ]
-      },
-      {
-        "id": "83f0f194",
-        "title": "follow up AUC required activities",
-        "status": "Complete",
-        "priority": "Medium",
-        "date_due": "2026-04-19T19:00:00",
-        "task_metadata": "Added from /nt user request on 2026-04-18. Default priority medium.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-18T13:10:15.851256-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          },
-          {
-            "action": "complete",
-            "by": "erdell",
-            "at": "2026-04-19T21:40:57.430902-04:00",
-            "notes": "Marked done per user request in chat"
-          }
-        ],
-        "completed_at": "2026-04-19T21:40:57.430902-04:00"
-      },
-      {
-        "title": "create curriculum template for math department",
-        "status": "Complete",
-        "date_due": "2026-04-23T20:30:00",
-        "priority": "Medium",
-        "task_metadata": "Created from /nt user request on 2026-04-23.\n[2026-04-25 18:32:52] Marked done per user request in chat"
-      },
-      {
-        "title": "activate the chargepoint card",
-        "status": "Completed",
-        "date_due": "2026-03-20T20:30",
-        "priority": "Low",
-        "task_metadata": "Added from user request\n[2026-03-20 17:24] 🔔 Reminder task: activate the chargepoint card this afternoon at 8:30 PM, LOW priority.\n[2026-03-20 20:38] ✅ TASK COMPLETED per user message: activate the chargepoint card done.",
-        "date_completed": "2026-03-20T20:38:17"
-      },
-      {
-        "title": "Call and email the chair about preview day",
-        "status": "Completed",
-        "date_due": "2026-03-23T12:00",
-        "priority": "Low",
-        "task_metadata": "Added from user request\n[2026-03-23 11:17] ☎️ Added: Call and email the chair about preview day due today at 12:00 PM, LOW priority.\n[2026-03-23 11:27] ✅ Marked done per Erdell instruction.",
-        "date_completed": "2026-03-23T11:27:20.264837"
-      },
-      {
-        "title": "use antigravity to build a card battle game",
-        "status": "Done",
-        "date_due": "2026-06-15",
-        "priority": "Low",
-        "task_metadata": "Added from user request\n[2026-03-21 15:48] 🎮 Added: use antigravity to build a card battle game due 2026-06-15, LOW priority.\n[2026-04-06 10:55] ✅ Marked done by user confirmation."
-      },
-      {
-        "title": "Clean Bryan's room",
-        "status": "Completed",
-        "date_due": "2026-03-20T10:00",
-        "priority": "MEDIUM",
-        "task_metadata": "Added from voice reminder\n[2026-03-19 22:01] 🎤 Voice reminder: \"Remind me to clean Bryan's room tomorrow at 10:00 AM\"\n[2026-03-20 17:19] ✅ TASK COMPLETED per user instruction.",
-        "date_completed": "2026-03-20T17:19:16"
-      },
-      {
-        "title": "complete orienetation module 0 AUC",
-        "status": "Complete",
-        "date_due": "2026-04-24T17:00:00",
-        "priority": "Critical",
-        "task_metadata": "Created from /nt user request on 2026-04-22.\n[2026-05-02 12:55:14] Marked complete by user request on 2026-05-02."
-      },
-      {
-        "title": "update Google Gemma 4 models with Kimi K's idea, then benchmark",
-        "status": "Complete",
-        "date_due": "2026-05-01",
-        "priority": "Critical",
-        "task_metadata": "Added via chat request.\n[2026-05-02 12:55:14] Marked complete by user request on 2026-05-02."
-      },
-      {
-        "title": "do the budget",
-        "status": "Complete",
-        "date_due": "2026-05-01T11:00",
-        "priority": "High",
-        "task_metadata": "Created from /nt user request on 2026-05-01. High priority.\n[2026-05-02 12:55:14] Marked complete by user request on 2026-05-02."
+        "completed_at": "2026-05-10T23:52:00-04:00"
       },
       {
         "id": "fd561259",
@@ -1850,6 +1505,373 @@
         ],
         "completed_at": "2026-05-11T15:05:25.461125-04:00",
         "date_completed": "2026-05-11T15:05:25.461125-04:00"
+      },
+      {
+        "title": "add atlas cloud to openclaw",
+        "status": "Complete",
+        "date_due": "2026-04-22T10:00:00",
+        "priority": "Critical",
+        "task_metadata": "Created from /nt user request on 2026-04-21.\n[2026-04-25 18:32:52] Marked done per user request in chat"
+      },
+      {
+        "id": "1c7b6bbc",
+        "title": "add i am a member of the FAMU AI Cluster to my CV",
+        "status": "Complete",
+        "priority": "Medium",
+        "date_due": "2026-04-18T17:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-17. Priority medium.\n[2026-04-19 22:14:22] Marked complete",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-17T13:08:30.304456-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          }
+        ]
+      },
+      {
+        "id": "1692ad39",
+        "title": "Call Heskeith",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-04-07T14:00:00",
+        "task_metadata": "Added from user request on 2026-04-06. Priority critical.\n[2026-04-10 10:28:58] Marked complete",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-06T23:55:00-04:00",
+            "notes": "Created from user instruction"
+          }
+        ]
+      },
+      {
+        "title": "Call Tires Plus",
+        "status": "Complete",
+        "date_due": "2026-04-02T11:00",
+        "priority": "Medium",
+        "task_metadata": "Added via voice note request.\n[2026-04-03 10:07:26] Marked completed by user in chat."
+      },
+      {
+        "id": "c28b0fc6",
+        "title": "cancel class on Friday 4/22 attending PI luncheon",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-04-17T15:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-17. Priority critical.\n[2026-04-19 22:14:55] Marked complete",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-17T13:11:45.530899-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          }
+        ]
+      },
+      {
+        "title": "cancel Fitbit premium",
+        "status": "Complete",
+        "date_due": "2026-05-01T10:00",
+        "priority": "High",
+        "task_metadata": "Added from user request\n[2026-03-20 11:38] ⏰ Added: cancel Fitbit premium due 2026-05-01 at 10:00 AM, HIGH priority.\n[2026-04-09 15:47:27] Marked done on 2026-04-09 15:47 EDT via request"
+      },
+      {
+        "id": "b61ac530",
+        "title": "check State Farm website",
+        "status": "Complete",
+        "priority": "Medium",
+        "date_due": "2026-04-08T21:00:00",
+        "task_metadata": "Added from /nt user shortcut on 2026-04-08. Priority medium.\n[2026-04-08 22:25] ✅ Completed per user request.\n[2026-04-09 15:47:51] Marked done on 2026-04-09 15:47 EDT via request",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-08T19:06:00-04:00",
+            "notes": "Created from user shortcut /nt"
+          },
+          {
+            "action": "status_update",
+            "by": "erdell",
+            "at": "2026-04-08T22:25:54.728137",
+            "notes": "Marked completed per user instruction in chat"
+          }
+        ]
+      },
+      {
+        "title": "check student loans",
+        "status": "Complete",
+        "date_due": "2026-04-28T09:00:00",
+        "priority": "High",
+        "task_metadata": "Created from /nt user request on 2026-04-24.\n[2026-04-25 18:32:52] Marked done per user request in chat"
+      },
+      {
+        "title": "complete orienetation module 0 AUC",
+        "status": "Complete",
+        "date_due": "2026-04-24T17:00:00",
+        "priority": "Critical",
+        "task_metadata": "Created from /nt user request on 2026-04-22.\n[2026-05-02 12:55:14] Marked complete by user request on 2026-05-02."
+      },
+      {
+        "id": "1d4829c9",
+        "title": "contact Yohn about AUC",
+        "status": "Complete",
+        "priority": "High",
+        "date_due": "2026-04-17T14:15:00",
+        "task_metadata": "Added from /nt user request on 2026-04-17. Priority high.\n[2026-04-19 22:13:47] Marked complete",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-17T11:31:41.009917-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          }
+        ]
+      },
+      {
+        "title": "create curriculum template for math department",
+        "status": "Complete",
+        "date_due": "2026-04-23T20:30:00",
+        "priority": "Medium",
+        "task_metadata": "Created from /nt user request on 2026-04-23.\n[2026-04-25 18:32:52] Marked done per user request in chat"
+      },
+      {
+        "title": "Create questionnaire to send out to the Phase 2 data science mentors",
+        "status": "Complete",
+        "date_due": "none",
+        "priority": "High",
+        "task_metadata": "Reminder created from paper-planning chat on 2026-04-20.\n[2026-04-25 18:32:52] Marked done per user request in chat"
+      },
+      {
+        "title": "do MLL hours",
+        "status": "Complete",
+        "date_due": "2026-04-20T11:00:00",
+        "priority": "High",
+        "task_metadata": "[2026-04-14 11:53] 📅 Due date moved to tomorrow (2026-04-15) by user request.\n[2026-04-19 22:54:46] [2026-04-19 22:54] 📅 Due date moved to tomorrow by user request.\n[2026-04-25 18:32:51] Marked done per user request in chat"
+      },
+      {
+        "title": "Do taxes!",
+        "status": "Complete",
+        "date_due": "2026-04-03",
+        "priority": "Critical",
+        "task_metadata": "Added from Erdell list\n[2026-03-19 12:10:50] 🔍 Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-19 12:11:23] 🔍 Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-19 12:11:46] 🔍 Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-19 14:00:04] 🔍 Web search: 'tax preparation deadlines March 2026 small business' - March 21 not common tax deadline. April 15 primary deadline. Verify if business partnership filing....\n[2026-03-22 20:01] 📅 Rescheduled to Thursday (2026-03-26).\n[2026-04-08 22:25] ✅ Completed per user request.\n[2026-04-09 15:41:44] Marked done on 2026-04-09 15:41 EDT via request",
+        "history": [
+          {
+            "action": "status_update",
+            "by": "erdell",
+            "at": "2026-04-08T22:25:54.727679",
+            "notes": "Marked completed per user instruction in chat"
+          }
+        ]
+      },
+      {
+        "title": "do the budget",
+        "status": "Complete",
+        "date_due": "2026-05-01T11:00",
+        "priority": "High",
+        "task_metadata": "Created from /nt user request on 2026-05-01. High priority.\n[2026-05-02 12:55:14] Marked complete by user request on 2026-05-02."
+      },
+      {
+        "title": "double check that the college algebra finals are ready to go",
+        "status": "Complete",
+        "date_due": "2026-04-25T12:00:00",
+        "priority": "Critical",
+        "task_metadata": "Created from /nt user request on 2026-04-24.\n[2026-04-25 18:32:52] Marked done per user request in chat"
+      },
+      {
+        "title": "drop documents at eye doctor",
+        "status": "Done",
+        "date_due": "2026-04-06T16:00",
+        "priority": "Critical",
+        "task_metadata": "Added via chat request.\n[2026-04-06 10:55] ✅ Marked done by user confirmation."
+      },
+      {
+        "title": "email DLAC committee to start delivering surveys",
+        "status": "Done",
+        "date_due": "2026-04-06T10:00",
+        "priority": "Critical",
+        "task_metadata": "Added via chat request. Relates to DLAC committee coordination.\n[2026-04-06 10:55] ✅ Marked done by user confirmation."
+      },
+      {
+        "title": "Email struggling students",
+        "status": "Done",
+        "date_due": "2026-03-26",
+        "priority": "High",
+        "task_metadata": "Added from Erdell list\n[2026-03-19 16:23:57] ⚡ Priority escalated: HIGH (was: MEDIUM)\n[2026-03-19 16:53:54] 🔄 Recurrence added: weekly (every Monday)\n[2026-03-20 11:37] 🔧 Updated: recurrence removed; converted to regular task due 2026-03-26.\n[2026-04-06 10:55] ✅ Marked done by user confirmation."
+      },
+      {
+        "title": "grade college algebra test 3",
+        "status": "Done",
+        "date_due": "2026-04-03T19:00",
+        "priority": "High",
+        "task_metadata": "Added via chat request.\n[2026-04-06 10:55] ✅ Marked done by user confirmation."
+      },
+      {
+        "title": "Interpret and understand the information gathered for the Prompt Bible",
+        "status": "Complete",
+        "date_due": "2026-04-08T20:30",
+        "priority": "Critical",
+        "task_metadata": "Added from user request\n[2026-03-22 00:33] 🧠 Added: Interpret and understand the information gathered for the Prompt Bible due Wednesday at 8:30 PM, CRITICAL priority.\n[2026-04-01 10:08:14] Task completed by user request in chat."
+      },
+      {
+        "id": "e86989d2",
+        "title": "look for text message to get new lenses",
+        "status": "Complete",
+        "priority": "High",
+        "date_due": "2026-04-29T17:00:00",
+        "task_metadata": "Added from user request on 2026-04-15. Notes: new lenses expected in 5 to 10 business days.\n[2026-04-25 18:32:52] Marked done per user request in chat",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-15T11:45:17.217052-04:00",
+            "notes": "Created from user instruction. Follow-up window is 5 to 10 business days."
+          }
+        ]
+      },
+      {
+        "title": "PAY THE Bills",
+        "status": "Complete",
+        "date_due": "2026-04-24T09:30:00",
+        "priority": "Critical",
+        "task_metadata": "Created from /nt user request on 2026-04-23.\n[2026-04-25 18:32:52] Marked done per user request in chat"
+      },
+      {
+        "title": "pay water bill",
+        "status": "Complete",
+        "date_due": "2026-04-03T10:00",
+        "priority": "High",
+        "task_metadata": "Added via chat request.\n[2026-04-03 10:06:02] Marked completed by user in chat."
+      },
+      {
+        "title": "post College Agebra Final Exam",
+        "status": "Complete",
+        "date_due": "2026-04-21T20:00:00",
+        "priority": "Critical",
+        "task_metadata": "Created from /nt user request on 2026-04-20.\n[2026-04-25 18:32:51] Marked done per user request in chat"
+      },
+      {
+        "id": "76ea2e85",
+        "title": "remind me to use clawbot to track my business expenses",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-04-09T19:30:00",
+        "task_metadata": "Added from /nt user shortcut on 2026-04-08. Priority critical.\n[2026-04-10 11:56:14] Marked complete",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-08T22:48:00-04:00",
+            "notes": "Created from user shortcut /nt"
+          }
+        ]
+      },
+      {
+        "title": "remind students to study systems of equations",
+        "status": "Complete",
+        "date_due": "2026-04-23T09:30:00",
+        "priority": "Critical",
+        "task_metadata": "Created from /nt user request on 2026-04-23.\n[2026-04-25 18:32:52] Marked done per user request in chat"
+      },
+      {
+        "id": "dc45a891",
+        "title": "replace battery in scale",
+        "status": "Complete",
+        "priority": "Medium",
+        "date_due": "2026-04-19T17:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-19. Priority medium.\n[2026-04-19 22:17:57] Marked complete",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-19T11:38:42.449751-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          }
+        ]
+      },
+      {
+        "id": "5e4c1161",
+        "title": "set up work flow to build clawbot book",
+        "status": "Complete",
+        "priority": "High",
+        "date_due": "2026-04-07T11:00:00",
+        "task_metadata": "Added from user request on 2026-04-07. Priority high.\n[2026-04-08 22:25] ✅ Completed per user request.\n[2026-04-09 15:48:34] Marked done on 2026-04-09 15:48 EDT via request",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-07T09:26:00-04:00",
+            "notes": "Created from user instruction"
+          },
+          {
+            "action": "status_update",
+            "by": "erdell",
+            "at": "2026-04-08T22:25:54.728106",
+            "notes": "Marked completed per user instruction in chat"
+          }
+        ]
+      },
+      {
+        "title": "sign AUC contract",
+        "status": "Complete",
+        "date_due": "2026-04-22T17:00:00",
+        "priority": "Critical",
+        "task_metadata": "Created from /nt user request on 2026-04-22.\n[2026-04-24 20:24:54] Marked done by user confirmation on 2026-04-24."
+      },
+      {
+        "title": "Start payoff taxes on credit card",
+        "status": "Complete",
+        "date_due": "2026-04-10T11:00",
+        "priority": "Critical",
+        "task_metadata": "[2026-04-10 10:29:31] Marked complete"
+      },
+      {
+        "title": "Start writing a paper on PRIMER course",
+        "status": "Complete",
+        "date_due": "2026-04-20T19:00",
+        "priority": "High",
+        "task_metadata": "[2026-04-20 12:47:35] Marked complete"
+      },
+      {
+        "id": "883018c3",
+        "title": "take letter to DMV 2900 Apalachee Pkwy",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-04-20T14:30:00",
+        "task_metadata": "Added from /nt user request on 2026-04-19. Priority critical.\n[2026-04-20 17:13:44] Marked complete",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-19T17:28:59.194260-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          }
+        ]
+      },
+      {
+        "title": "Test Repository Setup",
+        "status": "Complete",
+        "date_due": "2026-03-17",
+        "priority": "High",
+        "task_metadata": "Description: Test the new todo-manager repository structure and ensure both Erdell and lite_bot can access it properly.\nNotes: This is a test task to demonstrate the task format and ensure the repository is working correctly. Once confirmed, we can begin migrating from the GitHub Pages todo website to this repository-based system.\nTags: setup, test, repository, integration, proactive_help, overdue, priority, github-actions\nHistory: [2026-03-16T18:51:00Z] created by lite_bot: Initial test task to verify repository structure and access | [2026-03-18T12:05:00Z] status_update by lite_bot: Task analysis completed. Repository testing initiated. Comprehensive report sent to Telegram. Task marked as overdue (due March 17). Starting immediate testing procedures. | [2026-03-18T16:06:00Z] proactive_help by lite_bot: Proactive Todo Guardian analysis completed. Conducted web searches for GitHub repository best practices, human-AI collaboration, and testing procedures. Generated concrete action plan with 5 specific steps. Sent comprehensive report to Telegram with resources and search queries. | [2026-03-18T18:05:00Z] proactive_help by lite_bot: Enhanced Proactive Todo Guardian analysis with real 2026 web search data. Found concrete solutions for GitHub repository setup with human-AI collaboration. Provided psychology-based strategies for overcoming procrastination on overdue tasks. Sent comprehensive actionable report to Telegram with 5-step implementation plan, specific resources, and immediate next steps. | [2026-03-18T21:00:00Z] proactive_help by lite_bot: Cron-triggered Proactive Todo Guardian executed. Conducted fresh 2026 web searches for GitHub repository testing, AI-human collaboration, and procrastination psychology. Generated comprehensive 5-step implementation plan with specific commands for GitHub Actions automated testing. Provided psychology-based strategies for overcoming overdue task procrastination. Sent detailed actionable report to Telegram with concrete next steps.\nSource: erdellmfx2/todo-manager/tasks/active/task-001.json\n[2026-03-19 01:54:57] Completed per Erdell instruction",
+        "source": {
+          "repository": "erdellmfx2/todo-manager",
+          "path": "tasks/active/task-001.json",
+          "original_id": "task-001"
+        }
+      },
+      {
+        "title": "update Google Gemma 4 models with Kimi K's idea, then benchmark",
+        "status": "Complete",
+        "date_due": "2026-05-01",
+        "priority": "Critical",
+        "task_metadata": "Added via chat request.\n[2026-05-02 12:55:14] Marked complete by user request on 2026-05-02."
+      },
+      {
+        "title": "use antigravity to build a card battle game",
+        "status": "Done",
+        "date_due": "2026-06-15",
+        "priority": "Low",
+        "task_metadata": "Added from user request\n[2026-03-21 15:48] 🎮 Added: use antigravity to build a card battle game due 2026-06-15, LOW priority.\n[2026-04-06 10:55] ✅ Marked done by user confirmation."
       }
     ]
   }
