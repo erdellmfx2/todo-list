@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-19T22:45:42.672511-04:00",
+  "updated_at": "2026-05-19T22:47:33.603042-04:00",
   "tasks": {
     "active": [
       {
@@ -73,14 +73,20 @@
         "title": "learn how to use hyperframes",
         "status": "Active",
         "priority": "High",
-        "date_due": "2026-05-10T18:00:00",
-        "task_metadata": "Created from /nt user request on 2026-05-09. User specified tomorrow at 6:00 PM and HIGH priority.",
+        "date_due": "2026-05-24",
+        "task_metadata": "Created from /nt user request on 2026-05-09. User specified tomorrow at 6:00 PM and HIGH priority.\n[2026-05-19 22:47:33] Rescheduled from overdue May 10 to next Sunday",
         "history": [
           {
             "action": "create",
             "by": "erdell",
             "at": "2026-05-09T17:46:00-04:00",
             "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "reschedule",
+            "by": "hermes",
+            "at": "2026-05-19T22:47:33.603030-04:00",
+            "notes": "Rescheduled from overdue May 10 to next Sunday"
           }
         ]
       },
