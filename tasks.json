@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-19T22:47:33.603042-04:00",
+  "updated_at": "2026-05-19T22:47:39.594339-04:00",
   "tasks": {
     "active": [
       {
@@ -93,9 +93,17 @@
       {
         "title": "Finish the CITI program",
         "status": "Active",
-        "date_due": "2026-05-11",
+        "date_due": "2026-05-25",
         "priority": "High",
-        "task_metadata": "Added from user request\n[2026-03-23 11:35] ⏰ Added reminder: finish the CITI program at the start of May (2026-05-01), HIGH priority.\n[2026-05-02 13:11:32] [2026-05-02 13:05] 📅 Due date moved to next Monday by user request."
+        "task_metadata": "Added from user request\n[2026-03-23 11:35] ⏰ Added reminder: finish the CITI program at the start of May (2026-05-01), HIGH priority.\n[2026-05-02 13:11:32] [2026-05-02 13:05] 📅 Due date moved to next Monday by user request.\n[2026-05-19 22:47:39] Rescheduled from overdue May 11 to next Monday",
+        "history": [
+          {
+            "action": "reschedule",
+            "by": "hermes",
+            "at": "2026-05-19T22:47:39.594325-04:00",
+            "notes": "Rescheduled from overdue May 11 to next Monday"
+          }
+        ]
       },
       {
         "id": "52ebd0c5",
