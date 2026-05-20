@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-19T22:38:28.894098-04:00",
+  "updated_at": "2026-05-19T22:38:36.932850-04:00",
   "tasks": {
     "active": [
       {
@@ -11,34 +11,6 @@
         "priority": "Critical",
         "date_due": "2026-05-04",
         "task_metadata": "Created from /nt user request on 2026-04-26.\n[2026-05-02 13:04:24] [2026-05-02 13:02] 📅 Due date moved to Monday by user request."
-      },
-      {
-        "id": "eb7a4d14",
-        "title": "update TSC syllabus",
-        "status": "Active",
-        "date_due": "2026-05-12",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.\n[2026-05-11 15:05:38] Due date moved to tomorrow via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-05-11T10:16:41.402718-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-11T10:16:41.402725-04:00",
-            "notes": "Original due text: today at 2 pm"
-          },
-          {
-            "action": "reschedule",
-            "by": "hermes",
-            "at": "2026-05-11T15:05:38.194741-04:00",
-            "notes": "Due date moved to tomorrow via Hermes task manager."
-          }
-        ]
       },
       {
         "id": "74853771",
@@ -1880,6 +1852,42 @@
         ],
         "completed_at": "2026-05-19T22:38:28.894020-04:00",
         "date_completed": "2026-05-19T22:38:28.894020-04:00"
+      },
+      {
+        "id": "eb7a4d14",
+        "title": "update TSC syllabus",
+        "status": "Complete",
+        "date_due": "2026-05-12",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-05-11 15:05:38] Due date moved to tomorrow via Hermes task manager.\n[2026-05-19 22:38:36] Marked complete via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-11T10:16:41.402718-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-11T10:16:41.402725-04:00",
+            "notes": "Original due text: today at 2 pm"
+          },
+          {
+            "action": "reschedule",
+            "by": "hermes",
+            "at": "2026-05-11T15:05:38.194741-04:00",
+            "notes": "Due date moved to tomorrow via Hermes task manager."
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-05-19T22:38:36.932842-04:00",
+            "notes": "Marked complete via Hermes task manager."
+          }
+        ],
+        "completed_at": "2026-05-19T22:38:36.932781-04:00",
+        "date_completed": "2026-05-19T22:38:36.932781-04:00"
       }
     ]
   }
