@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-19T22:39:06.120946-04:00",
+  "updated_at": "2026-05-19T22:39:11.647887-04:00",
   "tasks": {
     "active": [
       {
@@ -80,28 +80,6 @@
         "date_due": "2026-05-11",
         "priority": "High",
         "task_metadata": "Added from user request\n[2026-03-23 11:35] ⏰ Added reminder: finish the CITI program at the start of May (2026-05-01), HIGH priority.\n[2026-05-02 13:11:32] [2026-05-02 13:05] 📅 Due date moved to next Monday by user request."
-      },
-      {
-        "id": "f6c4cf4a",
-        "title": "go to sleep",
-        "status": "Active",
-        "date_due": "2026-05-11T10:00:00-04:00",
-        "priority": "High",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-05-11T01:24:36.844814-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-11T01:24:36.844823-04:00",
-            "notes": "Original due text: today at 10 am"
-          }
-        ]
       },
       {
         "id": "52ebd0c5",
@@ -1930,6 +1908,36 @@
             "notes": "Marked complete via Hermes task manager."
           }
         ]
+      },
+      {
+        "id": "f6c4cf4a",
+        "title": "go to sleep",
+        "status": "Complete",
+        "date_due": "2026-05-11T10:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.\n[2026-05-19 22:39:11] Marked complete via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-11T01:24:36.844814-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-11T01:24:36.844823-04:00",
+            "notes": "Original due text: today at 10 am"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-05-19T22:39:11.647878-04:00",
+            "notes": "Marked complete via Hermes task manager."
+          }
+        ],
+        "completed_at": "2026-05-19T22:39:11.647821-04:00",
+        "date_completed": "2026-05-19T22:39:11.647821-04:00"
       }
     ]
   }
