@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-19T22:59:25.529963-04:00",
+  "updated_at": "2026-05-20T08:08:17.340932-04:00",
   "tasks": {
     "active": [
       {
@@ -466,6 +466,28 @@
             "by": "hermes",
             "at": "2026-05-19T22:59:25.529956-04:00",
             "notes": "Original due text: tomorrow at 9 am"
+          }
+        ]
+      },
+      {
+        "id": "345c236f",
+        "title": "set up TSC course",
+        "status": "Active",
+        "date_due": "2026-05-21T13:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-20T08:08:17.340909-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-20T08:08:17.340925-04:00",
+            "notes": "Original due text: 2026-05-21T13:00:00"
           }
         ]
       }
