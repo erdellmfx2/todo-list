@@ -279,16 +279,32 @@
       {
         "title": "research Google research agent",
         "status": "Active",
-        "date_due": "2026-05-06T17:00:00",
+        "date_due": "2026-05-27T17:00:00",
         "priority": "Medium",
-        "task_metadata": "Created from /nt user request on 2026-04-23.\n[2026-05-02 13:24:11] [2026-05-02 13:08] \ud83d\udcc5 Due date moved to next Wednesday by user request."
+        "task_metadata": "Created from /nt user request on 2026-04-23.\n[2026-05-02 13:24:11] [2026-05-02 13:08] \ud83d\udcc5 Due date moved to next Wednesday by user request.\n[2026-05-19 22:52] \ud83d\udcc5 Rescheduled from overdue May 6 to next Wednesday (May 27)",
+        "history": [
+          {
+            "action": "reschedule",
+            "by": "hermes",
+            "at": "2026-05-19T22:52:00-04:00",
+            "notes": "Rescheduled from overdue May 6 to next Wednesday (May 27)"
+          }
+        ]
       },
       {
         "title": "do the step by step analysis in nvivo",
         "status": "Active",
-        "date_due": "2026-05-06T20:00:00",
+        "date_due": "2026-05-27T20:00:00",
         "priority": "Medium",
-        "task_metadata": "Created from /nt user request on 2026-04-20. Notes: carry out the Blue Print paper step-by-step analysis in NVivo.\n[2026-05-02 13:24:11] [2026-05-02 13:08] \ud83d\udcc5 Due date moved to next Wednesday by user request."
+        "task_metadata": "Created from /nt user request on 2026-04-20. Notes: carry out the Blue Print paper step-by-step analysis in NVivo.\n[2026-05-02 13:24:11] [2026-05-02 13:08] \ud83d\udcc5 Due date moved to next Wednesday by user request.\n[2026-05-19 22:52] \ud83d\udcc5 Rescheduled from overdue May 6 to next Wednesday (May 27)",
+        "history": [
+          {
+            "action": "reschedule",
+            "by": "hermes",
+            "at": "2026-05-19T22:52:00-04:00",
+            "notes": "Rescheduled from overdue May 6 to next Wednesday (May 27)"
+          }
+        ]
       },
       {
         "title": "update deepseek to use V4!",
