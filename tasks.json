@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-19T22:38:36.932850-04:00",
+  "updated_at": "2026-05-19T22:38:43.496193-04:00",
   "tasks": {
     "active": [
       {
@@ -11,22 +11,6 @@
         "priority": "Critical",
         "date_due": "2026-05-04",
         "task_metadata": "Created from /nt user request on 2026-04-26.\n[2026-05-02 13:04:24] [2026-05-02 13:02] 📅 Due date moved to Monday by user request."
-      },
-      {
-        "id": "74853771",
-        "title": "set up friday study and planning sessions for the summer",
-        "status": "Active",
-        "priority": "Critical",
-        "date_due": "2026-05-12T15:00:00-04:00",
-        "task_metadata": "Created from /nt user request on 2026-05-11. Due tomorrow at 3:00 PM. Priority critical.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-05-11T00:52:00-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          }
-        ]
       },
       {
         "id": "1f8031e7",
@@ -1888,6 +1872,30 @@
         ],
         "completed_at": "2026-05-19T22:38:36.932781-04:00",
         "date_completed": "2026-05-19T22:38:36.932781-04:00"
+      },
+      {
+        "id": "74853771",
+        "title": "set up friday study and planning sessions for the summer",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-05-12T15:00:00-04:00",
+        "task_metadata": "Created from /nt user request on 2026-05-11. Due tomorrow at 3:00 PM. Priority critical.\n[2026-05-19 22:38:43] Marked complete via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-05-11T00:52:00-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-05-19T22:38:43.496188-04:00",
+            "notes": "Marked complete via Hermes task manager."
+          }
+        ],
+        "completed_at": "2026-05-19T22:38:43.496141-04:00",
+        "date_completed": "2026-05-19T22:38:43.496141-04:00"
       }
     ]
   }
