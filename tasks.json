@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-19T22:48:38.820327-04:00",
+  "updated_at": "2026-05-19T22:48:49.741432-04:00",
   "tasks": {
     "active": [
       {
@@ -164,9 +164,17 @@
       {
         "title": "write a paper on doing research with the help of clawbot",
         "status": "Active",
-        "date_due": "2026-05-15",
+        "date_due": "2026-05-22",
         "priority": "High",
-        "task_metadata": "Added via chat request."
+        "task_metadata": "Added via chat request.\n[2026-05-19 22:48:49] Rescheduled from overdue May 15 to next Friday (May 29)",
+        "history": [
+          {
+            "action": "reschedule",
+            "by": "hermes",
+            "at": "2026-05-19T22:48:49.741422-04:00",
+            "notes": "Rescheduled from overdue May 15 to next Friday (May 29)"
+          }
+        ]
       },
       {
         "title": "change the water filter",
