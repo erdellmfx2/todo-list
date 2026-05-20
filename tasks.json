@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-20T09:25:10.124504-04:00",
+  "updated_at": "2026-05-20T11:13:14.555980-04:00",
   "tasks": {
     "active": [
       {
@@ -399,28 +399,6 @@
             "action": "create_request",
             "by": "hermes",
             "at": "2026-05-19T22:59:03.526754-04:00",
-            "notes": "Original due text: tomorrow at 9 am"
-          }
-        ]
-      },
-      {
-        "id": "23d6acae",
-        "title": "do quantum computing video video watching",
-        "status": "Active",
-        "date_due": "2026-05-20T09:00:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-05-19T22:59:09.802454-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-19T22:59:09.802469-04:00",
             "notes": "Original due text: tomorrow at 9 am"
           }
         ]
@@ -2216,6 +2194,36 @@
             "notes": "Marked complete via Hermes task manager."
           }
         ]
+      },
+      {
+        "id": "23d6acae",
+        "title": "do quantum computing video video watching",
+        "status": "Complete",
+        "date_due": "2026-05-20T09:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-05-20 11:13:14] Marked complete via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-19T22:59:09.802454-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-19T22:59:09.802469-04:00",
+            "notes": "Original due text: tomorrow at 9 am"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-05-20T11:13:14.555970-04:00",
+            "notes": "Marked complete via Hermes task manager."
+          }
+        ],
+        "completed_at": "2026-05-20T11:13:14.555908-04:00",
+        "date_completed": "2026-05-20T11:13:14.555908-04:00"
       }
     ]
   }
