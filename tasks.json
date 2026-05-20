@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-19T22:45:17.888302-04:00",
+  "updated_at": "2026-05-19T22:45:24.296722-04:00",
   "tasks": {
     "active": [
       {
@@ -45,14 +45,20 @@
         "title": "remind me to add thinking to lesson plan creation prompt",
         "status": "Active",
         "priority": "High",
-        "date_due": "2026-05-06",
-        "task_metadata": "Added from user request on 2026-04-07. Priority high.\n[2026-04-14 11:52] 📅 Due date moved to this Sunday (2026-04-19) by user request.\n[2026-04-19 22:55:53] [2026-04-19 22:54] 📅 Due date moved to next Sunday by user request.\n[2026-04-30 12:28] 📅 Due date moved to Wednesday (2026-05-06) by user request.",
+        "date_due": "2026-05-20",
+        "task_metadata": "Added from user request on 2026-04-07. Priority high.\n[2026-04-14 11:52] 📅 Due date moved to this Sunday (2026-04-19) by user request.\n[2026-04-19 22:55:53] [2026-04-19 22:54] 📅 Due date moved to next Sunday by user request.\n[2026-04-30 12:28] 📅 Due date moved to Wednesday (2026-05-06) by user request.\n[2026-05-19 22:45:24] Rescheduled from overdue May 6 to next Wednesday",
         "history": [
           {
             "action": "create",
             "by": "erdell",
             "at": "2026-04-07T10:16:00-04:00",
             "notes": "Created from user instruction"
+          },
+          {
+            "action": "reschedule",
+            "by": "hermes",
+            "at": "2026-05-19T22:45:24.296711-04:00",
+            "notes": "Rescheduled from overdue May 6 to next Wednesday"
           }
         ]
       },
