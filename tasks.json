@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-19T22:39:00.781024-04:00",
+  "updated_at": "2026-05-19T22:39:06.120946-04:00",
   "tasks": {
     "active": [
       {
@@ -57,13 +57,6 @@
             "notes": "Created from user instruction"
           }
         ]
-      },
-      {
-        "title": "update syllabus for summer TSC course",
-        "status": "Active",
-        "date_due": "2026-05-08",
-        "priority": "High",
-        "task_metadata": "Created from /nt user request on 2026-04-30. User specified due second week in May and HIGH priority."
       },
       {
         "id": "e24f9c71",
@@ -1920,6 +1913,23 @@
         ],
         "completed_at": "2026-05-19T22:39:00.780967-04:00",
         "date_completed": "2026-05-19T22:39:00.780967-04:00"
+      },
+      {
+        "title": "update syllabus for summer TSC course",
+        "status": "Complete",
+        "date_due": "2026-05-08",
+        "priority": "High",
+        "task_metadata": "Created from /nt user request on 2026-04-30. User specified due second week in May and HIGH priority.\n[2026-05-19 22:39:06] Marked complete via Hermes task manager.",
+        "completed_at": "2026-05-19T22:39:06.120865-04:00",
+        "date_completed": "2026-05-19T22:39:06.120865-04:00",
+        "history": [
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-05-19T22:39:06.120935-04:00",
+            "notes": "Marked complete via Hermes task manager."
+          }
+        ]
       }
     ]
   }
