@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-19T22:48:49.741432-04:00",
+  "updated_at": "2026-05-19T22:49:01.338322-04:00",
   "tasks": {
     "active": [
       {
@@ -212,9 +212,9 @@
       {
         "title": "Power wash the house",
         "status": "Active",
-        "date_due": "2026-04-26T15:00:00",
+        "date_due": "2026-05-25",
         "priority": "Medium",
-        "task_metadata": "Added from Erdell list\n[2026-03-19 16:53:54] 🔄 Recurrence added: every 3 months (5 total occurrences)\n[2026-03-20 11:36] 🔄 Recurrence updated: every 6 months\n[2026-03-22 00:29] 📅 Rescheduled to next week Saturday (2026-04-04).\n[2026-04-06 11:01] 📅 Due date moved to Saturday, 2026-04-11 at 3:00 PM by user request.\n[2026-04-14 11:51] 📅 Due date moved to next Saturday (2026-04-18) by user request.\n[2026-04-19 22:55:19] [2026-04-19 22:54] 📅 Due date moved to next Sunday by user request.",
+        "task_metadata": "Added from Erdell list\n[2026-03-19 16:53:54] 🔄 Recurrence added: every 3 months (5 total occurrences)\n[2026-03-20 11:36] 🔄 Recurrence updated: every 6 months\n[2026-03-22 00:29] 📅 Rescheduled to next week Saturday (2026-04-04).\n[2026-04-06 11:01] 📅 Due date moved to Saturday, 2026-04-11 at 3:00 PM by user request.\n[2026-04-14 11:51] 📅 Due date moved to next Saturday (2026-04-18) by user request.\n[2026-04-19 22:55:19] [2026-04-19 22:54] 📅 Due date moved to next Sunday by user request.\n[2026-05-19 22:49:01] Rescheduled from overdue April 26 to next Monday (May 25)",
         "recurrence": {
           "enabled": true,
           "type": "monthly",
@@ -226,7 +226,15 @@
           "completed_occurrences": 0,
           "skip_weekends": false,
           "day_of_month": 22
-        }
+        },
+        "history": [
+          {
+            "action": "reschedule",
+            "by": "hermes",
+            "at": "2026-05-19T22:49:01.338307-04:00",
+            "notes": "Rescheduled from overdue April 26 to next Monday (May 25)"
+          }
+        ]
       },
       {
         "id": "ddcf465a",
