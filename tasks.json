@@ -1,17 +1,9 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-19T22:39:17.021221-04:00",
+  "updated_at": "2026-05-19T22:43:58.965634-04:00",
   "tasks": {
     "active": [
-      {
-        "id": "18878715",
-        "title": "find someone to cut the grass",
-        "status": "Active",
-        "priority": "Critical",
-        "date_due": "2026-05-04",
-        "task_metadata": "Created from /nt user request on 2026-04-26.\n[2026-05-02 13:04:24] [2026-05-02 13:02] 📅 Due date moved to Monday by user request."
-      },
       {
         "id": "90312523",
         "title": "course homework assignments: touch different areas of life, social, programming, storytelling, problem solving, data gathering and analysis; include bug checking code; also learn about GitHub",
@@ -1946,6 +1938,24 @@
         ],
         "completed_at": "2026-05-19T22:39:17.021143-04:00",
         "date_completed": "2026-05-19T22:39:17.021143-04:00"
+      },
+      {
+        "id": "18878715",
+        "title": "find someone to cut the grass",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-05-04",
+        "task_metadata": "Created from /nt user request on 2026-04-26.\n[2026-05-02 13:04:24] [2026-05-02 13:02] 📅 Due date moved to Monday by user request.\n[2026-05-19 22:43:58] Marked complete via Hermes task manager.",
+        "completed_at": "2026-05-19T22:43:58.965554-04:00",
+        "date_completed": "2026-05-19T22:43:58.965554-04:00",
+        "history": [
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-05-19T22:43:58.965624-04:00",
+            "notes": "Marked complete via Hermes task manager."
+          }
+        ]
       }
     ]
   }
