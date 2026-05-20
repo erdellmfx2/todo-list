@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-19T22:50:00-04:00",
+  "updated_at": "2026-05-19T22:52:00-04:00",
   "tasks": {
     "active": [
       {
@@ -73,8 +73,8 @@
         "title": "learn how to use hyperframes",
         "status": "Active",
         "priority": "High",
-        "date_due": "2026-05-24",
-        "task_metadata": "Created from /nt user request on 2026-05-09. User specified tomorrow at 6:00 PM and HIGH priority.\n[2026-05-19 22:47:33] Rescheduled from overdue May 10 to next Sunday",
+        "date_due": "2026-05-31T18:00:00",
+        "task_metadata": "Created from /nt user request on 2026-05-09. User specified tomorrow at 6:00 PM and HIGH priority.\n[2026-05-19 22:47:33] Rescheduled from overdue May 10 to next Sunday\n[2026-05-19 22:52] \ud83d\udcc5 Rescheduled to next Sunday (May 31)",
         "history": [
           {
             "action": "create",
@@ -87,6 +87,12 @@
             "by": "hermes",
             "at": "2026-05-19T22:47:33.603030-04:00",
             "notes": "Rescheduled from overdue May 10 to next Sunday"
+          },
+          {
+            "action": "reschedule",
+            "by": "hermes",
+            "at": "2026-05-19T22:52:00-04:00",
+            "notes": "Rescheduled to next Sunday (May 31)"
           }
         ]
       },
@@ -241,8 +247,8 @@
         "title": "create a Saturday course to use Antigravity",
         "status": "Active",
         "priority": "Medium",
-        "date_due": "2026-05-20",
-        "task_metadata": "Added from /nt user request on 2026-04-15. Priority medium.\n[2026-05-02 13:24:11] [2026-05-02 13:08] \ud83d\udcc5 Due date moved to next Wednesday by user request.\n[2026-05-19 22:49:07] Rescheduled from overdue May 6 to next Wednesday (May 27)",
+        "date_due": "2026-05-30T16:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-15. Priority medium.\n[2026-05-02 13:24:11] [2026-05-02 13:08] \ud83d\udcc5 Due date moved to next Wednesday by user request.\n[2026-05-19 22:49:07] Rescheduled from overdue May 6 to next Wednesday (May 27)\n[2026-05-19 22:52] \ud83d\udcc5 Rescheduled to next Saturday (May 30)",
         "history": [
           {
             "action": "create",
@@ -261,6 +267,12 @@
             "by": "hermes",
             "at": "2026-05-19T22:49:07.076114-04:00",
             "notes": "Rescheduled from overdue May 6 to next Wednesday (May 27)"
+          },
+          {
+            "action": "reschedule",
+            "by": "hermes",
+            "at": "2026-05-19T22:52:00-04:00",
+            "notes": "Rescheduled to next Saturday (May 30)"
           }
         ]
       },
