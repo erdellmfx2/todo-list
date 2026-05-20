@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-19T22:38:49.898336-04:00",
+  "updated_at": "2026-05-19T22:38:55.678733-04:00",
   "tasks": {
     "active": [
       {
@@ -25,28 +25,6 @@
             "by": "erdell",
             "at": "2026-05-11T00:51:00-04:00",
             "notes": "Created from user instruction via /nt shortcut"
-          }
-        ]
-      },
-      {
-        "id": "7c0ab961",
-        "title": "complete CEDAR entries for student",
-        "status": "Active",
-        "date_due": "2026-05-15T13:00:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-05-14T00:00:41.065159-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-14T00:00:41.065171-04:00",
-            "notes": "Original due text: Tomorrow at 1 pm"
           }
         ]
       },
@@ -1904,6 +1882,36 @@
         ],
         "completed_at": "2026-05-19T22:38:49.898270-04:00",
         "date_completed": "2026-05-19T22:38:49.898270-04:00"
+      },
+      {
+        "id": "7c0ab961",
+        "title": "complete CEDAR entries for student",
+        "status": "Complete",
+        "date_due": "2026-05-15T13:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-05-19 22:38:55] Marked complete via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-14T00:00:41.065159-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-14T00:00:41.065171-04:00",
+            "notes": "Original due text: Tomorrow at 1 pm"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-05-19T22:38:55.678723-04:00",
+            "notes": "Marked complete via Hermes task manager."
+          }
+        ],
+        "completed_at": "2026-05-19T22:38:55.678653-04:00",
+        "date_completed": "2026-05-19T22:38:55.678653-04:00"
       }
     ]
   }
