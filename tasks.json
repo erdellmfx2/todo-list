@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-19T22:39:11.647887-04:00",
+  "updated_at": "2026-05-19T22:39:17.021221-04:00",
   "tasks": {
     "active": [
       {
@@ -183,28 +183,6 @@
           "skip_weekends": false,
           "day_of_month": 22
         }
-      },
-      {
-        "id": "af958596",
-        "title": "connect litebot to social media",
-        "status": "Active",
-        "priority": "Medium",
-        "date_due": "2026-05-03T15:00:00",
-        "task_metadata": "Added from /nt user request on 2026-04-16. Priority medium.\n[2026-05-02 13:13:11] [2026-05-02 13:06] 📅 Due date moved to tomorrow at 3:00 PM by user request.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-16T19:15:12.863680-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          },
-          {
-            "action": "reschedule",
-            "by": "erdell",
-            "at": "2026-04-19T21:53:03.306664-04:00",
-            "notes": "Moved due date to tomorrow per user request"
-          }
-        ]
       },
       {
         "id": "ddcf465a",
@@ -1938,6 +1916,36 @@
         ],
         "completed_at": "2026-05-19T22:39:11.647821-04:00",
         "date_completed": "2026-05-19T22:39:11.647821-04:00"
+      },
+      {
+        "id": "af958596",
+        "title": "connect litebot to social media",
+        "status": "Complete",
+        "priority": "Medium",
+        "date_due": "2026-05-03T15:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-16. Priority medium.\n[2026-05-02 13:13:11] [2026-05-02 13:06] 📅 Due date moved to tomorrow at 3:00 PM by user request.\n[2026-05-19 22:39:17] Marked complete via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-16T19:15:12.863680-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "reschedule",
+            "by": "erdell",
+            "at": "2026-04-19T21:53:03.306664-04:00",
+            "notes": "Moved due date to tomorrow per user request"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-05-19T22:39:17.021210-04:00",
+            "notes": "Marked complete via Hermes task manager."
+          }
+        ],
+        "completed_at": "2026-05-19T22:39:17.021143-04:00",
+        "date_completed": "2026-05-19T22:39:17.021143-04:00"
       }
     ]
   }
