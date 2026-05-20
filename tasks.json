@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-19T22:49:01.338322-04:00",
+  "updated_at": "2026-05-19T22:49:07.076124-04:00",
   "tasks": {
     "active": [
       {
@@ -241,8 +241,8 @@
         "title": "create a Saturday course to use Antigravity",
         "status": "Active",
         "priority": "Medium",
-        "date_due": "2026-05-06T16:00:00",
-        "task_metadata": "Added from /nt user request on 2026-04-15. Priority medium.\n[2026-05-02 13:24:11] [2026-05-02 13:08] 📅 Due date moved to next Wednesday by user request.",
+        "date_due": "2026-05-20",
+        "task_metadata": "Added from /nt user request on 2026-04-15. Priority medium.\n[2026-05-02 13:24:11] [2026-05-02 13:08] 📅 Due date moved to next Wednesday by user request.\n[2026-05-19 22:49:07] Rescheduled from overdue May 6 to next Wednesday (May 27)",
         "history": [
           {
             "action": "create",
@@ -255,6 +255,12 @@
             "by": "erdell",
             "at": "2026-04-19T21:48:33.047202-04:00",
             "notes": "Moved due date to next Sunday per user request"
+          },
+          {
+            "action": "reschedule",
+            "by": "hermes",
+            "at": "2026-05-19T22:49:07.076114-04:00",
+            "notes": "Rescheduled from overdue May 6 to next Wednesday (May 27)"
           }
         ]
       },
