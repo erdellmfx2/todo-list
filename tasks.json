@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-19T22:43:58.965634-04:00",
+  "updated_at": "2026-05-19T22:45:17.888302-04:00",
   "tasks": {
     "active": [
       {
@@ -9,14 +9,20 @@
         "title": "course homework assignments: touch different areas of life, social, programming, storytelling, problem solving, data gathering and analysis; include bug checking code; also learn about GitHub",
         "status": "Active",
         "priority": "Critical",
-        "date_due": "2026-05-15T12:00:00-04:00",
-        "task_metadata": "Created from /nt user request on 2026-05-11. Due Friday at 12:00 PM. Priority critical.",
+        "date_due": "2026-05-22",
+        "task_metadata": "Created from /nt user request on 2026-05-11. Due Friday at 12:00 PM. Priority critical.\n[2026-05-19 22:45:17] Rescheduled from overdue May 15 to next Friday",
         "history": [
           {
             "action": "create",
             "by": "erdell",
             "at": "2026-05-11T00:51:00-04:00",
             "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "reschedule",
+            "by": "hermes",
+            "at": "2026-05-19T22:45:17.888288-04:00",
+            "notes": "Rescheduled from overdue May 15 to next Friday"
           }
         ]
       },
