@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-14T00:01:24.056175-04:00",
+  "updated_at": "2026-05-19T22:38:28.894098-04:00",
   "tasks": {
     "active": [
       {
@@ -11,22 +11,6 @@
         "priority": "Critical",
         "date_due": "2026-05-04",
         "task_metadata": "Created from /nt user request on 2026-04-26.\n[2026-05-02 13:04:24] [2026-05-02 13:02] 📅 Due date moved to Monday by user request."
-      },
-      {
-        "id": "59555096",
-        "title": "send in receipts from trip",
-        "status": "Active",
-        "priority": "Critical",
-        "date_due": "2026-05-10T17:00:00-04:00",
-        "task_metadata": "Created from /nt user request on 2026-05-10. Due today at 5:00 PM. Priority critical.",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-05-10T13:37:00-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          }
-        ]
       },
       {
         "id": "eb7a4d14",
@@ -1872,6 +1856,30 @@
         "date_due": "2026-06-15",
         "priority": "Low",
         "task_metadata": "Added from user request\n[2026-03-21 15:48] 🎮 Added: use antigravity to build a card battle game due 2026-06-15, LOW priority.\n[2026-04-06 10:55] ✅ Marked done by user confirmation."
+      },
+      {
+        "id": "59555096",
+        "title": "send in receipts from trip",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-05-10T17:00:00-04:00",
+        "task_metadata": "Created from /nt user request on 2026-05-10. Due today at 5:00 PM. Priority critical.\n[2026-05-19 22:38:28] Marked complete via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-05-10T13:37:00-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-05-19T22:38:28.894088-04:00",
+            "notes": "Marked complete via Hermes task manager."
+          }
+        ],
+        "completed_at": "2026-05-19T22:38:28.894020-04:00",
+        "date_completed": "2026-05-19T22:38:28.894020-04:00"
       }
     ]
   }
