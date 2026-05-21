@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-21T00:41:51.353575-04:00",
+  "updated_at": "2026-05-21T12:31:27.021086-04:00",
   "tasks": {
     "active": [
       {
@@ -472,6 +472,22 @@
             "by": "hermes",
             "at": "2026-05-21T00:41:51.353569-04:00",
             "notes": "Original due text: 2026-05-21T14:00:00"
+          }
+        ]
+      },
+      {
+        "id": "421953bb",
+        "title": "REMINDER: Students must complete solutions for tests. DUE TOMORROW at 10:00 AM. CRITICAL.",
+        "status": "Active",
+        "date_due": "2026-05-22T10:00:00",
+        "priority": "Critical",
+        "task_metadata": "Created via add_task.py",
+        "history": [
+          {
+            "action": "create",
+            "by": "helper-script",
+            "at": "2026-05-21T12:31:27.021059-04:00",
+            "notes": "Created via Hermes task workflow"
           }
         ]
       }
