@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-21T00:11:23.561391-04:00",
+  "updated_at": "2026-05-21T00:41:51.353575-04:00",
   "tasks": {
     "active": [
       {
@@ -449,6 +449,28 @@
             "action": "create_request",
             "by": "hermes",
             "at": "2026-05-20T22:52:13.558944-04:00",
+            "notes": "Original due text: 2026-05-21T14:00:00"
+          }
+        ]
+      },
+      {
+        "id": "cececea4",
+        "title": "call Dr. Ko tomorrow and set up a next four-month appointment",
+        "status": "Active",
+        "date_due": "2026-05-21T14:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-21T00:41:51.353554-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-21T00:41:51.353569-04:00",
             "notes": "Original due text: 2026-05-21T14:00:00"
           }
         ]
