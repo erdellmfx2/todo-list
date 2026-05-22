@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-22T10:27:54.378910-04:00",
+  "updated_at": "2026-05-22T10:42:18.157757-04:00",
   "tasks": {
     "active": [
       {
@@ -488,28 +488,6 @@
             "by": "helper-script",
             "at": "2026-05-21T12:31:27.021059-04:00",
             "notes": "Created via Hermes task workflow"
-          }
-        ]
-      },
-      {
-        "id": "f45e880a",
-        "title": "grade papers",
-        "status": "Active",
-        "date_due": "2026-05-22T11:00:00-04:00",
-        "priority": "High",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-05-22T09:26:02.485885-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-22T09:26:02.485900-04:00",
-            "notes": "Original due text: today at 11 am"
           }
         ]
       },
@@ -2508,6 +2486,36 @@
         ],
         "completed_at": "2026-05-22T09:59:12.500924-04:00",
         "date_completed": "2026-05-22T09:59:12.500924-04:00"
+      },
+      {
+        "id": "f45e880a",
+        "title": "grade papers",
+        "status": "Complete",
+        "date_due": "2026-05-22T11:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.\n[2026-05-22 10:42:18] Marked complete via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-22T09:26:02.485885-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-22T09:26:02.485900-04:00",
+            "notes": "Original due text: today at 11 am"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-05-22T10:42:18.157745-04:00",
+            "notes": "Marked complete via Hermes task manager."
+          }
+        ],
+        "completed_at": "2026-05-22T10:42:18.157675-04:00",
+        "date_completed": "2026-05-22T10:42:18.157675-04:00"
       }
     ]
   }
