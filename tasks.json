@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-22T10:46:38.921493-04:00",
+  "updated_at": "2026-05-22T12:19:52.869302-04:00",
   "tasks": {
     "active": [
       {
@@ -488,28 +488,6 @@
             "by": "helper-script",
             "at": "2026-05-21T12:31:27.021059-04:00",
             "notes": "Created via Hermes task workflow"
-          }
-        ]
-      },
-      {
-        "id": "2213797a",
-        "title": "watch quantum computing",
-        "status": "Active",
-        "date_due": "2026-05-22T11:30:00-04:00",
-        "priority": "High",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-05-22T09:26:23.637826-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-22T09:26:23.637837-04:00",
-            "notes": "Original due text: 2026-05-22T11:30:00-04:00"
           }
         ]
       },
@@ -2560,6 +2538,36 @@
         ],
         "completed_at": "2026-05-22T10:42:18.157675-04:00",
         "date_completed": "2026-05-22T10:42:18.157675-04:00"
+      },
+      {
+        "id": "2213797a",
+        "title": "watch quantum computing",
+        "status": "Complete",
+        "date_due": "2026-05-22T11:30:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.\n[2026-05-22 12:19:52] Marked as done by user request",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-22T09:26:23.637826-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-22T09:26:23.637837-04:00",
+            "notes": "Original due text: 2026-05-22T11:30:00-04:00"
+          },
+          {
+            "action": "complete",
+            "by": "helper-script",
+            "at": "2026-05-22T12:19:52.869288-04:00",
+            "notes": "Marked as done by user request"
+          }
+        ],
+        "completed_at": "2026-05-22T12:19:52.869198-04:00",
+        "date_completed": "2026-05-22T12:19:52.869198-04:00"
       }
     ]
   }
