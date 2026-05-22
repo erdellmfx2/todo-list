@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-22T09:26:02.485907-04:00",
+  "updated_at": "2026-05-22T09:26:12.722106-04:00",
   "tasks": {
     "active": [
       {
@@ -510,6 +510,28 @@
             "by": "hermes",
             "at": "2026-05-22T09:26:02.485900-04:00",
             "notes": "Original due text: today at 11 am"
+          }
+        ]
+      },
+      {
+        "id": "f8072b1b",
+        "title": "answer email",
+        "status": "Active",
+        "date_due": "2026-05-22T11:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-22T09:26:12.722083-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-22T09:26:12.722099-04:00",
+            "notes": "Original due text: 2026-05-22T11:00:00-04:00"
           }
         ]
       }
