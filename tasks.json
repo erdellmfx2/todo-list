@@ -1,31 +1,9 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-22T14:14:44.024785-04:00",
+  "updated_at": "2026-05-22T14:37:57.517373-04:00",
   "tasks": {
     "active": [
-      {
-        "id": "90312523",
-        "title": "course homework assignments: touch different areas of life, social, programming, storytelling, problem solving, data gathering and analysis; include bug checking code; also learn about GitHub",
-        "status": "Active",
-        "priority": "Critical",
-        "date_due": "2026-05-22",
-        "task_metadata": "Created from /nt user request on 2026-05-11. Due Friday at 12:00 PM. Priority critical.\n[2026-05-19 22:45:17] Rescheduled from overdue May 15 to next Friday",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-05-11T00:51:00-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          },
-          {
-            "action": "reschedule",
-            "by": "hermes",
-            "at": "2026-05-19T22:45:17.888288-04:00",
-            "notes": "Rescheduled from overdue May 15 to next Friday"
-          }
-        ]
-      },
       {
         "title": "Do assessment write ups DLAC",
         "status": "Active",
@@ -2608,6 +2586,36 @@
         ],
         "completed_at": "2026-05-22T14:14:44.024718-04:00",
         "date_completed": "2026-05-22T14:14:44.024718-04:00"
+      },
+      {
+        "id": "90312523",
+        "title": "course homework assignments: touch different areas of life, social, programming, storytelling, problem solving, data gathering and analysis; include bug checking code; also learn about GitHub",
+        "status": "Complete",
+        "priority": "Critical",
+        "date_due": "2026-05-22",
+        "task_metadata": "Created from /nt user request on 2026-05-11. Due Friday at 12:00 PM. Priority critical.\n[2026-05-19 22:45:17] Rescheduled from overdue May 15 to next Friday\n[2026-05-22 14:37:57] Marked as done by user request",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-05-11T00:51:00-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "reschedule",
+            "by": "hermes",
+            "at": "2026-05-19T22:45:17.888288-04:00",
+            "notes": "Rescheduled from overdue May 15 to next Friday"
+          },
+          {
+            "action": "complete",
+            "by": "helper-script",
+            "at": "2026-05-22T14:37:57.517365-04:00",
+            "notes": "Marked as done by user request"
+          }
+        ],
+        "completed_at": "2026-05-22T14:37:57.517301-04:00",
+        "date_completed": "2026-05-22T14:37:57.517301-04:00"
       }
     ]
   }
