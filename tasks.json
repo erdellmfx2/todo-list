@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-22T12:20:21.717953-04:00",
+  "updated_at": "2026-05-22T12:20:46.376408-04:00",
   "tasks": {
     "active": [
       {
@@ -427,28 +427,6 @@
             "action": "create_request",
             "by": "hermes",
             "at": "2026-05-20T22:52:13.558944-04:00",
-            "notes": "Original due text: 2026-05-21T14:00:00"
-          }
-        ]
-      },
-      {
-        "id": "cececea4",
-        "title": "call Dr. Ko tomorrow and set up a next four-month appointment",
-        "status": "Active",
-        "date_due": "2026-05-21T14:00:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-05-21T00:41:51.353554-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-21T00:41:51.353569-04:00",
             "notes": "Original due text: 2026-05-21T14:00:00"
           }
         ]
@@ -2584,6 +2562,36 @@
         ],
         "completed_at": "2026-05-22T12:20:21.717890-04:00",
         "date_completed": "2026-05-22T12:20:21.717890-04:00"
+      },
+      {
+        "id": "cececea4",
+        "title": "call Dr. Ko tomorrow and set up a next four-month appointment",
+        "status": "Complete",
+        "date_due": "2026-05-21T14:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-05-22 12:20:46] Marked as done by user request",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-21T00:41:51.353554-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-21T00:41:51.353569-04:00",
+            "notes": "Original due text: 2026-05-21T14:00:00"
+          },
+          {
+            "action": "complete",
+            "by": "helper-script",
+            "at": "2026-05-22T12:20:46.376399-04:00",
+            "notes": "Marked as done by user request"
+          }
+        ],
+        "completed_at": "2026-05-22T12:20:46.376343-04:00",
+        "date_completed": "2026-05-22T12:20:46.376343-04:00"
       }
     ]
   }
