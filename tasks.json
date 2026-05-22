@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-22T12:20:01.676099-04:00",
+  "updated_at": "2026-05-22T12:20:21.717953-04:00",
   "tasks": {
     "active": [
       {
@@ -406,28 +406,6 @@
             "by": "erdell",
             "at": "2026-05-20T09:30:00-04:00",
             "notes": "Updated title with detailed subtasks: Honorlock, Student support Hours, ALEKS due dates, UDOIT"
-          }
-        ]
-      },
-      {
-        "id": "b8e4ecdf",
-        "title": "use antigravity to create references",
-        "status": "Active",
-        "date_due": "2026-05-21T13:00:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-05-20T22:47:12.952236-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-20T22:47:12.952252-04:00",
-            "notes": "Original due text: 2026-05-21T13:00:00"
           }
         ]
       },
@@ -2576,6 +2554,36 @@
         ],
         "completed_at": "2026-05-22T12:20:01.676041-04:00",
         "date_completed": "2026-05-22T12:20:01.676041-04:00"
+      },
+      {
+        "id": "b8e4ecdf",
+        "title": "use antigravity to create references",
+        "status": "Complete",
+        "date_due": "2026-05-21T13:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-05-22 12:20:21] Marked as done by user request",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-20T22:47:12.952236-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-20T22:47:12.952252-04:00",
+            "notes": "Original due text: 2026-05-21T13:00:00"
+          },
+          {
+            "action": "complete",
+            "by": "helper-script",
+            "at": "2026-05-22T12:20:21.717944-04:00",
+            "notes": "Marked as done by user request"
+          }
+        ],
+        "completed_at": "2026-05-22T12:20:21.717890-04:00",
+        "date_completed": "2026-05-22T12:20:21.717890-04:00"
       }
     ]
   }
