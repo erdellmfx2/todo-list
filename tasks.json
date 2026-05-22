@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-22T09:51:23.737675-04:00",
+  "updated_at": "2026-05-22T09:59:12.500984-04:00",
   "tasks": {
     "active": [
       {
@@ -532,28 +532,6 @@
             "by": "hermes",
             "at": "2026-05-22T09:26:23.637837-04:00",
             "notes": "Original due text: 2026-05-22T11:30:00-04:00"
-          }
-        ]
-      },
-      {
-        "id": "038d1667",
-        "title": "create one pdf book for math comic",
-        "status": "Active",
-        "date_due": "2026-05-22T11:45:00-04:00",
-        "priority": "High",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-05-22T09:26:47.335141-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-22T09:26:47.335157-04:00",
-            "notes": "Original due text: 2026-05-22T11:45:00-04:00"
           }
         ]
       },
@@ -2478,6 +2456,36 @@
         ],
         "completed_at": "2026-05-22T09:51:23.737597-04:00",
         "date_completed": "2026-05-22T09:51:23.737597-04:00"
+      },
+      {
+        "id": "038d1667",
+        "title": "create one pdf book for math comic",
+        "status": "Complete",
+        "date_due": "2026-05-22T11:45:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.\n[2026-05-22 09:59:12] Marked complete via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-22T09:26:47.335141-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-22T09:26:47.335157-04:00",
+            "notes": "Original due text: 2026-05-22T11:45:00-04:00"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-05-22T09:59:12.500977-04:00",
+            "notes": "Marked complete via Hermes task manager."
+          }
+        ],
+        "completed_at": "2026-05-22T09:59:12.500924-04:00",
+        "date_completed": "2026-05-22T09:59:12.500924-04:00"
       }
     ]
   }
