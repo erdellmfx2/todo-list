@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-22T09:59:12.500984-04:00",
+  "updated_at": "2026-05-22T10:27:54.378910-04:00",
   "tasks": {
     "active": [
       {
@@ -576,6 +576,28 @@
             "by": "hermes",
             "at": "2026-05-22T09:38:12.818946-04:00",
             "notes": "Original due text: 2026-05-22T13:00:00-04:00"
+          }
+        ]
+      },
+      {
+        "id": "57c91843",
+        "title": "remind students of the instructions for college algebra tests",
+        "status": "Active",
+        "date_due": "2026-05-27T19:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-22T10:27:54.378894-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-22T10:27:54.378905-04:00",
+            "notes": "Original due text: 2026-05-27T19:00:00-04:00"
           }
         ]
       }
