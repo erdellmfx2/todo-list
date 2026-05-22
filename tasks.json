@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-22T10:42:41.131876-04:00",
+  "updated_at": "2026-05-22T10:46:38.921493-04:00",
   "tasks": {
     "active": [
       {
@@ -598,6 +598,28 @@
             "by": "hermes",
             "at": "2026-05-22T10:42:41.131870-04:00",
             "notes": "Original due text: 2026-05-23T14:00:00-04:00"
+          }
+        ]
+      },
+      {
+        "id": "4e02b59b",
+        "title": "fix dates for college algebra TSC",
+        "status": "Active",
+        "date_due": "2026-05-22T14:30:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-22T10:46:38.921470-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-22T10:46:38.921486-04:00",
+            "notes": "Original due text: 2026-05-22T14:30:00-04:00"
           }
         ]
       }
