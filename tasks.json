@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-24T13:49:45.433591-04:00",
+  "updated_at": "2026-05-24T17:46:46.332655-04:00",
   "tasks": {
     "active": [
       {
@@ -283,13 +283,6 @@
             "notes": "Rescheduled from overdue May 6 to next Wednesday (May 27)"
           }
         ]
-      },
-      {
-        "title": "update deepseek to use V4!",
-        "status": "Active",
-        "date_due": "2026-06-01T09:00:00",
-        "priority": "Medium",
-        "task_metadata": "Created from /nt user request on 2026-04-24."
       },
       {
         "title": "change the air filter",
@@ -2682,6 +2675,23 @@
         ],
         "completed_at": "2026-05-22T14:37:57.517301-04:00",
         "date_completed": "2026-05-22T14:37:57.517301-04:00"
+      },
+      {
+        "title": "update deepseek to use V4!",
+        "status": "Complete",
+        "date_due": "2026-06-01T09:00:00",
+        "priority": "Medium",
+        "task_metadata": "Created from /nt user request on 2026-04-24.\n[2026-05-24 17:46:46] Marked complete via Hermes task manager.",
+        "completed_at": "2026-05-24T17:46:46.332580-04:00",
+        "date_completed": "2026-05-24T17:46:46.332580-04:00",
+        "history": [
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-05-24T17:46:46.332645-04:00",
+            "notes": "Marked complete via Hermes task manager."
+          }
+        ]
       }
     ]
   }
