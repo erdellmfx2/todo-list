@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-24T13:37:31.325972-04:00",
+  "updated_at": "2026-05-24T13:49:45.433591-04:00",
   "tasks": {
     "active": [
       {
@@ -510,6 +510,28 @@
             "by": "hermes",
             "at": "2026-05-24T13:37:31.325965-04:00",
             "notes": "Original due text: today at 9 pm"
+          }
+        ]
+      },
+      {
+        "id": "3ee2ca4d",
+        "title": "Connect Supabase to Telegram bot",
+        "status": "Active",
+        "date_due": "2026-05-25T20:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-24T13:49:45.433578-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-24T13:49:45.433587-04:00",
+            "notes": "Original due text: tomorrow at 8 pm"
           }
         ]
       }
