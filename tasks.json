@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-24T17:47:05.471960-04:00",
+  "updated_at": "2026-05-24T17:47:08.373842-04:00",
   "tasks": {
     "active": [
       {
@@ -85,34 +85,6 @@
             "action": "reschedule",
             "by": "hermes",
             "at": "2026-05-19T22:47:39.594325-04:00",
-            "notes": "Rescheduled from overdue May 11 to next Monday"
-          }
-        ]
-      },
-      {
-        "id": "52ebd0c5",
-        "title": "Connect Hermes to social media",
-        "status": "Active",
-        "date_due": "2026-05-25",
-        "priority": "High",
-        "task_metadata": "Created via Hermes task manager.\n[2026-05-19 22:48:11] Rescheduled from overdue May 11 to next Monday",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-05-10T18:18:51.586816-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-10T18:18:51.586822-04:00",
-            "notes": "Original due text: Tomorrow at 12 noon"
-          },
-          {
-            "action": "reschedule",
-            "by": "hermes",
-            "at": "2026-05-19T22:48:11.984791-04:00",
             "notes": "Rescheduled from overdue May 11 to next Monday"
           }
         ]
@@ -2700,6 +2672,42 @@
         ],
         "completed_at": "2026-05-24T17:47:05.471889-04:00",
         "date_completed": "2026-05-24T17:47:05.471889-04:00"
+      },
+      {
+        "id": "52ebd0c5",
+        "title": "Connect Hermes to social media",
+        "status": "Complete",
+        "date_due": "2026-05-25",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.\n[2026-05-19 22:48:11] Rescheduled from overdue May 11 to next Monday\n[2026-05-24 17:47:08] Marked complete via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-10T18:18:51.586816-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-10T18:18:51.586822-04:00",
+            "notes": "Original due text: Tomorrow at 12 noon"
+          },
+          {
+            "action": "reschedule",
+            "by": "hermes",
+            "at": "2026-05-19T22:48:11.984791-04:00",
+            "notes": "Rescheduled from overdue May 11 to next Monday"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-05-24T17:47:08.373833-04:00",
+            "notes": "Marked complete via Hermes task manager."
+          }
+        ],
+        "completed_at": "2026-05-24T17:47:08.373769-04:00",
+        "date_completed": "2026-05-24T17:47:08.373769-04:00"
       }
     ]
   }
