@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-24T17:47:08.373842-04:00",
+  "updated_at": "2026-05-24T17:47:11.318989-04:00",
   "tasks": {
     "active": [
       {
@@ -86,34 +86,6 @@
             "by": "hermes",
             "at": "2026-05-19T22:47:39.594325-04:00",
             "notes": "Rescheduled from overdue May 11 to next Monday"
-          }
-        ]
-      },
-      {
-        "id": "31b08ef6",
-        "title": "put up posters and art on walls",
-        "status": "Active",
-        "date_due": "2026-05-25",
-        "priority": "High",
-        "task_metadata": "Created via Hermes task manager.\n[2026-05-19 22:48:38] Rescheduled from overdue May 11 to next Monday (May 25)",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-05-11T01:03:12.146666-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-11T01:03:12.146672-04:00",
-            "notes": "Original due text: Today at 5 pm"
-          },
-          {
-            "action": "reschedule",
-            "by": "hermes",
-            "at": "2026-05-19T22:48:38.820314-04:00",
-            "notes": "Rescheduled from overdue May 11 to next Monday (May 25)"
           }
         ]
       },
@@ -2708,6 +2680,42 @@
         ],
         "completed_at": "2026-05-24T17:47:08.373769-04:00",
         "date_completed": "2026-05-24T17:47:08.373769-04:00"
+      },
+      {
+        "id": "31b08ef6",
+        "title": "put up posters and art on walls",
+        "status": "Complete",
+        "date_due": "2026-05-25",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.\n[2026-05-19 22:48:38] Rescheduled from overdue May 11 to next Monday (May 25)\n[2026-05-24 17:47:11] Marked complete via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-11T01:03:12.146666-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-11T01:03:12.146672-04:00",
+            "notes": "Original due text: Today at 5 pm"
+          },
+          {
+            "action": "reschedule",
+            "by": "hermes",
+            "at": "2026-05-19T22:48:38.820314-04:00",
+            "notes": "Rescheduled from overdue May 11 to next Monday (May 25)"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-05-24T17:47:11.318979-04:00",
+            "notes": "Marked complete via Hermes task manager."
+          }
+        ],
+        "completed_at": "2026-05-24T17:47:11.318916-04:00",
+        "date_completed": "2026-05-24T17:47:11.318916-04:00"
       }
     ]
   }
