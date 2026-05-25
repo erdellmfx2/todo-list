@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-25T11:24:12.367906-04:00",
+  "updated_at": "2026-05-25T18:37:18.992927-04:00",
   "tasks": {
     "active": [
       {
@@ -491,6 +491,28 @@
             "by": "hermes",
             "at": "2026-05-25T11:24:12.367902-04:00",
             "notes": "Original due text: none"
+          }
+        ]
+      },
+      {
+        "id": "8f412702",
+        "title": "Go to Peace Ballroom",
+        "status": "Active",
+        "date_due": "2026-05-26T08:30:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-25T18:37:18.992909-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-25T18:37:18.992922-04:00",
+            "notes": "Original due text: Tomorrow at 8:30 am"
           }
         ]
       }
