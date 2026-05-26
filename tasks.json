@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-26T12:56:40.066887-04:00",
+  "updated_at": "2026-05-26T13:01:13.338027-04:00",
   "tasks": {
     "active": [
       {
@@ -557,6 +557,28 @@
             "by": "hermes",
             "at": "2026-05-26T12:56:40.066882-04:00",
             "notes": "Original due text: today at 5pm"
+          }
+        ]
+      },
+      {
+        "id": "28a2ced5",
+        "title": "AUC course create notes text",
+        "status": "Active",
+        "date_due": "2026-05-27T17:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-26T13:01:13.338005-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-26T13:01:13.338020-04:00",
+            "notes": "Original due text: Wednesday at 5pm"
           }
         ]
       }
