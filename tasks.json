@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-26T13:01:13.338027-04:00",
+  "updated_at": "2026-05-26T13:01:19.392971-04:00",
   "tasks": {
     "active": [
       {
@@ -578,6 +578,28 @@
             "action": "create_request",
             "by": "hermes",
             "at": "2026-05-26T13:01:13.338020-04:00",
+            "notes": "Original due text: Wednesday at 5pm"
+          }
+        ]
+      },
+      {
+        "id": "77a1e9be",
+        "title": "AUC course create quizzes",
+        "status": "Active",
+        "date_due": "2026-05-27T17:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-26T13:01:19.392958-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-26T13:01:19.392967-04:00",
             "notes": "Original due text: Wednesday at 5pm"
           }
         ]
