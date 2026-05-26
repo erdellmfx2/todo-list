@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-26T13:01:19.392971-04:00",
+  "updated_at": "2026-05-26T13:01:41.198626-04:00",
   "tasks": {
     "active": [
       {
@@ -601,6 +601,28 @@
             "by": "hermes",
             "at": "2026-05-26T13:01:19.392967-04:00",
             "notes": "Original due text: Wednesday at 5pm"
+          }
+        ]
+      },
+      {
+        "id": "9e4939b0",
+        "title": "AUC course create tests and final exam",
+        "status": "Active",
+        "date_due": "2026-05-28T17:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-26T13:01:41.198617-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-26T13:01:41.198623-04:00",
+            "notes": "Original due text: Thursday at 5pm"
           }
         ]
       }
