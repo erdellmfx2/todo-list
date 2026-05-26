@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-26T12:31:27.067078-04:00",
+  "updated_at": "2026-05-26T12:56:40.066887-04:00",
   "tasks": {
     "active": [
       {
@@ -535,6 +535,28 @@
             "by": "hermes",
             "at": "2026-05-26T12:31:27.067074-04:00",
             "notes": "Original due text: December 7"
+          }
+        ]
+      },
+      {
+        "id": "929d1781",
+        "title": "Add GitHub to course as main data storage and updating place",
+        "status": "Active",
+        "date_due": "2026-05-26T17:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-26T12:56:40.066870-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-26T12:56:40.066882-04:00",
+            "notes": "Original due text: today at 5pm"
           }
         ]
       }
