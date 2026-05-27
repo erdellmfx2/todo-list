@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-26T14:08:31.388128-04:00",
+  "updated_at": "2026-05-27T13:42:44.648016-04:00",
   "tasks": {
     "active": [
       {
@@ -645,6 +645,28 @@
             "by": "hermes",
             "at": "2026-05-26T14:08:31.388125-04:00",
             "notes": "Original due text: today at 8pm"
+          }
+        ]
+      },
+      {
+        "id": "5460b71f",
+        "title": "Grant Writing Opportunities - AUC",
+        "status": "Active",
+        "date_due": "none",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-27T13:42:44.647970-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-27T13:42:44.648007-04:00",
+            "notes": "Original due text: none"
           }
         ]
       }
