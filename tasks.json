@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-27T13:42:44.648016-04:00",
+  "updated_at": "2026-05-28T10:35:22.893783-04:00",
   "tasks": {
     "active": [
       {
@@ -667,6 +667,28 @@
             "by": "hermes",
             "at": "2026-05-27T13:42:44.648007-04:00",
             "notes": "Original due text: none"
+          }
+        ]
+      },
+      {
+        "id": "676cbd26",
+        "title": "connect with Jowanna",
+        "status": "Active",
+        "date_due": "2026-06-03T20:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-28T10:35:22.893774-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-28T10:35:22.893780-04:00",
+            "notes": "Original due text: Wednesday at 8 pm"
           }
         ]
       }
