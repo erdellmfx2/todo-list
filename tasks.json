@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-31T15:59:10.573559-04:00",
+  "updated_at": "2026-05-31T17:01:06.839850-04:00",
   "tasks": {
     "active": [
       {
@@ -755,6 +755,28 @@
             "by": "hermes",
             "at": "2026-05-31T15:59:10.573555-04:00",
             "notes": "Original due text: Tonight at 8 pm"
+          }
+        ]
+      },
+      {
+        "id": "8ead85f3",
+        "title": "Feed plants",
+        "status": "Active",
+        "date_due": "2026-06-01T19:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-31T17:01:06.839829-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-31T17:01:06.839843-04:00",
+            "notes": "Original due text: tomorrow at 7 pm"
           }
         ]
       }
