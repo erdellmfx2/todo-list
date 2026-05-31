@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-31T19:52:55.166884-04:00",
+  "updated_at": "2026-05-31T19:52:57.275939-04:00",
   "tasks": {
     "active": [
       {
@@ -129,13 +129,6 @@
         "date_due": "2026-07-01T09:00:00",
         "priority": "High",
         "task_metadata": "Created from /nt user request on 2026-04-24."
-      },
-      {
-        "title": "Give data about the AI Primer mini course for the Blue Print paper",
-        "status": "Active",
-        "date_due": "none",
-        "priority": "High",
-        "task_metadata": "Reminder created from paper-planning chat on 2026-04-20."
       },
       {
         "title": "Power wash the house",
@@ -3126,6 +3119,23 @@
         ],
         "completed_at": "2026-05-31T19:52:55.166808-04:00",
         "date_completed": "2026-05-31T19:52:55.166808-04:00"
+      },
+      {
+        "title": "Give data about the AI Primer mini course for the Blue Print paper",
+        "status": "Complete",
+        "date_due": "none",
+        "priority": "High",
+        "task_metadata": "Reminder created from paper-planning chat on 2026-04-20.\n[2026-05-31 19:52:57] Marked done by user request",
+        "completed_at": "2026-05-31T19:52:57.275887-04:00",
+        "date_completed": "2026-05-31T19:52:57.275887-04:00",
+        "history": [
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-05-31T19:52:57.275933-04:00",
+            "notes": "Marked done by user request"
+          }
+        ]
       }
     ]
   }
