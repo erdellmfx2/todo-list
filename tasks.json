@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-31T19:52:57.275939-04:00",
+  "updated_at": "2026-05-31T19:52:59.283061-04:00",
   "tasks": {
     "active": [
       {
@@ -380,28 +380,6 @@
             "by": "hermes",
             "at": "2026-05-24T21:47:01.682903-04:00",
             "notes": "Original due text: tomorrow at 8 pm"
-          }
-        ]
-      },
-      {
-        "id": "eae69dac",
-        "title": "Add Zelle and Cash App to Website",
-        "status": "Active",
-        "date_due": "none",
-        "priority": "Medium",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-05-25T11:24:12.367881-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-25T11:24:12.367902-04:00",
-            "notes": "Original due text: none"
           }
         ]
       },
@@ -3136,6 +3114,36 @@
             "notes": "Marked done by user request"
           }
         ]
+      },
+      {
+        "id": "eae69dac",
+        "title": "Add Zelle and Cash App to Website",
+        "status": "Complete",
+        "date_due": "none",
+        "priority": "Medium",
+        "task_metadata": "Created via Hermes task manager.\n[2026-05-31 19:52:59] Marked done by user request",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-25T11:24:12.367881-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-25T11:24:12.367902-04:00",
+            "notes": "Original due text: none"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-05-31T19:52:59.283052-04:00",
+            "notes": "Marked done by user request"
+          }
+        ],
+        "completed_at": "2026-05-31T19:52:59.282994-04:00",
+        "date_completed": "2026-05-31T19:52:59.282994-04:00"
       }
     ]
   }
