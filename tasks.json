@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-31T19:52:40.301079-04:00",
+  "updated_at": "2026-05-31T19:52:41.950753-04:00",
   "tasks": {
     "active": [
       {
@@ -453,28 +453,6 @@
             "by": "hermes",
             "at": "2026-05-25T11:24:12.367902-04:00",
             "notes": "Original due text: none"
-          }
-        ]
-      },
-      {
-        "id": "8f412702",
-        "title": "Go to Peace Ballroom",
-        "status": "Active",
-        "date_due": "2026-05-26T08:30:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-05-25T18:37:18.992909-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-25T18:37:18.992922-04:00",
-            "notes": "Original due text: Tomorrow at 8:30 am"
           }
         ]
       },
@@ -3062,6 +3040,36 @@
         ],
         "completed_at": "2026-05-31T19:52:40.301020-04:00",
         "date_completed": "2026-05-31T19:52:40.301020-04:00"
+      },
+      {
+        "id": "8f412702",
+        "title": "Go to Peace Ballroom",
+        "status": "Complete",
+        "date_due": "2026-05-26T08:30:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-05-31 19:52:41] Marked done by user request",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-25T18:37:18.992909-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-25T18:37:18.992922-04:00",
+            "notes": "Original due text: Tomorrow at 8:30 am"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-05-31T19:52:41.950742-04:00",
+            "notes": "Marked done by user request"
+          }
+        ],
+        "completed_at": "2026-05-31T19:52:41.950679-04:00",
+        "date_completed": "2026-05-31T19:52:41.950679-04:00"
       }
     ]
   }
