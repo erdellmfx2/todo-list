@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-28T15:44:09.605645-04:00",
+  "updated_at": "2026-05-31T11:38:53.280580-04:00",
   "tasks": {
     "active": [
       {
@@ -711,6 +711,28 @@
             "by": "hermes",
             "at": "2026-05-28T15:44:09.605640-04:00",
             "notes": "Original due text: Today at 5:30 pm"
+          }
+        ]
+      },
+      {
+        "id": "68faf9c6",
+        "title": "Check out bonzi image generator",
+        "status": "Active",
+        "date_due": "2026-05-31T17:00:00-04:00",
+        "priority": "Medium",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-31T11:38:53.280566-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-31T11:38:53.280575-04:00",
+            "notes": "Original due text: Today at 5 pm"
           }
         ]
       }
