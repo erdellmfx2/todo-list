@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-31T19:52:48.931956-04:00",
+  "updated_at": "2026-05-31T19:52:50.949224-04:00",
   "tasks": {
     "active": [
       {
@@ -431,28 +431,6 @@
             "by": "hermes",
             "at": "2026-05-26T12:31:27.067074-04:00",
             "notes": "Original due text: December 7"
-          }
-        ]
-      },
-      {
-        "id": "77a1e9be",
-        "title": "AUC course create quizzes",
-        "status": "Active",
-        "date_due": "2026-05-27T17:00:00-04:00",
-        "priority": "High",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-05-26T13:01:19.392958-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-26T13:01:19.392967-04:00",
-            "notes": "Original due text: Wednesday at 5pm"
           }
         ]
       },
@@ -3102,6 +3080,36 @@
         ],
         "completed_at": "2026-05-31T19:52:48.931900-04:00",
         "date_completed": "2026-05-31T19:52:48.931900-04:00"
+      },
+      {
+        "id": "77a1e9be",
+        "title": "AUC course create quizzes",
+        "status": "Complete",
+        "date_due": "2026-05-27T17:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.\n[2026-05-31 19:52:50] Marked done by user request",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-26T13:01:19.392958-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-26T13:01:19.392967-04:00",
+            "notes": "Original due text: Wednesday at 5pm"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-05-31T19:52:50.949215-04:00",
+            "notes": "Marked done by user request"
+          }
+        ],
+        "completed_at": "2026-05-31T19:52:50.949145-04:00",
+        "date_completed": "2026-05-31T19:52:50.949145-04:00"
       }
     ]
   }
