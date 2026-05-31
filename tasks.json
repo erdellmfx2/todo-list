@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-31T19:52:38.593906-04:00",
+  "updated_at": "2026-05-31T19:52:40.301079-04:00",
   "tasks": {
     "active": [
       {
@@ -386,28 +386,6 @@
             "action": "create_request",
             "by": "hermes",
             "at": "2026-05-23T15:51:04.772730-04:00",
-            "notes": "Original due text: today at 9 pm"
-          }
-        ]
-      },
-      {
-        "id": "a94b241e",
-        "title": "Create cron job to create posts",
-        "status": "Active",
-        "date_due": "2026-05-24T21:00:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-05-24T13:37:31.325949-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-24T13:37:31.325965-04:00",
             "notes": "Original due text: today at 9 pm"
           }
         ]
@@ -3054,6 +3032,36 @@
         ],
         "completed_at": "2026-05-31T19:52:38.593854-04:00",
         "date_completed": "2026-05-31T19:52:38.593854-04:00"
+      },
+      {
+        "id": "a94b241e",
+        "title": "Create cron job to create posts",
+        "status": "Complete",
+        "date_due": "2026-05-24T21:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-05-31 19:52:40] Marked done by user request",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-24T13:37:31.325949-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-24T13:37:31.325965-04:00",
+            "notes": "Original due text: today at 9 pm"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-05-31T19:52:40.301071-04:00",
+            "notes": "Marked done by user request"
+          }
+        ],
+        "completed_at": "2026-05-31T19:52:40.301020-04:00",
+        "date_completed": "2026-05-31T19:52:40.301020-04:00"
       }
     ]
   }
