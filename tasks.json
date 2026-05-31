@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-31T17:01:06.839850-04:00",
+  "updated_at": "2026-05-31T19:52:38.593906-04:00",
   "tasks": {
     "active": [
       {
@@ -321,22 +321,6 @@
             "by": "erdell",
             "at": "2026-05-20T09:30:00-04:00",
             "notes": "Updated title with detailed subtasks: Honorlock, Student support Hours, ALEKS due dates, UDOIT"
-          }
-        ]
-      },
-      {
-        "id": "421953bb",
-        "title": "REMINDER: Students must complete solutions for tests. DUE TOMORROW at 10:00 AM. CRITICAL.",
-        "status": "Active",
-        "date_due": "2026-05-22T10:00:00",
-        "priority": "Critical",
-        "task_metadata": "Created via add_task.py",
-        "history": [
-          {
-            "action": "create",
-            "by": "helper-script",
-            "at": "2026-05-21T12:31:27.021059-04:00",
-            "notes": "Created via Hermes task workflow"
           }
         ]
       },
@@ -3046,6 +3030,30 @@
         ],
         "completed_at": "2026-05-24T17:47:11.318916-04:00",
         "date_completed": "2026-05-24T17:47:11.318916-04:00"
+      },
+      {
+        "id": "421953bb",
+        "title": "REMINDER: Students must complete solutions for tests. DUE TOMORROW at 10:00 AM. CRITICAL.",
+        "status": "Complete",
+        "date_due": "2026-05-22T10:00:00",
+        "priority": "Critical",
+        "task_metadata": "Created via add_task.py\n[2026-05-31 19:52:38] Marked done by user request",
+        "history": [
+          {
+            "action": "create",
+            "by": "helper-script",
+            "at": "2026-05-21T12:31:27.021059-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-05-31T19:52:38.593899-04:00",
+            "notes": "Marked done by user request"
+          }
+        ],
+        "completed_at": "2026-05-31T19:52:38.593854-04:00",
+        "date_completed": "2026-05-31T19:52:38.593854-04:00"
       }
     ]
   }
