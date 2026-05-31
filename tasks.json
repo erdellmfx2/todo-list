@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-31T19:52:43.671826-04:00",
+  "updated_at": "2026-05-31T19:52:45.366508-04:00",
   "tasks": {
     "active": [
       {
@@ -343,28 +343,6 @@
             "by": "hermes",
             "at": "2026-05-22T10:46:38.921486-04:00",
             "notes": "Original due text: 2026-05-22T14:30:00-04:00"
-          }
-        ]
-      },
-      {
-        "id": "256eeb12",
-        "title": "clean the toilet",
-        "status": "Active",
-        "date_due": "2026-05-23T21:00:00-04:00",
-        "priority": "High",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-05-23T15:51:04.772723-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-23T15:51:04.772730-04:00",
-            "notes": "Original due text: today at 9 pm"
           }
         ]
       },
@@ -3078,6 +3056,36 @@
         ],
         "completed_at": "2026-05-31T19:52:43.671774-04:00",
         "date_completed": "2026-05-31T19:52:43.671774-04:00"
+      },
+      {
+        "id": "256eeb12",
+        "title": "clean the toilet",
+        "status": "Complete",
+        "date_due": "2026-05-23T21:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.\n[2026-05-31 19:52:45] Marked done by user request",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-23T15:51:04.772723-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-23T15:51:04.772730-04:00",
+            "notes": "Original due text: today at 9 pm"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-05-31T19:52:45.366498-04:00",
+            "notes": "Marked done by user request"
+          }
+        ],
+        "completed_at": "2026-05-31T19:52:45.366434-04:00",
+        "date_completed": "2026-05-31T19:52:45.366434-04:00"
       }
     ]
   }
