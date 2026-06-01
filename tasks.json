@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-01T07:44:20.318193-04:00",
+  "updated_at": "2026-06-01T13:00:28.330823-04:00",
   "tasks": {
     "active": [
       {
@@ -644,6 +644,28 @@
             "by": "hermes",
             "at": "2026-06-01T07:44:20.318186-04:00",
             "notes": "Original due text: tomorrow at 3:00 p.m."
+          }
+        ]
+      },
+      {
+        "id": "15d77af9",
+        "title": "Fall teaching schedule and AOR",
+        "status": "Active",
+        "date_due": "2026-06-03T09:30:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-06-01T13:00:28.330812-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-06-01T13:00:28.330819-04:00",
+            "notes": "Original due text: Wednesday at 9:30 am"
           }
         ]
       }
