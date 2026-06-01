@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-01T13:01:06.935871-04:00",
+  "updated_at": "2026-06-01T13:18:13.298853-04:00",
   "tasks": {
     "active": [
       {
@@ -688,6 +688,28 @@
             "by": "hermes",
             "at": "2026-06-01T13:01:06.935867-04:00",
             "notes": "Original due text: Wednesday at 10 am"
+          }
+        ]
+      },
+      {
+        "id": "dd81e2fe",
+        "title": "Draft outreach email to undecided STEM students",
+        "status": "Active",
+        "date_due": "2026-06-01T16:30:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-06-01T13:18:13.298837-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-06-01T13:18:13.298848-04:00",
+            "notes": "Original due text: today at 4:30 pm"
           }
         ]
       }
