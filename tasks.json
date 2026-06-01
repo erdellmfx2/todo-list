@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-05-31T20:28:29.529875-04:00",
+  "updated_at": "2026-05-31T21:03:39.934238-04:00",
   "tasks": {
     "active": [
       {
@@ -577,6 +577,28 @@
             "action": "create_request",
             "by": "hermes",
             "at": "2026-05-31T20:28:29.529871-04:00",
+            "notes": "Original due text: Tomorrow at 10 am"
+          }
+        ]
+      },
+      {
+        "id": "362e11ce",
+        "title": "Add teaching to Sharette to calendar",
+        "status": "Active",
+        "date_due": "2026-06-01T10:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-31T21:03:39.934217-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-31T21:03:39.934232-04:00",
             "notes": "Original due text: Tomorrow at 10 am"
           }
         ]
