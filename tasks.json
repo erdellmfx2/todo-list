@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-01T07:24:06.277623-04:00",
+  "updated_at": "2026-06-01T07:44:20.318193-04:00",
   "tasks": {
     "active": [
       {
@@ -622,6 +622,28 @@
             "by": "hermes",
             "at": "2026-06-01T07:24:06.277617-04:00",
             "notes": "Original due text: today at 10am"
+          }
+        ]
+      },
+      {
+        "id": "efc72e5c",
+        "title": "Check on bank accounts",
+        "status": "Active",
+        "date_due": "2026-06-01T15:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-06-01T07:44:20.318170-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-06-01T07:44:20.318186-04:00",
+            "notes": "Original due text: tomorrow at 3:00 p.m."
           }
         ]
       }
