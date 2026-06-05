@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-01T13:18:13.298853-04:00",
+  "updated_at": "2026-06-05T13:18:43.748344-04:00",
   "tasks": {
     "active": [
       {
@@ -357,28 +357,6 @@
             "action": "create_request",
             "by": "hermes",
             "at": "2026-05-24T13:49:45.433587-04:00",
-            "notes": "Original due text: tomorrow at 8 pm"
-          }
-        ]
-      },
-      {
-        "id": "5543badd",
-        "title": "Check if lockdown browser allows opening of new website (SALT)",
-        "status": "Active",
-        "date_due": "2026-05-25T20:00:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-05-24T21:47:01.682892-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-24T21:47:01.682903-04:00",
             "notes": "Original due text: tomorrow at 8 pm"
           }
         ]
@@ -3320,6 +3298,36 @@
         ],
         "completed_at": "2026-05-31T19:52:59.282994-04:00",
         "date_completed": "2026-05-31T19:52:59.282994-04:00"
+      },
+      {
+        "id": "5543badd",
+        "title": "Check if lockdown browser allows opening of new website (SALT)",
+        "status": "Complete",
+        "date_due": "2026-05-25T20:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-06-05 13:18:43] Marked done per user request",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-24T21:47:01.682892-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-24T21:47:01.682903-04:00",
+            "notes": "Original due text: tomorrow at 8 pm"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-06-05T13:18:43.748338-04:00",
+            "notes": "Marked done per user request"
+          }
+        ],
+        "completed_at": "2026-06-05T13:18:43.748293-04:00",
+        "date_completed": "2026-06-05T13:18:43.748293-04:00"
       }
     ]
   }
