@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-05T13:18:55.010681-04:00",
+  "updated_at": "2026-06-05T13:18:57.027034-04:00",
   "tasks": {
     "active": [
       {
@@ -358,28 +358,6 @@
             "by": "hermes",
             "at": "2026-05-26T12:31:27.067074-04:00",
             "notes": "Original due text: December 7"
-          }
-        ]
-      },
-      {
-        "id": "8698a05d",
-        "title": "Add OpenAI costs as business course",
-        "status": "Active",
-        "date_due": "2026-05-26T20:00:00-04:00",
-        "priority": "High",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-05-26T14:08:31.388118-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-26T14:08:31.388125-04:00",
-            "notes": "Original due text: today at 8pm"
           }
         ]
       },
@@ -3368,6 +3346,36 @@
         ],
         "completed_at": "2026-06-05T13:18:55.010610-04:00",
         "date_completed": "2026-06-05T13:18:55.010610-04:00"
+      },
+      {
+        "id": "8698a05d",
+        "title": "Add OpenAI costs as business course",
+        "status": "Complete",
+        "date_due": "2026-05-26T20:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.\n[2026-06-05 13:18:57] Marked done per user request",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-26T14:08:31.388118-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-26T14:08:31.388125-04:00",
+            "notes": "Original due text: today at 8pm"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-06-05T13:18:57.027025-04:00",
+            "notes": "Marked done per user request"
+          }
+        ],
+        "completed_at": "2026-06-05T13:18:57.026974-04:00",
+        "date_completed": "2026-06-05T13:18:57.026974-04:00"
       }
     ]
   }
