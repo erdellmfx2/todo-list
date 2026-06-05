@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-05T13:18:48.590810-04:00",
+  "updated_at": "2026-06-05T13:18:50.781209-04:00",
   "tasks": {
     "active": [
       {
@@ -534,28 +534,6 @@
             "by": "hermes",
             "at": "2026-05-31T21:03:39.934232-04:00",
             "notes": "Original due text: Tomorrow at 10 am"
-          }
-        ]
-      },
-      {
-        "id": "deac4742",
-        "title": "Check email and contact math instructor",
-        "status": "Active",
-        "date_due": "2026-06-01T10:00:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-06-01T07:24:06.277604-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-06-01T07:24:06.277617-04:00",
-            "notes": "Original due text: today at 10am"
           }
         ]
       },
@@ -3344,6 +3322,36 @@
         ],
         "completed_at": "2026-06-05T13:18:48.590749-04:00",
         "date_completed": "2026-06-05T13:18:48.590749-04:00"
+      },
+      {
+        "id": "deac4742",
+        "title": "Check email and contact math instructor",
+        "status": "Complete",
+        "date_due": "2026-06-01T10:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-06-05 13:18:50] Marked done per user request",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-06-01T07:24:06.277604-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-06-01T07:24:06.277617-04:00",
+            "notes": "Original due text: today at 10am"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-06-05T13:18:50.781200-04:00",
+            "notes": "Marked done per user request"
+          }
+        ],
+        "completed_at": "2026-06-05T13:18:50.781139-04:00",
+        "date_completed": "2026-06-05T13:18:50.781139-04:00"
       }
     ]
   }
