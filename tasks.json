@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-05T13:19:03.302324-04:00",
+  "updated_at": "2026-06-05T13:19:05.415182-04:00",
   "tasks": {
     "active": [
       {
@@ -396,28 +396,6 @@
             "by": "hermes",
             "at": "2026-05-31T15:59:10.573555-04:00",
             "notes": "Original due text: Tonight at 8 pm"
-          }
-        ]
-      },
-      {
-        "id": "59677e7d",
-        "title": "Create Notebook LM for the new course",
-        "status": "Active",
-        "date_due": "2026-05-31T21:30:00-04:00",
-        "priority": "Medium",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-05-31T20:27:37.510994-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-31T20:27:37.511003-04:00",
-            "notes": "Original due text: today at 9:30 p.m."
           }
         ]
       },
@@ -3400,6 +3378,36 @@
         ],
         "completed_at": "2026-06-05T13:19:03.302247-04:00",
         "date_completed": "2026-06-05T13:19:03.302247-04:00"
+      },
+      {
+        "id": "59677e7d",
+        "title": "Create Notebook LM for the new course",
+        "status": "Complete",
+        "date_due": "2026-05-31T21:30:00-04:00",
+        "priority": "Medium",
+        "task_metadata": "Created via Hermes task manager.\n[2026-06-05 13:19:05] Marked done per user request",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-31T20:27:37.510994-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-31T20:27:37.511003-04:00",
+            "notes": "Original due text: today at 9:30 p.m."
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-06-05T13:19:05.415173-04:00",
+            "notes": "Marked done per user request"
+          }
+        ],
+        "completed_at": "2026-06-05T13:19:05.415110-04:00",
+        "date_completed": "2026-06-05T13:19:05.415110-04:00"
       }
     ]
   }
