@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-05T13:18:59.131047-04:00",
+  "updated_at": "2026-06-05T13:19:01.312919-04:00",
   "tasks": {
     "active": [
       {
@@ -440,28 +440,6 @@
             "by": "hermes",
             "at": "2026-05-31T20:27:37.511003-04:00",
             "notes": "Original due text: today at 9:30 p.m."
-          }
-        ]
-      },
-      {
-        "id": "b46536c0",
-        "title": "Add to calendar Friday June 19th",
-        "status": "Active",
-        "date_due": "2026-06-01T10:00:00-04:00",
-        "priority": "High",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-05-31T20:28:29.529862-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-31T20:28:29.529871-04:00",
-            "notes": "Original due text: Tomorrow at 10 am"
           }
         ]
       },
@@ -3384,6 +3362,36 @@
         ],
         "completed_at": "2026-06-05T13:18:59.130985-04:00",
         "date_completed": "2026-06-05T13:18:59.130985-04:00"
+      },
+      {
+        "id": "b46536c0",
+        "title": "Add to calendar Friday June 19th",
+        "status": "Complete",
+        "date_due": "2026-06-01T10:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.\n[2026-06-05 13:19:01] Marked done per user request",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-31T20:28:29.529862-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-31T20:28:29.529871-04:00",
+            "notes": "Original due text: Tomorrow at 10 am"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-06-05T13:19:01.312911-04:00",
+            "notes": "Marked done per user request"
+          }
+        ],
+        "completed_at": "2026-06-05T13:19:01.312857-04:00",
+        "date_completed": "2026-06-05T13:19:01.312857-04:00"
       }
     ]
   }
