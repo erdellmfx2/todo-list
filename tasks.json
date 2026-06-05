@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-05T13:18:57.027034-04:00",
+  "updated_at": "2026-06-05T13:18:59.131047-04:00",
   "tasks": {
     "active": [
       {
@@ -43,34 +43,6 @@
             "by": "hermes",
             "at": "2026-05-19T22:45:42.672505-04:00",
             "notes": "Rescheduled to next Wednesday May 27"
-          }
-        ]
-      },
-      {
-        "id": "e24f9c71",
-        "title": "learn how to use hyperframes",
-        "status": "Active",
-        "priority": "High",
-        "date_due": "2026-05-31T18:00:00",
-        "task_metadata": "Created from /nt user request on 2026-05-09. User specified tomorrow at 6:00 PM and HIGH priority.\n[2026-05-19 22:47:33] Rescheduled from overdue May 10 to next Sunday\n[2026-05-19 22:52] 📅 Rescheduled to next Sunday (May 31)",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-05-09T17:46:00-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          },
-          {
-            "action": "reschedule",
-            "by": "hermes",
-            "at": "2026-05-19T22:47:33.603030-04:00",
-            "notes": "Rescheduled from overdue May 10 to next Sunday"
-          },
-          {
-            "action": "reschedule",
-            "by": "hermes",
-            "at": "2026-05-19T22:52:00-04:00",
-            "notes": "Rescheduled to next Sunday (May 31)"
           }
         ]
       },
@@ -3376,6 +3348,42 @@
         ],
         "completed_at": "2026-06-05T13:18:57.026974-04:00",
         "date_completed": "2026-06-05T13:18:57.026974-04:00"
+      },
+      {
+        "id": "e24f9c71",
+        "title": "learn how to use hyperframes",
+        "status": "Complete",
+        "priority": "High",
+        "date_due": "2026-05-31T18:00:00",
+        "task_metadata": "Created from /nt user request on 2026-05-09. User specified tomorrow at 6:00 PM and HIGH priority.\n[2026-05-19 22:47:33] Rescheduled from overdue May 10 to next Sunday\n[2026-05-19 22:52] 📅 Rescheduled to next Sunday (May 31)\n[2026-06-05 13:18:59] Marked done per user request",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-05-09T17:46:00-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "reschedule",
+            "by": "hermes",
+            "at": "2026-05-19T22:47:33.603030-04:00",
+            "notes": "Rescheduled from overdue May 10 to next Sunday"
+          },
+          {
+            "action": "reschedule",
+            "by": "hermes",
+            "at": "2026-05-19T22:52:00-04:00",
+            "notes": "Rescheduled to next Sunday (May 31)"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-06-05T13:18:59.131039-04:00",
+            "notes": "Marked done per user request"
+          }
+        ],
+        "completed_at": "2026-06-05T13:18:59.130985-04:00",
+        "date_completed": "2026-06-05T13:18:59.130985-04:00"
       }
     ]
   }
