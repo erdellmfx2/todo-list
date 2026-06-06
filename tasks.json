@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-05T18:07:40.101060-04:00",
+  "updated_at": "2026-06-05T20:06:02.860436-04:00",
   "tasks": {
     "active": [
       {
@@ -418,6 +418,28 @@
             "by": "hermes",
             "at": "2026-05-31T21:03:39.934232-04:00",
             "notes": "Original due text: Tomorrow at 10 am"
+          }
+        ]
+      },
+      {
+        "id": "6a8611bc",
+        "title": "Contact www.singletonschreiber.com at (334) 777-1314",
+        "status": "Active",
+        "date_due": "2026-06-08T12:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-06-05T20:06:02.860420-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-06-05T20:06:02.860431-04:00",
+            "notes": "Original due text: Monday at 12 pm"
           }
         ]
       }
