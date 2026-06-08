@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-08T14:22:23.818885-04:00",
+  "updated_at": "2026-06-08T14:22:26.880111-04:00",
   "tasks": {
     "active": [
       {
@@ -258,28 +258,6 @@
             "by": "hermes",
             "at": "2026-05-20T08:23:58.640490-04:00",
             "notes": "Original due text: tomorrow 9am"
-          }
-        ]
-      },
-      {
-        "id": "4e02b59b",
-        "title": "fix dates for college algebra TSC",
-        "status": "Active",
-        "date_due": "2026-05-22T14:30:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-05-22T10:46:38.921470-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-22T10:46:38.921486-04:00",
-            "notes": "Original due text: 2026-05-22T14:30:00-04:00"
           }
         ]
       },
@@ -3656,6 +3634,36 @@
         ],
         "completed_at": "2026-06-08T14:22:23.818843-04:00",
         "date_completed": "2026-06-08T14:22:23.818843-04:00"
+      },
+      {
+        "id": "4e02b59b",
+        "title": "fix dates for college algebra TSC",
+        "status": "Complete",
+        "date_due": "2026-05-22T14:30:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-06-08 14:22:26] Marked done per user request",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-22T10:46:38.921470-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-22T10:46:38.921486-04:00",
+            "notes": "Original due text: 2026-05-22T14:30:00-04:00"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-06-08T14:22:26.880105-04:00",
+            "notes": "Marked done per user request"
+          }
+        ],
+        "completed_at": "2026-06-08T14:22:26.880066-04:00",
+        "date_completed": "2026-06-08T14:22:26.880066-04:00"
       }
     ]
   }
