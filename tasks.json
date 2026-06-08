@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-08T14:22:26.880111-04:00",
+  "updated_at": "2026-06-08T14:22:30.048510-04:00",
   "tasks": {
     "active": [
       {
@@ -10,13 +10,6 @@
         "date_due": "2026-06-20T08:00:00",
         "priority": "Critical",
         "task_metadata": "Created from /nt user request on 2026-04-24."
-      },
-      {
-        "title": "start prepping for the actuarial classes",
-        "status": "Active",
-        "date_due": "2026-07-01",
-        "priority": "Critical",
-        "task_metadata": "Added from user request\n[2026-03-20 11:49] 🎯 Added: start prepping for the actuarial classes due 2026-07-01, CRITICAL priority.\nNotes: first get materials. Then start practicing questions. Ensure alignment with already-created syllabus.\nLong-form task: execute in phased parts over time."
       },
       {
         "id": "cc171258",
@@ -3664,6 +3657,23 @@
         ],
         "completed_at": "2026-06-08T14:22:26.880066-04:00",
         "date_completed": "2026-06-08T14:22:26.880066-04:00"
+      },
+      {
+        "title": "start prepping for the actuarial classes",
+        "status": "Complete",
+        "date_due": "2026-07-01",
+        "priority": "Critical",
+        "task_metadata": "Added from user request\n[2026-03-20 11:49] 🎯 Added: start prepping for the actuarial classes due 2026-07-01, CRITICAL priority.\nNotes: first get materials. Then start practicing questions. Ensure alignment with already-created syllabus.\nLong-form task: execute in phased parts over time.\n[2026-06-08 14:22:30] Marked done per user request",
+        "completed_at": "2026-06-08T14:22:30.048448-04:00",
+        "date_completed": "2026-06-08T14:22:30.048448-04:00",
+        "history": [
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-06-08T14:22:30.048502-04:00",
+            "notes": "Marked done per user request"
+          }
+        ]
       }
     ]
   }
