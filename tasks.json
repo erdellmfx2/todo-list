@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-08T12:25:46.589831-04:00",
+  "updated_at": "2026-06-08T12:25:50.143693-04:00",
   "tasks": {
     "active": [
       {
@@ -418,28 +418,6 @@
             "by": "hermes",
             "at": "2026-05-31T21:03:39.934232-04:00",
             "notes": "Original due text: Tomorrow at 10 am"
-          }
-        ]
-      },
-      {
-        "id": "07266d86",
-        "title": "take pictures of outside house",
-        "status": "Active",
-        "date_due": "2026-06-08T11:00:00-04:00",
-        "priority": "High",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-06-08T08:02:35.752454-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-06-08T08:02:35.752466-04:00",
-            "notes": "Original due text: today at 11 am"
           }
         ]
       },
@@ -3640,6 +3618,36 @@
         ],
         "completed_at": "2026-06-08T12:25:46.589768-04:00",
         "date_completed": "2026-06-08T12:25:46.589768-04:00"
+      },
+      {
+        "id": "07266d86",
+        "title": "take pictures of outside house",
+        "status": "Complete",
+        "date_due": "2026-06-08T11:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.\n[2026-06-08 12:25:50] Marked done per user request",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-06-08T08:02:35.752454-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-06-08T08:02:35.752466-04:00",
+            "notes": "Original due text: today at 11 am"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-06-08T12:25:50.143683-04:00",
+            "notes": "Marked done per user request"
+          }
+        ],
+        "completed_at": "2026-06-08T12:25:50.143623-04:00",
+        "date_completed": "2026-06-08T12:25:50.143623-04:00"
       }
     ]
   }
