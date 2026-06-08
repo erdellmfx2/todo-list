@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-08T12:25:50.143693-04:00",
+  "updated_at": "2026-06-08T14:22:23.818885-04:00",
   "tasks": {
     "active": [
       {
@@ -258,34 +258,6 @@
             "by": "hermes",
             "at": "2026-05-20T08:23:58.640490-04:00",
             "notes": "Original due text: tomorrow 9am"
-          }
-        ]
-      },
-      {
-        "id": "345c236f",
-        "title": "Update TSC Course: 1. Honorlock, 2. Student support Hours, 3. Update due dates in ALEKS, 4. Complete UDOIT",
-        "status": "Active",
-        "date_due": "2026-05-21T13:00:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager. Updated 2026-05-20 with detailed subtasks.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-05-20T08:08:17.340904-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-20T08:08:17.340925-04:00",
-            "notes": "Original due text: 2026-05-21T13:00:00"
-          },
-          {
-            "action": "update",
-            "by": "erdell",
-            "at": "2026-05-20T09:30:00-04:00",
-            "notes": "Updated title with detailed subtasks: Honorlock, Student support Hours, ALEKS due dates, UDOIT"
           }
         ]
       },
@@ -3648,6 +3620,42 @@
         ],
         "completed_at": "2026-06-08T12:25:50.143623-04:00",
         "date_completed": "2026-06-08T12:25:50.143623-04:00"
+      },
+      {
+        "id": "345c236f",
+        "title": "Update TSC Course: 1. Honorlock, 2. Student support Hours, 3. Update due dates in ALEKS, 4. Complete UDOIT",
+        "status": "Complete",
+        "date_due": "2026-05-21T13:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager. Updated 2026-05-20 with detailed subtasks.\n[2026-06-08 14:22:23] Marked done per user request",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-20T08:08:17.340904-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-20T08:08:17.340925-04:00",
+            "notes": "Original due text: 2026-05-21T13:00:00"
+          },
+          {
+            "action": "update",
+            "by": "erdell",
+            "at": "2026-05-20T09:30:00-04:00",
+            "notes": "Updated title with detailed subtasks: Honorlock, Student support Hours, ALEKS due dates, UDOIT"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-06-08T14:22:23.818879-04:00",
+            "notes": "Marked done per user request"
+          }
+        ],
+        "completed_at": "2026-06-08T14:22:23.818843-04:00",
+        "date_completed": "2026-06-08T14:22:23.818843-04:00"
       }
     ]
   }
