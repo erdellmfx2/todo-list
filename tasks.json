@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-08T12:25:27.222058-04:00",
+  "updated_at": "2026-06-08T12:25:30.575697-04:00",
   "tasks": {
     "active": [
       {
@@ -528,28 +528,6 @@
             "by": "hermes",
             "at": "2026-06-08T10:01:28.684963-04:00",
             "notes": "Original due text: today at 1 pm"
-          }
-        ]
-      },
-      {
-        "id": "f7af8699",
-        "title": "send Carlos CMC prep and teacher results and info",
-        "status": "Active",
-        "date_due": "2026-06-08T11:00:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-06-08T10:33:55.198003-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-06-08T10:33:55.198014-04:00",
-            "notes": "Original due text: today at 11 am"
           }
         ]
       },
@@ -3608,6 +3586,36 @@
         ],
         "completed_at": "2026-06-08T12:25:27.222006-04:00",
         "date_completed": "2026-06-08T12:25:27.222006-04:00"
+      },
+      {
+        "id": "f7af8699",
+        "title": "send Carlos CMC prep and teacher results and info",
+        "status": "Complete",
+        "date_due": "2026-06-08T11:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-06-08 12:25:30] Marked done per user request",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-06-08T10:33:55.198003-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-06-08T10:33:55.198014-04:00",
+            "notes": "Original due text: today at 11 am"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-06-08T12:25:30.575689-04:00",
+            "notes": "Marked done per user request"
+          }
+        ],
+        "completed_at": "2026-06-08T12:25:30.575639-04:00",
+        "date_completed": "2026-06-08T12:25:30.575639-04:00"
       }
     ]
   }
