@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-08T12:25:30.575697-04:00",
+  "updated_at": "2026-06-08T12:25:34.015840-04:00",
   "tasks": {
     "active": [
       {
@@ -418,28 +418,6 @@
             "by": "hermes",
             "at": "2026-05-31T21:03:39.934232-04:00",
             "notes": "Original due text: Tomorrow at 10 am"
-          }
-        ]
-      },
-      {
-        "id": "6a8611bc",
-        "title": "Contact www.singletonschreiber.com at (334) 777-1314",
-        "status": "Active",
-        "date_due": "2026-06-08T12:00:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-06-05T20:06:02.860420-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-06-05T20:06:02.860431-04:00",
-            "notes": "Original due text: Monday at 12 pm"
           }
         ]
       },
@@ -3616,6 +3594,36 @@
         ],
         "completed_at": "2026-06-08T12:25:30.575639-04:00",
         "date_completed": "2026-06-08T12:25:30.575639-04:00"
+      },
+      {
+        "id": "6a8611bc",
+        "title": "Contact www.singletonschreiber.com at (334) 777-1314",
+        "status": "Complete",
+        "date_due": "2026-06-08T12:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-06-08 12:25:34] Marked done per user request",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-06-05T20:06:02.860420-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-06-05T20:06:02.860431-04:00",
+            "notes": "Original due text: Monday at 12 pm"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-06-08T12:25:34.015832-04:00",
+            "notes": "Marked done per user request"
+          }
+        ],
+        "completed_at": "2026-06-08T12:25:34.015780-04:00",
+        "date_completed": "2026-06-08T12:25:34.015780-04:00"
       }
     ]
   }
