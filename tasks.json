@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-08T10:40:39.798144-04:00",
+  "updated_at": "2026-06-08T10:52:13.218275-04:00",
   "tasks": {
     "active": [
       {
@@ -572,6 +572,28 @@
             "by": "hermes",
             "at": "2026-06-08T10:40:39.798139-04:00",
             "notes": "Original due text: today at 11 am"
+          }
+        ]
+      },
+      {
+        "id": "8364da33",
+        "title": "follow up on AI NSF proposal opportunities (read)",
+        "status": "Active",
+        "date_due": "2026-06-08T17:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-06-08T10:52:13.218255-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-06-08T10:52:13.218269-04:00",
+            "notes": "Original due text: today at 5 pm"
           }
         ]
       }
