@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-09T23:43:53.566499-04:00",
+  "updated_at": "2026-06-10T10:25:44.471395-04:00",
   "tasks": {
     "active": [
       {
@@ -412,9 +412,9 @@
         "id": "5dd8f44c",
         "title": "Complete syllabi in Simple Syllabus for the fall classes",
         "status": "Active",
-        "date_due": "none",
-        "priority": "Medium",
-        "task_metadata": "Created via Hermes task manager.",
+        "date_due": "2026-06-10T17:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-06-10 10:25:44] Set due today at 5 pm and marked Critical per user request.\n[2026-06-10 10:25:44] Priority updated to Critical during move.",
         "history": [
           {
             "action": "create",
@@ -427,6 +427,18 @@
             "by": "hermes",
             "at": "2026-06-09T23:43:53.566492-04:00",
             "notes": "Original due text: none"
+          },
+          {
+            "action": "reschedule",
+            "by": "hermes",
+            "at": "2026-06-10T10:25:44.471375-04:00",
+            "notes": "Set due today at 5 pm and marked Critical per user request."
+          },
+          {
+            "action": "priority_update",
+            "by": "hermes",
+            "at": "2026-06-10T10:25:44.471391-04:00",
+            "notes": "Priority updated to Critical"
           }
         ]
       }
