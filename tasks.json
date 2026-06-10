@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-08T14:22:30.048510-04:00",
+  "updated_at": "2026-06-09T23:43:53.566499-04:00",
   "tasks": {
     "active": [
       {
@@ -405,6 +405,28 @@
             "by": "hermes",
             "at": "2026-06-08T10:52:13.218269-04:00",
             "notes": "Original due text: today at 5 pm"
+          }
+        ]
+      },
+      {
+        "id": "5dd8f44c",
+        "title": "Complete syllabi in Simple Syllabus for the fall classes",
+        "status": "Active",
+        "date_due": "none",
+        "priority": "Medium",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-06-09T23:43:53.566456-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-06-09T23:43:53.566492-04:00",
+            "notes": "Original due text: none"
           }
         ]
       }
