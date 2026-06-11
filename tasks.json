@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-11T14:11:54.030179-04:00",
+  "updated_at": "2026-06-11T14:50:14.359183-04:00",
   "tasks": {
     "active": [
       {
@@ -461,6 +461,28 @@
             "by": "hermes",
             "at": "2026-06-11T14:11:54.030173-04:00",
             "notes": "Original due text: tomorrow at 10 am"
+          }
+        ]
+      },
+      {
+        "id": "aaffd744",
+        "title": "Send follow up emails to prospective students",
+        "status": "Active",
+        "date_due": "2026-06-11T17:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-06-11T14:50:14.359160-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-06-11T14:50:14.359176-04:00",
+            "notes": "Original due text: today at 5 pm"
           }
         ]
       }
