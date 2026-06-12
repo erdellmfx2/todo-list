@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-12T15:03:25.909811-04:00",
+  "updated_at": "2026-06-12T15:03:27.697641-04:00",
   "tasks": {
     "active": [
       {
@@ -361,40 +361,6 @@
             "by": "hermes",
             "at": "2026-06-08T10:52:13.218269-04:00",
             "notes": "Original due text: today at 5 pm"
-          }
-        ]
-      },
-      {
-        "id": "5dd8f44c",
-        "title": "Complete syllabi in Simple Syllabus for the fall classes",
-        "status": "Active",
-        "date_due": "2026-06-10T17:00:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.\n[2026-06-10 10:25:44] Set due today at 5 pm and marked Critical per user request.\n[2026-06-10 10:25:44] Priority updated to Critical during move.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-06-09T23:43:53.566456-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-06-09T23:43:53.566492-04:00",
-            "notes": "Original due text: none"
-          },
-          {
-            "action": "reschedule",
-            "by": "hermes",
-            "at": "2026-06-10T10:25:44.471375-04:00",
-            "notes": "Set due today at 5 pm and marked Critical per user request."
-          },
-          {
-            "action": "priority_update",
-            "by": "hermes",
-            "at": "2026-06-10T10:25:44.471391-04:00",
-            "notes": "Priority updated to Critical"
           }
         ]
       },
@@ -3850,6 +3816,48 @@
         ],
         "completed_at": "2026-06-12T15:03:25.909755-04:00",
         "date_completed": "2026-06-12T15:03:25.909755-04:00"
+      },
+      {
+        "id": "5dd8f44c",
+        "title": "Complete syllabi in Simple Syllabus for the fall classes",
+        "status": "Complete",
+        "date_due": "2026-06-10T17:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-06-10 10:25:44] Set due today at 5 pm and marked Critical per user request.\n[2026-06-10 10:25:44] Priority updated to Critical during move.\n[2026-06-12 15:03:27] Marked done and awarded merit per user request",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-06-09T23:43:53.566456-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-06-09T23:43:53.566492-04:00",
+            "notes": "Original due text: none"
+          },
+          {
+            "action": "reschedule",
+            "by": "hermes",
+            "at": "2026-06-10T10:25:44.471375-04:00",
+            "notes": "Set due today at 5 pm and marked Critical per user request."
+          },
+          {
+            "action": "priority_update",
+            "by": "hermes",
+            "at": "2026-06-10T10:25:44.471391-04:00",
+            "notes": "Priority updated to Critical"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-06-12T15:03:27.697635-04:00",
+            "notes": "Marked done and awarded merit per user request"
+          }
+        ],
+        "completed_at": "2026-06-12T15:03:27.697589-04:00",
+        "date_completed": "2026-06-12T15:03:27.697589-04:00"
       }
     ]
   }
