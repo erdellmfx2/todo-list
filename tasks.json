@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-12T15:03:27.697641-04:00",
+  "updated_at": "2026-06-12T15:03:29.560229-04:00",
   "tasks": {
     "active": [
       {
@@ -361,28 +361,6 @@
             "by": "hermes",
             "at": "2026-06-08T10:52:13.218269-04:00",
             "notes": "Original due text: today at 5 pm"
-          }
-        ]
-      },
-      {
-        "id": "8f061b2d",
-        "title": "Work on phase 2 paper",
-        "status": "Active",
-        "date_due": "2026-06-11T18:00:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-06-11T15:09:35.282981-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-06-11T15:09:35.282996-04:00",
-            "notes": "Original due text: today at 6 pm"
           }
         ]
       },
@@ -3858,6 +3836,36 @@
         ],
         "completed_at": "2026-06-12T15:03:27.697589-04:00",
         "date_completed": "2026-06-12T15:03:27.697589-04:00"
+      },
+      {
+        "id": "8f061b2d",
+        "title": "Work on phase 2 paper",
+        "status": "Complete",
+        "date_due": "2026-06-11T18:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-06-12 15:03:29] Marked done and awarded weighted merit per user request",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-06-11T15:09:35.282981-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-06-11T15:09:35.282996-04:00",
+            "notes": "Original due text: today at 6 pm"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-06-12T15:03:29.560219-04:00",
+            "notes": "Marked done and awarded weighted merit per user request"
+          }
+        ],
+        "completed_at": "2026-06-12T15:03:29.560129-04:00",
+        "date_completed": "2026-06-12T15:03:29.560129-04:00"
       }
     ]
   }
