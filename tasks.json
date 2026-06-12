@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-12T13:48:43.496096-04:00",
+  "updated_at": "2026-06-12T14:00:17.812771-04:00",
   "tasks": {
     "active": [
       {
@@ -461,6 +461,28 @@
             "by": "hermes",
             "at": "2026-06-12T00:27:36.014344-04:00",
             "notes": "Original due text: today at 5 pm"
+          }
+        ]
+      },
+      {
+        "id": "8c7a372a",
+        "title": "Draft and update email to Adam about progress on paper creation",
+        "status": "Active",
+        "date_due": "none",
+        "priority": "Medium",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-06-12T14:00:17.812746-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-06-12T14:00:17.812767-04:00",
+            "notes": "Original due text: none"
           }
         ]
       }
