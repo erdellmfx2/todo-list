@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-12T15:03:33.421095-04:00",
+  "updated_at": "2026-06-12T15:05:55.457855-04:00",
   "tasks": {
     "active": [
       {
@@ -361,6 +361,28 @@
             "by": "hermes",
             "at": "2026-06-12T00:27:36.014344-04:00",
             "notes": "Original due text: today at 5 pm"
+          }
+        ]
+      },
+      {
+        "id": "8fbd48b1",
+        "title": "Send replies to other student in integrating academic support class discussion",
+        "status": "Active",
+        "date_due": "2026-06-14T17:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-06-12T15:05:55.457833-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-06-12T15:05:55.457848-04:00",
+            "notes": "Original due text: Sunday at 5pm"
           }
         ]
       }
