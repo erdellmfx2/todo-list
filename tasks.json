@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-12T14:00:17.812771-04:00",
+  "updated_at": "2026-06-12T15:03:25.909811-04:00",
   "tasks": {
     "active": [
       {
@@ -395,28 +395,6 @@
             "by": "hermes",
             "at": "2026-06-10T10:25:44.471391-04:00",
             "notes": "Priority updated to Critical"
-          }
-        ]
-      },
-      {
-        "id": "aa0765e6",
-        "title": "Complete academic support classes in Canvas",
-        "status": "Active",
-        "date_due": "2026-06-12T10:00:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-06-11T14:11:54.030144-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-06-11T14:11:54.030173-04:00",
-            "notes": "Original due text: tomorrow at 10 am"
           }
         ]
       },
@@ -3842,6 +3820,36 @@
         ],
         "completed_at": "2026-06-12T13:48:43.496047-04:00",
         "date_completed": "2026-06-12T13:48:43.496047-04:00"
+      },
+      {
+        "id": "aa0765e6",
+        "title": "Complete academic support classes in Canvas",
+        "status": "Complete",
+        "date_due": "2026-06-12T10:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-06-12 15:03:25] Marked done and awarded merit per user request",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-06-11T14:11:54.030144-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-06-11T14:11:54.030173-04:00",
+            "notes": "Original due text: tomorrow at 10 am"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-06-12T15:03:25.909804-04:00",
+            "notes": "Marked done and awarded merit per user request"
+          }
+        ],
+        "completed_at": "2026-06-12T15:03:25.909755-04:00",
+        "date_completed": "2026-06-12T15:03:25.909755-04:00"
       }
     ]
   }
