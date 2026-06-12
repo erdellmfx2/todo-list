@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-12T15:03:29.560229-04:00",
+  "updated_at": "2026-06-12T15:03:31.481219-04:00",
   "tasks": {
     "active": [
       {
@@ -251,28 +251,6 @@
             "by": "hermes",
             "at": "2026-05-20T08:23:58.640490-04:00",
             "notes": "Original due text: tomorrow 9am"
-          }
-        ]
-      },
-      {
-        "id": "a782a857",
-        "title": "Go through daily email, identify responses needed, analyze and notate task completion",
-        "status": "Active",
-        "date_due": "2026-12-07T09:00:00-05:00",
-        "priority": "Low",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-05-26T12:31:27.067064-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-05-26T12:31:27.067074-04:00",
-            "notes": "Original due text: December 7"
           }
         ]
       },
@@ -3866,6 +3844,36 @@
         ],
         "completed_at": "2026-06-12T15:03:29.560129-04:00",
         "date_completed": "2026-06-12T15:03:29.560129-04:00"
+      },
+      {
+        "id": "a782a857",
+        "title": "Go through daily email, identify responses needed, analyze and notate task completion",
+        "status": "Complete",
+        "date_due": "2026-12-07T09:00:00-05:00",
+        "priority": "Low",
+        "task_metadata": "Created via Hermes task manager.\n[2026-06-12 15:03:31] Marked done and awarded merit per user request",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-05-26T12:31:27.067064-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-05-26T12:31:27.067074-04:00",
+            "notes": "Original due text: December 7"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-06-12T15:03:31.481214-04:00",
+            "notes": "Marked done and awarded merit per user request"
+          }
+        ],
+        "completed_at": "2026-06-12T15:03:31.481175-04:00",
+        "date_completed": "2026-06-12T15:03:31.481175-04:00"
       }
     ]
   }
