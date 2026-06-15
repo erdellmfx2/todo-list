@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-15T08:07:34.643203-04:00",
+  "updated_at": "2026-06-15T18:16:26.786212-04:00",
   "tasks": {
     "active": [
       {
@@ -405,6 +405,28 @@
             "by": "hermes",
             "at": "2026-06-15T08:07:34.643200-04:00",
             "notes": "Original due text: today at 5:00 p.m."
+          }
+        ]
+      },
+      {
+        "id": "364c08ff",
+        "title": "Follow up on bank account charges",
+        "status": "Active",
+        "date_due": "2026-06-16T18:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-06-15T18:16:26.786195-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-06-15T18:16:26.786207-04:00",
+            "notes": "Original due text: tomorrow at 6 pm"
           }
         ]
       }
