@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-16T16:16:04.019474-04:00",
+  "updated_at": "2026-06-16T16:50:38.394782-04:00",
   "tasks": {
     "active": [
       {
@@ -471,6 +471,28 @@
             "by": "hermes",
             "at": "2026-06-16T16:16:04.019467-04:00",
             "notes": "Original due text: today at 6 pm"
+          }
+        ]
+      },
+      {
+        "id": "faefac6d",
+        "title": "Get linux computer to restart after power outage",
+        "status": "Active",
+        "date_due": "2026-06-16T21:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-06-16T16:50:38.394766-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-06-16T16:50:38.394777-04:00",
+            "notes": "Original due text: today at 9 pm"
           }
         ]
       }
