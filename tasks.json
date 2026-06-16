@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-16T16:50:38.394782-04:00",
+  "updated_at": "2026-06-16T16:52:27.901369-04:00",
   "tasks": {
     "active": [
       {
@@ -493,6 +493,28 @@
             "by": "hermes",
             "at": "2026-06-16T16:50:38.394777-04:00",
             "notes": "Original due text: today at 9 pm"
+          }
+        ]
+      },
+      {
+        "id": "a82d0e30",
+        "title": "Add new PDFs to Mendeley files",
+        "status": "Active",
+        "date_due": "2026-06-17T10:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-06-16T16:52:27.901354-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-06-16T16:52:27.901364-04:00",
+            "notes": "Original due text: tomorrow at 10 am"
           }
         ]
       }
