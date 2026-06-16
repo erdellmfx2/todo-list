@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-15T18:16:26.786212-04:00",
+  "updated_at": "2026-06-16T16:15:27.445008-04:00",
   "tasks": {
     "active": [
       {
@@ -427,6 +427,28 @@
             "by": "hermes",
             "at": "2026-06-15T18:16:26.786207-04:00",
             "notes": "Original due text: tomorrow at 6 pm"
+          }
+        ]
+      },
+      {
+        "id": "a286f51c",
+        "title": "Test out the workflow on my home desktop computer",
+        "status": "Active",
+        "date_due": "none",
+        "priority": "Medium",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-06-16T16:15:27.444980-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-06-16T16:15:27.445004-04:00",
+            "notes": "Original due text: none"
           }
         ]
       }
