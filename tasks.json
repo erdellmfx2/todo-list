@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-16T17:07:54.406700-04:00",
+  "updated_at": "2026-06-17T10:01:28.712720-04:00",
   "tasks": {
     "active": [
       {
@@ -471,6 +471,28 @@
             "by": "hermes",
             "at": "2026-06-16T16:52:27.901364-04:00",
             "notes": "Original due text: tomorrow at 10 am"
+          }
+        ]
+      },
+      {
+        "id": "08e7946a",
+        "title": "See Dr. Ajith",
+        "status": "Active",
+        "date_due": "2026-06-17T13:30:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-06-17T10:01:28.712708-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-06-17T10:01:28.712716-04:00",
+            "notes": "Original due text: today at 1:30 pm"
           }
         ]
       }
