@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-18T17:04:43.678172-04:00",
+  "updated_at": "2026-06-18T17:07:24.899711-04:00",
   "tasks": {
     "active": [
       {
@@ -405,28 +405,6 @@
             "by": "hermes",
             "at": "2026-06-16T16:16:04.019467-04:00",
             "notes": "Original due text: today at 6 pm"
-          }
-        ]
-      },
-      {
-        "id": "faefac6d",
-        "title": "Get linux computer to restart after power outage",
-        "status": "Active",
-        "date_due": "2026-06-16T21:00:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-06-16T16:50:38.394766-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-06-16T16:50:38.394777-04:00",
-            "notes": "Original due text: today at 9 pm"
           }
         ]
       },
@@ -4148,6 +4126,36 @@
         ],
         "completed_at": "2026-06-18T17:04:43.678119-04:00",
         "date_completed": "2026-06-18T17:04:43.678119-04:00"
+      },
+      {
+        "id": "faefac6d",
+        "title": "Get linux computer to restart after power outage",
+        "status": "Complete",
+        "date_due": "2026-06-16T21:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-06-18 17:07:24] Marked complete via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-06-16T16:50:38.394766-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-06-16T16:50:38.394777-04:00",
+            "notes": "Original due text: today at 9 pm"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-06-18T17:07:24.899704-04:00",
+            "notes": "Marked complete via Hermes task manager."
+          }
+        ],
+        "completed_at": "2026-06-18T17:07:24.899657-04:00",
+        "date_completed": "2026-06-18T17:07:24.899657-04:00"
       }
     ]
   }
