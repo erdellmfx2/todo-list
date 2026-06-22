@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-18T17:07:24.899711-04:00",
+  "updated_at": "2026-06-22T07:18:33.330011-04:00",
   "tasks": {
     "active": [
       {
@@ -515,6 +515,28 @@
             "by": "hermes",
             "at": "2026-06-18T15:04:11.345381-04:00",
             "notes": "Original due text: tomorrow at 10:30 am"
+          }
+        ]
+      },
+      {
+        "id": "004b5136",
+        "title": "complete paper setup",
+        "status": "Active",
+        "date_due": "2026-06-22T10:45:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Use Codex to help organize methodology for reviewing the study.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-06-22T07:18:33.329980-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-06-22T07:18:33.329995-04:00",
+            "notes": "Original due text: today at 10:45 a.m."
           }
         ]
       }
