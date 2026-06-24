@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-23T21:35:09.812004-04:00",
+  "updated_at": "2026-06-24T10:05:34.820231-04:00",
   "tasks": {
     "active": [
       {
@@ -405,28 +405,6 @@
             "by": "hermes",
             "at": "2026-06-16T16:52:27.901364-04:00",
             "notes": "Original due text: tomorrow at 10 am"
-          }
-        ]
-      },
-      {
-        "id": "723fe62c",
-        "title": "call to find pricing on dead tree removal",
-        "status": "Active",
-        "date_due": "2026-06-22T13:00:00-04:00",
-        "priority": "High",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-06-22T07:58:10.388985-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-06-22T07:58:10.389000-04:00",
-            "notes": "Original due text: today at 1:00 p.m."
           }
         ]
       },
@@ -4300,6 +4278,36 @@
         ],
         "completed_at": "2026-06-23T21:35:09.811951-04:00",
         "date_completed": "2026-06-23T21:35:09.811951-04:00"
+      },
+      {
+        "id": "723fe62c",
+        "title": "call to find pricing on dead tree removal",
+        "status": "Complete",
+        "date_due": "2026-06-22T13:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.\n[2026-06-24 10:05:34] Marked complete via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-06-22T07:58:10.388985-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-06-22T07:58:10.389000-04:00",
+            "notes": "Original due text: today at 1:00 p.m."
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-06-24T10:05:34.820225-04:00",
+            "notes": "Marked complete via Hermes task manager."
+          }
+        ],
+        "completed_at": "2026-06-24T10:05:34.820185-04:00",
+        "date_completed": "2026-06-24T10:05:34.820185-04:00"
       }
     ]
   }
