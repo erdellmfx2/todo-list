@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-23T21:35:05.153491-04:00",
+  "updated_at": "2026-06-23T21:35:07.516109-04:00",
   "tasks": {
     "active": [
       {
@@ -427,28 +427,6 @@
             "by": "hermes",
             "at": "2026-06-16T16:52:27.901364-04:00",
             "notes": "Original due text: tomorrow at 10 am"
-          }
-        ]
-      },
-      {
-        "id": "bbfe6574",
-        "title": "Post classwork discussion from my FAMU course",
-        "status": "Active",
-        "date_due": "2026-06-19T10:30:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-06-18T15:04:11.345367-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-06-18T15:04:11.345381-04:00",
-            "notes": "Original due text: tomorrow at 10:30 am"
           }
         ]
       },
@@ -4284,6 +4262,36 @@
         ],
         "completed_at": "2026-06-23T21:35:05.153400-04:00",
         "date_completed": "2026-06-23T21:35:05.153400-04:00"
+      },
+      {
+        "id": "bbfe6574",
+        "title": "Post classwork discussion from my FAMU course",
+        "status": "Complete",
+        "date_due": "2026-06-19T10:30:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-06-23 21:35:07] Marked complete via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-06-18T15:04:11.345367-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-06-18T15:04:11.345381-04:00",
+            "notes": "Original due text: tomorrow at 10:30 am"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-06-23T21:35:07.516103-04:00",
+            "notes": "Marked complete via Hermes task manager."
+          }
+        ],
+        "completed_at": "2026-06-23T21:35:07.516062-04:00",
+        "date_completed": "2026-06-23T21:35:07.516062-04:00"
       }
     ]
   }
