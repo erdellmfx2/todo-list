@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-06-23T21:35:07.516109-04:00",
+  "updated_at": "2026-06-23T21:35:09.812004-04:00",
   "tasks": {
     "active": [
       {
@@ -361,28 +361,6 @@
             "by": "hermes",
             "at": "2026-06-12T00:27:36.014344-04:00",
             "notes": "Original due text: today at 5 pm"
-          }
-        ]
-      },
-      {
-        "id": "a286f51c",
-        "title": "Test out the workflow on my home desktop computer",
-        "status": "Active",
-        "date_due": "none",
-        "priority": "Medium",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-06-16T16:15:27.444980-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-06-16T16:15:27.445004-04:00",
-            "notes": "Original due text: none"
           }
         ]
       },
@@ -4292,6 +4270,36 @@
         ],
         "completed_at": "2026-06-23T21:35:07.516062-04:00",
         "date_completed": "2026-06-23T21:35:07.516062-04:00"
+      },
+      {
+        "id": "a286f51c",
+        "title": "Test out the workflow on my home desktop computer",
+        "status": "Complete",
+        "date_due": "none",
+        "priority": "Medium",
+        "task_metadata": "Created via Hermes task manager.\n[2026-06-23 21:35:09] Marked complete via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-06-16T16:15:27.444980-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-06-16T16:15:27.445004-04:00",
+            "notes": "Original due text: none"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-06-23T21:35:09.811997-04:00",
+            "notes": "Marked complete via Hermes task manager."
+          }
+        ],
+        "completed_at": "2026-06-23T21:35:09.811951-04:00",
+        "date_completed": "2026-06-23T21:35:09.811951-04:00"
       }
     ]
   }
