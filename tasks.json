@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-07-06T11:57:02.036816-04:00",
+  "updated_at": "2026-07-06T14:41:07.154911-04:00",
   "tasks": {
     "active": [
       {
@@ -449,6 +449,28 @@
             "by": "hermes",
             "at": "2026-07-06T11:57:02.036802-04:00",
             "notes": "Original due text: today at 8:30 pm"
+          }
+        ]
+      },
+      {
+        "id": "66f6aadb",
+        "title": "Contact New Mexico lab about help with quantum computing",
+        "status": "Active",
+        "date_due": "2026-07-07T13:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-07-06T14:41:07.154897-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-07-06T14:41:07.154907-04:00",
+            "notes": "Original due text: tomorrow at 1 pm"
           }
         ]
       }
