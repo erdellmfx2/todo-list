@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-07-06T15:27:42.712292-04:00",
+  "updated_at": "2026-07-10T17:39:39.059723-04:00",
   "tasks": {
     "active": [
       {
@@ -492,6 +492,28 @@
             "action": "create_request",
             "by": "hermes",
             "at": "2026-07-06T15:27:42.712287-04:00",
+            "notes": "Original due text: today at 4 pm"
+          }
+        ]
+      },
+      {
+        "id": "0bf7c419",
+        "title": "add first powerful introductory paragraph",
+        "status": "Active",
+        "date_due": "2026-07-10T16:00:00-04:00",
+        "priority": "Medium",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-07-10T17:39:39.059707-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-07-10T17:39:39.059718-04:00",
             "notes": "Original due text: today at 4 pm"
           }
         ]
