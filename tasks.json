@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-07-15T20:06:37.491942-04:00",
+  "updated_at": "2026-07-15T20:06:39.605382-04:00",
   "tasks": {
     "active": [
       {
@@ -115,21 +115,6 @@
         "date_due": "2026-05-27T17:00:00",
         "priority": "Medium",
         "task_metadata": "Created from /nt user request on 2026-04-23.\n[2026-05-02 13:24:11] [2026-05-02 13:08] 📅 Due date moved to next Wednesday by user request.\n[2026-05-19 22:52] 📅 Rescheduled from overdue May 6 to next Wednesday (May 27)",
-        "history": [
-          {
-            "action": "reschedule",
-            "by": "hermes",
-            "at": "2026-05-19T22:52:00-04:00",
-            "notes": "Rescheduled from overdue May 6 to next Wednesday (May 27)"
-          }
-        ]
-      },
-      {
-        "title": "do the step by step analysis in nvivo",
-        "status": "Active",
-        "date_due": "2026-05-27T20:00:00",
-        "priority": "Medium",
-        "task_metadata": "Created from /nt user request on 2026-04-20. Notes: carry out the Blue Print paper step-by-step analysis in NVivo.\n[2026-05-02 13:24:11] [2026-05-02 13:08] 📅 Due date moved to next Wednesday by user request.\n[2026-05-19 22:52] 📅 Rescheduled from overdue May 6 to next Wednesday (May 27)",
         "history": [
           {
             "action": "reschedule",
@@ -4446,6 +4431,29 @@
             "notes": "Marked complete via Hermes task manager."
           }
         ]
+      },
+      {
+        "title": "do the step by step analysis in nvivo",
+        "status": "Complete",
+        "date_due": "2026-05-27T20:00:00",
+        "priority": "Medium",
+        "task_metadata": "Created from /nt user request on 2026-04-20. Notes: carry out the Blue Print paper step-by-step analysis in NVivo.\n[2026-05-02 13:24:11] [2026-05-02 13:08] 📅 Due date moved to next Wednesday by user request.\n[2026-05-19 22:52] 📅 Rescheduled from overdue May 6 to next Wednesday (May 27)\n[2026-07-15 20:06:39] Marked complete via Hermes task manager.",
+        "history": [
+          {
+            "action": "reschedule",
+            "by": "hermes",
+            "at": "2026-05-19T22:52:00-04:00",
+            "notes": "Rescheduled from overdue May 6 to next Wednesday (May 27)"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-07-15T20:06:39.605375-04:00",
+            "notes": "Marked complete via Hermes task manager."
+          }
+        ],
+        "completed_at": "2026-07-15T20:06:39.605320-04:00",
+        "date_completed": "2026-07-15T20:06:39.605320-04:00"
       }
     ]
   }
