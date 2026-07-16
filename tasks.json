@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-07-15T20:06:35.408210-04:00",
+  "updated_at": "2026-07-15T20:06:37.491942-04:00",
   "tasks": {
     "active": [
       {
@@ -40,25 +40,6 @@
             "notes": "Rescheduled from overdue May 15 to next Friday (May 29)"
           }
         ]
-      },
-      {
-        "title": "change the water filter",
-        "status": "Active",
-        "date_due": "2026-07-01",
-        "priority": "High",
-        "task_metadata": "Added from user request\n[2026-03-20 11:41] 🔄 Added recurring task: every 6 months, first due 2026-07-01, total 8 occurrences, HIGH priority.\n[2026-03-22 15:19] 📅 Date confirmed/updated to 2026-07-01.",
-        "recurrence": {
-          "enabled": true,
-          "type": "monthly",
-          "interval": 6,
-          "first_due": "2026-07-01",
-          "next_due": "2027-01-01T00:00",
-          "remaining_occurrences": 7,
-          "total_occurrences": 8,
-          "completed_occurrences": 0,
-          "skip_weekends": false,
-          "day_of_month": 1
-        }
       },
       {
         "title": "check out life span podcast. lifespan.com",
@@ -4436,6 +4417,35 @@
         ],
         "completed_at": "2026-07-15T20:06:35.408151-04:00",
         "date_completed": "2026-07-15T20:06:35.408151-04:00"
+      },
+      {
+        "title": "change the water filter",
+        "status": "Complete",
+        "date_due": "2026-07-01",
+        "priority": "High",
+        "task_metadata": "Added from user request\n[2026-03-20 11:41] 🔄 Added recurring task: every 6 months, first due 2026-07-01, total 8 occurrences, HIGH priority.\n[2026-03-22 15:19] 📅 Date confirmed/updated to 2026-07-01.\n[2026-07-15 20:06:37] Marked complete via Hermes task manager.",
+        "recurrence": {
+          "enabled": true,
+          "type": "monthly",
+          "interval": 6,
+          "first_due": "2026-07-01",
+          "next_due": "2027-01-01T00:00",
+          "remaining_occurrences": 7,
+          "total_occurrences": 8,
+          "completed_occurrences": 0,
+          "skip_weekends": false,
+          "day_of_month": 1
+        },
+        "completed_at": "2026-07-15T20:06:37.491879-04:00",
+        "date_completed": "2026-07-15T20:06:37.491879-04:00",
+        "history": [
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-07-15T20:06:37.491934-04:00",
+            "notes": "Marked complete via Hermes task manager."
+          }
+        ]
       }
     ]
   }
