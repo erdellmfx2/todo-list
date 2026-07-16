@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-07-15T20:06:42.107097-04:00",
+  "updated_at": "2026-07-15T20:06:44.322933-04:00",
   "tasks": {
     "active": [
       {
@@ -309,28 +309,6 @@
             "by": "hermes",
             "at": "2026-07-06T14:41:07.154907-04:00",
             "notes": "Original due text: tomorrow at 1 pm"
-          }
-        ]
-      },
-      {
-        "id": "0bf7c419",
-        "title": "add first powerful introductory paragraph",
-        "status": "Active",
-        "date_due": "2026-07-10T16:00:00-04:00",
-        "priority": "Medium",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-07-10T17:39:39.059707-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-07-10T17:39:39.059718-04:00",
-            "notes": "Original due text: today at 4 pm"
           }
         ]
       }
@@ -4462,6 +4440,36 @@
         ],
         "completed_at": "2026-07-15T20:06:42.107041-04:00",
         "date_completed": "2026-07-15T20:06:42.107041-04:00"
+      },
+      {
+        "id": "0bf7c419",
+        "title": "add first powerful introductory paragraph",
+        "status": "Complete",
+        "date_due": "2026-07-10T16:00:00-04:00",
+        "priority": "Medium",
+        "task_metadata": "Created via Hermes task manager.\n[2026-07-15 20:06:44] Marked complete via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-07-10T17:39:39.059707-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-07-10T17:39:39.059718-04:00",
+            "notes": "Original due text: today at 4 pm"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-07-15T20:06:44.322926-04:00",
+            "notes": "Marked complete via Hermes task manager."
+          }
+        ],
+        "completed_at": "2026-07-15T20:06:44.322880-04:00",
+        "date_completed": "2026-07-15T20:06:44.322880-04:00"
       }
     ]
   }
