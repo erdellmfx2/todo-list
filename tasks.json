@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-07-10T17:39:39.059723-04:00",
+  "updated_at": "2026-07-15T20:06:27.607449-04:00",
   "tasks": {
     "active": [
       {
@@ -338,28 +338,6 @@
             "action": "create_request",
             "by": "hermes",
             "at": "2026-06-08T10:52:13.218269-04:00",
-            "notes": "Original due text: today at 5 pm"
-          }
-        ]
-      },
-      {
-        "id": "90bdca1d",
-        "title": "Read new downloaded paper",
-        "status": "Active",
-        "date_due": "2026-06-12T17:00:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-06-12T00:27:36.014333-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-06-12T00:27:36.014344-04:00",
             "notes": "Original due text: today at 5 pm"
           }
         ]
@@ -4396,6 +4374,36 @@
         ],
         "completed_at": "2026-06-24T10:05:34.820185-04:00",
         "date_completed": "2026-06-24T10:05:34.820185-04:00"
+      },
+      {
+        "id": "90bdca1d",
+        "title": "Read new downloaded paper",
+        "status": "Complete",
+        "date_due": "2026-06-12T17:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-07-15 20:06:27] Marked complete via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-06-12T00:27:36.014333-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-06-12T00:27:36.014344-04:00",
+            "notes": "Original due text: today at 5 pm"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-07-15T20:06:27.607441-04:00",
+            "notes": "Marked complete via Hermes task manager."
+          }
+        ],
+        "completed_at": "2026-07-15T20:06:27.607386-04:00",
+        "date_completed": "2026-07-15T20:06:27.607386-04:00"
       }
     ]
   }
