@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-07-15T20:06:39.605382-04:00",
+  "updated_at": "2026-07-15T20:06:42.107097-04:00",
   "tasks": {
     "active": [
       {
@@ -72,40 +72,6 @@
             "by": "hermes",
             "at": "2026-05-19T22:49:01.338307-04:00",
             "notes": "Rescheduled from overdue April 26 to next Monday (May 25)"
-          }
-        ]
-      },
-      {
-        "id": "ddcf465a",
-        "title": "create a Saturday course to use Antigravity",
-        "status": "Active",
-        "priority": "Medium",
-        "date_due": "2026-05-30T16:00:00",
-        "task_metadata": "Added from /nt user request on 2026-04-15. Priority medium.\n[2026-05-02 13:24:11] [2026-05-02 13:08] 📅 Due date moved to next Wednesday by user request.\n[2026-05-19 22:49:07] Rescheduled from overdue May 6 to next Wednesday (May 27)\n[2026-05-19 22:52] 📅 Rescheduled to next Saturday (May 30)",
-        "history": [
-          {
-            "action": "create",
-            "by": "erdell",
-            "at": "2026-04-15T07:27:04.551464-04:00",
-            "notes": "Created from user instruction via /nt shortcut"
-          },
-          {
-            "action": "reschedule",
-            "by": "erdell",
-            "at": "2026-04-19T21:48:33.047202-04:00",
-            "notes": "Moved due date to next Sunday per user request"
-          },
-          {
-            "action": "reschedule",
-            "by": "hermes",
-            "at": "2026-05-19T22:49:07.076114-04:00",
-            "notes": "Rescheduled from overdue May 6 to next Wednesday (May 27)"
-          },
-          {
-            "action": "reschedule",
-            "by": "hermes",
-            "at": "2026-05-19T22:52:00-04:00",
-            "notes": "Rescheduled to next Saturday (May 30)"
           }
         ]
       },
@@ -4454,6 +4420,48 @@
         ],
         "completed_at": "2026-07-15T20:06:39.605320-04:00",
         "date_completed": "2026-07-15T20:06:39.605320-04:00"
+      },
+      {
+        "id": "ddcf465a",
+        "title": "create a Saturday course to use Antigravity",
+        "status": "Complete",
+        "priority": "Medium",
+        "date_due": "2026-05-30T16:00:00",
+        "task_metadata": "Added from /nt user request on 2026-04-15. Priority medium.\n[2026-05-02 13:24:11] [2026-05-02 13:08] 📅 Due date moved to next Wednesday by user request.\n[2026-05-19 22:49:07] Rescheduled from overdue May 6 to next Wednesday (May 27)\n[2026-05-19 22:52] 📅 Rescheduled to next Saturday (May 30)\n[2026-07-15 20:06:42] Marked complete via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "erdell",
+            "at": "2026-04-15T07:27:04.551464-04:00",
+            "notes": "Created from user instruction via /nt shortcut"
+          },
+          {
+            "action": "reschedule",
+            "by": "erdell",
+            "at": "2026-04-19T21:48:33.047202-04:00",
+            "notes": "Moved due date to next Sunday per user request"
+          },
+          {
+            "action": "reschedule",
+            "by": "hermes",
+            "at": "2026-05-19T22:49:07.076114-04:00",
+            "notes": "Rescheduled from overdue May 6 to next Wednesday (May 27)"
+          },
+          {
+            "action": "reschedule",
+            "by": "hermes",
+            "at": "2026-05-19T22:52:00-04:00",
+            "notes": "Rescheduled to next Saturday (May 30)"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-07-15T20:06:42.107090-04:00",
+            "notes": "Marked complete via Hermes task manager."
+          }
+        ],
+        "completed_at": "2026-07-15T20:06:42.107041-04:00",
+        "date_completed": "2026-07-15T20:06:42.107041-04:00"
       }
     ]
   }
