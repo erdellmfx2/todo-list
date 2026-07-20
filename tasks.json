@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-07-20T07:11:06.911386-04:00",
+  "updated_at": "2026-07-20T15:35:08.354340-04:00",
   "tasks": {
     "active": [
       {
@@ -309,6 +309,28 @@
             "by": "hermes",
             "at": "2026-07-20T07:11:06.911379-04:00",
             "notes": "Original due text: today at 10 am"
+          }
+        ]
+      },
+      {
+        "id": "751f393d",
+        "title": "go get parking permit",
+        "status": "Active",
+        "date_due": "2026-07-21T08:45:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-07-20T15:35:08.354330-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-07-20T15:35:08.354336-04:00",
+            "notes": "Original due text: tomorrow at 8:45 am"
           }
         ]
       }
