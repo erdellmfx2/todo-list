@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-07-20T23:36:39.119760-04:00",
+  "updated_at": "2026-07-21T12:24:34.128644-04:00",
   "tasks": {
     "active": [
       {
@@ -353,6 +353,28 @@
             "by": "hermes",
             "at": "2026-07-20T23:36:39.119756-04:00",
             "notes": "Original due text: tomorrow at 9:30 am"
+          }
+        ]
+      },
+      {
+        "id": "775d0248",
+        "title": "Research and prototype Hermes Agent integration with NVIDIA Omniverse for physics simulations and 3D asset workflows",
+        "status": "Active",
+        "date_due": "none",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-07-21T12:24:34.128616-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-07-21T12:24:34.128636-04:00",
+            "notes": "Original due text: none"
           }
         ]
       }
