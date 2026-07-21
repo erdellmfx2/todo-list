@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-07-20T23:36:37.095113-04:00",
+  "updated_at": "2026-07-20T23:36:39.119760-04:00",
   "tasks": {
     "active": [
       {
@@ -330,6 +330,28 @@
             "action": "create_request",
             "by": "hermes",
             "at": "2026-07-20T23:36:37.095110-04:00",
+            "notes": "Original due text: tomorrow at 9:30 am"
+          }
+        ]
+      },
+      {
+        "id": "a1d42b78",
+        "title": "follow up to summer faculty development course",
+        "status": "Active",
+        "date_due": "2026-07-21T09:30:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-07-20T23:36:39.119747-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-07-20T23:36:39.119756-04:00",
             "notes": "Original due text: tomorrow at 9:30 am"
           }
         ]
