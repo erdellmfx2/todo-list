@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-07-22T11:11:23.600526-04:00",
+  "updated_at": "2026-07-22T17:32:00.359309-04:00",
   "tasks": {
     "active": [
       {
@@ -294,28 +294,6 @@
             "by": "hermes",
             "at": "2026-07-20T23:36:39.119756-04:00",
             "notes": "Original due text: tomorrow at 9:30 am"
-          }
-        ]
-      },
-      {
-        "id": "775d0248",
-        "title": "Research and prototype Hermes Agent integration with NVIDIA Omniverse for physics simulations and 3D asset workflows",
-        "status": "Active",
-        "date_due": "none",
-        "priority": "High",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-07-21T12:24:34.128616-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-07-21T12:24:34.128636-04:00",
-            "notes": "Original due text: none"
           }
         ]
       },
@@ -4724,6 +4702,36 @@
         ],
         "completed_at": "2026-07-22T11:11:23.600451-04:00",
         "date_completed": "2026-07-22T11:11:23.600451-04:00"
+      },
+      {
+        "id": "775d0248",
+        "title": "Research and prototype Hermes Agent integration with NVIDIA Omniverse for physics simulations and 3D asset workflows",
+        "status": "Complete",
+        "date_due": "none",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.\n[2026-07-22 17:32:00] Marked done at user request; awarding +1 merit point.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-07-21T12:24:34.128616-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-07-21T12:24:34.128636-04:00",
+            "notes": "Original due text: none"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-07-22T17:32:00.359303-04:00",
+            "notes": "Marked done at user request; awarding +1 merit point."
+          }
+        ],
+        "completed_at": "2026-07-22T17:32:00.359263-04:00",
+        "date_completed": "2026-07-22T17:32:00.359263-04:00"
       }
     ]
   }
