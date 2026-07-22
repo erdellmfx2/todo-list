@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-07-22T10:14:43.036972-04:00",
+  "updated_at": "2026-07-22T11:11:23.600526-04:00",
   "tasks": {
     "active": [
       {
@@ -360,28 +360,6 @@
             "by": "hermes",
             "at": "2026-07-22T09:44:25.020104-04:00",
             "notes": "Original due text: today at 10:45 am"
-          }
-        ]
-      },
-      {
-        "id": "fd48a5eb",
-        "title": "watch quantum computing video",
-        "status": "Active",
-        "date_due": "2026-07-22T11:00:00-04:00",
-        "priority": "High",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-07-22T09:44:27.362895-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-07-22T09:44:27.362902-04:00",
-            "notes": "Original due text: today at 11 am"
           }
         ]
       }
@@ -4716,6 +4694,36 @@
         ],
         "completed_at": "2026-07-22T10:14:43.036908-04:00",
         "date_completed": "2026-07-22T10:14:43.036908-04:00"
+      },
+      {
+        "id": "fd48a5eb",
+        "title": "watch quantum computing video",
+        "status": "Complete",
+        "date_due": "2026-07-22T11:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.\n[2026-07-22 11:11:23] Marked done at user request; awarding +1 merit point.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-07-22T09:44:27.362895-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-07-22T09:44:27.362902-04:00",
+            "notes": "Original due text: today at 11 am"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-07-22T11:11:23.600516-04:00",
+            "notes": "Marked done at user request; awarding +1 merit point."
+          }
+        ],
+        "completed_at": "2026-07-22T11:11:23.600451-04:00",
+        "date_completed": "2026-07-22T11:11:23.600451-04:00"
       }
     ]
   }
