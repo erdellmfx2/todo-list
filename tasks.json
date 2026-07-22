@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-07-22T09:44:20.609005-04:00",
+  "updated_at": "2026-07-22T09:44:22.935113-04:00",
   "tasks": {
     "active": [
       {
@@ -397,6 +397,28 @@
             "by": "hermes",
             "at": "2026-07-22T09:44:20.608992-04:00",
             "notes": "Original due text: today at 5 pm"
+          }
+        ]
+      },
+      {
+        "id": "0a0e2a68",
+        "title": "Send Solomon draft of response",
+        "status": "Active",
+        "date_due": "2026-07-22T10:30:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-07-22T09:44:22.935091-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-07-22T09:44:22.935106-04:00",
+            "notes": "Original due text: today at 10:30 am"
           }
         ]
       }
