@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-07-22T09:49:03.554934-04:00",
+  "updated_at": "2026-07-22T09:49:06.149084-04:00",
   "tasks": {
     "active": [
       {
@@ -72,21 +72,6 @@
             "by": "hermes",
             "at": "2026-05-19T22:49:01.338307-04:00",
             "notes": "Rescheduled from overdue April 26 to next Monday (May 25)"
-          }
-        ]
-      },
-      {
-        "title": "research Google research agent",
-        "status": "Active",
-        "date_due": "2026-05-27T17:00:00",
-        "priority": "Medium",
-        "task_metadata": "Created from /nt user request on 2026-04-23.\n[2026-05-02 13:24:11] [2026-05-02 13:08] 📅 Due date moved to next Wednesday by user request.\n[2026-05-19 22:52] 📅 Rescheduled from overdue May 6 to next Wednesday (May 27)",
-        "history": [
-          {
-            "action": "reschedule",
-            "by": "hermes",
-            "at": "2026-05-19T22:52:00-04:00",
-            "notes": "Rescheduled from overdue May 6 to next Wednesday (May 27)"
           }
         ]
       },
@@ -4700,6 +4685,29 @@
         ],
         "completed_at": "2026-07-22T09:49:03.554884-04:00",
         "date_completed": "2026-07-22T09:49:03.554884-04:00"
+      },
+      {
+        "title": "research Google research agent",
+        "status": "Complete",
+        "date_due": "2026-05-27T17:00:00",
+        "priority": "Medium",
+        "task_metadata": "Created from /nt user request on 2026-04-23.\n[2026-05-02 13:24:11] [2026-05-02 13:08] 📅 Due date moved to next Wednesday by user request.\n[2026-05-19 22:52] 📅 Rescheduled from overdue May 6 to next Wednesday (May 27)\n[2026-07-22 09:49:06] Marked done at user request; awarding +1 merit point.",
+        "history": [
+          {
+            "action": "reschedule",
+            "by": "hermes",
+            "at": "2026-05-19T22:52:00-04:00",
+            "notes": "Rescheduled from overdue May 6 to next Wednesday (May 27)"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-07-22T09:49:06.149077-04:00",
+            "notes": "Marked done at user request; awarding +1 merit point."
+          }
+        ],
+        "completed_at": "2026-07-22T09:49:06.149022-04:00",
+        "date_completed": "2026-07-22T09:49:06.149022-04:00"
       }
     ]
   }
