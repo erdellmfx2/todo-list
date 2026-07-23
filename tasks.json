@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-07-22T17:32:00.359309-04:00",
+  "updated_at": "2026-07-22T23:45:16.290905-04:00",
   "tasks": {
     "active": [
       {
@@ -338,6 +338,28 @@
             "by": "hermes",
             "at": "2026-07-22T09:44:25.020104-04:00",
             "notes": "Original due text: today at 10:45 am"
+          }
+        ]
+      },
+      {
+        "id": "b1eecfad",
+        "title": "send Gregor topics for discussion, hopes and plans for website",
+        "status": "Active",
+        "date_due": "2026-07-23T15:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-07-22T23:45:16.290889-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-07-22T23:45:16.290900-04:00",
+            "notes": "Original due text: tomorrow at 3pm"
           }
         ]
       }
