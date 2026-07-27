@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-07-27T11:50:09.788174-04:00",
+  "updated_at": "2026-07-27T13:14:54.939975-04:00",
   "tasks": {
     "active": [
       {
@@ -365,11 +365,11 @@
       },
       {
         "id": "4f1c9e91",
-        "title": "get rubbing alcohol and Downy Balance",
+        "title": "get rubbing alcohol, Downy Balance, waffle mix, and pizza stuff",
         "status": "Active",
         "date_due": "2026-07-27T15:30:00-04:00",
         "priority": "High",
-        "task_metadata": "Created via Hermes task manager.",
+        "task_metadata": "Created via Hermes task manager.\n[2026-07-27 13:14:54] Updated shopping task title from “get rubbing alcohol and Downy Balance” to “get rubbing alcohol, Downy Balance, waffle mix, and pizza stuff”.",
         "history": [
           {
             "action": "create",
@@ -382,6 +382,12 @@
             "by": "hermes",
             "at": "2026-07-27T11:50:09.788168-04:00",
             "notes": "Original due text: today at 3:30 pm"
+          },
+          {
+            "action": "title_update",
+            "by": "hermes",
+            "at": "2026-07-27T13:14:54.939957-04:00",
+            "notes": "Updated shopping task title from “get rubbing alcohol and Downy Balance” to “get rubbing alcohol, Downy Balance, waffle mix, and pizza stuff”."
           }
         ]
       }
