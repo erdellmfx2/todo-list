@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-07-22T23:45:16.290905-04:00",
+  "updated_at": "2026-07-27T11:50:09.788174-04:00",
   "tasks": {
     "active": [
       {
@@ -360,6 +360,28 @@
             "by": "hermes",
             "at": "2026-07-22T23:45:16.290900-04:00",
             "notes": "Original due text: tomorrow at 3pm"
+          }
+        ]
+      },
+      {
+        "id": "4f1c9e91",
+        "title": "get rubbing alcohol and Downy Balance",
+        "status": "Active",
+        "date_due": "2026-07-27T15:30:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-07-27T11:50:09.788153-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-07-27T11:50:09.788168-04:00",
+            "notes": "Original due text: today at 3:30 pm"
           }
         ]
       }
