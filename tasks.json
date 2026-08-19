@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-19T15:12:58.000848-04:00",
+  "updated_at": "2026-08-19T15:13:02.911809-04:00",
   "tasks": {
     "active": [
       {
@@ -265,28 +265,6 @@
             "by": "hermes",
             "at": "2026-07-22T09:44:20.608992-04:00",
             "notes": "Original due text: today at 5 pm"
-          }
-        ]
-      },
-      {
-        "id": "bac13ebb",
-        "title": "update FAMU math Comic",
-        "status": "Active",
-        "date_due": "2026-07-22T10:45:00-04:00",
-        "priority": "High",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-07-22T09:44:25.020089-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-07-22T09:44:25.020104-04:00",
-            "notes": "Original due text: today at 10:45 am"
           }
         ]
       },
@@ -5120,6 +5098,36 @@
             "notes": "Marked done at user request; awarding +1 merit point."
           }
         ]
+      },
+      {
+        "id": "bac13ebb",
+        "title": "update FAMU math Comic",
+        "status": "Complete",
+        "date_due": "2026-07-22T10:45:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.\n[2026-08-19 15:13:02] Marked done at user request; awarding +1 merit point.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-07-22T09:44:25.020089-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-07-22T09:44:25.020104-04:00",
+            "notes": "Original due text: today at 10:45 am"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-08-19T15:13:02.911803-04:00",
+            "notes": "Marked done at user request; awarding +1 merit point."
+          }
+        ],
+        "completed_at": "2026-08-19T15:13:02.911761-04:00",
+        "date_completed": "2026-08-19T15:13:02.911761-04:00"
       }
     ]
   }
