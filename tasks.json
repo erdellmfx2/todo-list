@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-19T07:54:52.648362-04:00",
+  "updated_at": "2026-08-19T08:10:08.542913-04:00",
   "tasks": {
     "active": [
       {
@@ -580,6 +580,28 @@
             "by": "hermes",
             "at": "2026-08-19T07:54:52.648357-04:00",
             "notes": "Original due text: today at 1:30 pm"
+          }
+        ]
+      },
+      {
+        "id": "72b7bfcc",
+        "title": "get Bryan's medicine",
+        "status": "Active",
+        "date_due": "2026-08-19T09:30:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-08-19T08:10:08.542898-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-08-19T08:10:08.542908-04:00",
+            "notes": "Original due text: today at 9:30 am"
           }
         ]
       }
