@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-19T15:13:09.177010-04:00",
+  "updated_at": "2026-08-19T15:13:12.481374-04:00",
   "tasks": {
     "active": [
       {
@@ -40,25 +40,6 @@
             "notes": "Rescheduled from overdue May 15 to next Friday (May 29)"
           }
         ]
-      },
-      {
-        "title": "change the air filter",
-        "status": "Continuing",
-        "date_due": "2026-08-01T17:00",
-        "priority": "Medium",
-        "task_metadata": "Added from user request\n[2026-03-20 11:40] 🔄 Added recurring task: every 4 months; first due 2026-04-01 at 5:00 PM; MEDIUM priority.\n[2026-03-20 11:42] 🔁 Updated recurrence total to 10 occurrences.\n[2026-03-22 15:20] 📅 Date updated to 2026-04-01.\n[2026-04-05 18:59] ✅ Marked done by user confirmation.\n[2026-04-06 18:36] 🔁 Reinstated as recurring active task; status set to Continuing and due date rolled forward.",
-        "recurrence": {
-          "enabled": true,
-          "type": "monthly",
-          "interval": 4,
-          "first_due": "2026-04-01",
-          "next_due": "2026-12-01T17:00:00",
-          "remaining_occurrences": 9,
-          "total_occurrences": 10,
-          "completed_occurrences": 1,
-          "skip_weekends": false,
-          "day_of_month": 1
-        }
       },
       {
         "title": "watch the new Godzilla TV show",
@@ -5144,6 +5125,35 @@
         ],
         "completed_at": "2026-08-19T15:13:09.176945-04:00",
         "date_completed": "2026-08-19T15:13:09.176945-04:00"
+      },
+      {
+        "title": "change the air filter",
+        "status": "Complete",
+        "date_due": "2026-08-01T17:00",
+        "priority": "Medium",
+        "task_metadata": "Added from user request\n[2026-03-20 11:40] 🔄 Added recurring task: every 4 months; first due 2026-04-01 at 5:00 PM; MEDIUM priority.\n[2026-03-20 11:42] 🔁 Updated recurrence total to 10 occurrences.\n[2026-03-22 15:20] 📅 Date updated to 2026-04-01.\n[2026-04-05 18:59] ✅ Marked done by user confirmation.\n[2026-04-06 18:36] 🔁 Reinstated as recurring active task; status set to Continuing and due date rolled forward.\n[2026-08-19 15:13:12] Marked done at user request; awarding +1 merit point.",
+        "recurrence": {
+          "enabled": true,
+          "type": "monthly",
+          "interval": 4,
+          "first_due": "2026-04-01",
+          "next_due": "2026-12-01T17:00:00",
+          "remaining_occurrences": 9,
+          "total_occurrences": 10,
+          "completed_occurrences": 1,
+          "skip_weekends": false,
+          "day_of_month": 1
+        },
+        "completed_at": "2026-08-19T15:13:12.481297-04:00",
+        "date_completed": "2026-08-19T15:13:12.481297-04:00",
+        "history": [
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-08-19T15:13:12.481365-04:00",
+            "notes": "Marked done at user request; awarding +1 merit point."
+          }
+        ]
       }
     ]
   }
