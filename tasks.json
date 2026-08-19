@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-19T07:53:58.139126-04:00",
+  "updated_at": "2026-08-19T07:54:01.282378-04:00",
   "tasks": {
     "active": [
       {
@@ -470,6 +470,28 @@
             "by": "hermes",
             "at": "2026-08-19T07:53:58.139123-04:00",
             "notes": "Original due text: today at 10 am"
+          }
+        ]
+      },
+      {
+        "id": "e0aaffe5",
+        "title": "contact Gregor",
+        "status": "Active",
+        "date_due": "2026-08-19T09:30:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-08-19T07:54:01.282360-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-08-19T07:54:01.282373-04:00",
+            "notes": "Original due text: today at 9:30 am"
           }
         ]
       }
