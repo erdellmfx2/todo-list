@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-19T15:12:35.390989-04:00",
+  "updated_at": "2026-08-19T15:12:38.968926-04:00",
   "tasks": {
     "active": [
       {
@@ -448,28 +448,6 @@
             "by": "hermes",
             "at": "2026-08-13T18:44:46.077745-04:00",
             "notes": "Original due text: monday at 10 am"
-          }
-        ]
-      },
-      {
-        "id": "674e6668",
-        "title": "buy toilet paper and paper towel",
-        "status": "Active",
-        "date_due": "2026-08-19T10:00:00-04:00",
-        "priority": "High",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-08-19T07:53:58.139117-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-08-19T07:53:58.139123-04:00",
-            "notes": "Original due text: today at 10 am"
           }
         ]
       },
@@ -5070,6 +5048,36 @@
         ],
         "completed_at": "2026-08-19T15:12:35.390930-04:00",
         "date_completed": "2026-08-19T15:12:35.390930-04:00"
+      },
+      {
+        "id": "674e6668",
+        "title": "buy toilet paper and paper towel",
+        "status": "Complete",
+        "date_due": "2026-08-19T10:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.\n[2026-08-19 15:12:38] Marked done at user request; awarding +1 merit point.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-08-19T07:53:58.139117-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-08-19T07:53:58.139123-04:00",
+            "notes": "Original due text: today at 10 am"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-08-19T15:12:38.968920-04:00",
+            "notes": "Marked done at user request; awarding +1 merit point."
+          }
+        ],
+        "completed_at": "2026-08-19T15:12:38.968876-04:00",
+        "date_completed": "2026-08-19T15:12:38.968876-04:00"
       }
     ]
   }
