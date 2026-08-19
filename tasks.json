@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-19T15:13:15.600417-04:00",
+  "updated_at": "2026-08-19T15:13:18.506015-04:00",
   "tasks": {
     "active": [
       {
@@ -329,28 +329,6 @@
             "by": "hermes",
             "at": "2026-08-19T08:10:08.542908-04:00",
             "notes": "Original due text: today at 9:30 am"
-          }
-        ]
-      },
-      {
-        "id": "72296932",
-        "title": "upload videos to social media",
-        "status": "Active",
-        "date_due": "none",
-        "priority": "Medium",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-08-19T10:43:00.168482-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-08-19T10:43:00.168502-04:00",
-            "notes": "Original due text: none"
           }
         ]
       }
@@ -5162,6 +5140,36 @@
         ],
         "completed_at": "2026-08-19T15:13:15.600365-04:00",
         "date_completed": "2026-08-19T15:13:15.600365-04:00"
+      },
+      {
+        "id": "72296932",
+        "title": "upload videos to social media",
+        "status": "Complete",
+        "date_due": "none",
+        "priority": "Medium",
+        "task_metadata": "Created via Hermes task manager.\n[2026-08-19 15:13:18] Marked done at user request; awarding +1 merit point.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-08-19T10:43:00.168482-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-08-19T10:43:00.168502-04:00",
+            "notes": "Original due text: none"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-08-19T15:13:18.506008-04:00",
+            "notes": "Marked done at user request; awarding +1 merit point."
+          }
+        ],
+        "completed_at": "2026-08-19T15:13:18.505963-04:00",
+        "date_completed": "2026-08-19T15:13:18.505963-04:00"
       }
     ]
   }
