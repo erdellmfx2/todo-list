@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-19T15:12:47.070600-04:00",
+  "updated_at": "2026-08-19T15:12:50.851002-04:00",
   "tasks": {
     "active": [
       {
@@ -360,28 +360,6 @@
             "by": "hermes",
             "at": "2026-08-13T08:00:31.985086-04:00",
             "notes": "Original due text: today at 5:00 p.m."
-          }
-        ]
-      },
-      {
-        "id": "f9388767",
-        "title": "donate to SAST",
-        "status": "Active",
-        "date_due": "2026-08-13T17:00:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-08-13T08:01:25.070716-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-08-13T08:01:25.070727-04:00",
-            "notes": "Original due text: today at 5 pm"
           }
         ]
       },
@@ -5094,6 +5072,36 @@
         ],
         "completed_at": "2026-08-19T15:12:47.070554-04:00",
         "date_completed": "2026-08-19T15:12:47.070554-04:00"
+      },
+      {
+        "id": "f9388767",
+        "title": "donate to SAST",
+        "status": "Complete",
+        "date_due": "2026-08-13T17:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-08-19 15:12:50] Marked done at user request; awarding +1 merit point.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-08-13T08:01:25.070716-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-08-13T08:01:25.070727-04:00",
+            "notes": "Original due text: today at 5 pm"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-08-19T15:12:50.850991-04:00",
+            "notes": "Marked done at user request; awarding +1 merit point."
+          }
+        ],
+        "completed_at": "2026-08-19T15:12:50.850925-04:00",
+        "date_completed": "2026-08-19T15:12:50.850925-04:00"
       }
     ]
   }
