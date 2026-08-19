@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-19T15:13:02.911809-04:00",
+  "updated_at": "2026-08-19T15:13:06.131187-04:00",
   "tasks": {
     "active": [
       {
@@ -265,28 +265,6 @@
             "by": "hermes",
             "at": "2026-07-22T09:44:20.608992-04:00",
             "notes": "Original due text: today at 5 pm"
-          }
-        ]
-      },
-      {
-        "id": "b1eecfad",
-        "title": "send Gregor topics for discussion, hopes and plans for website",
-        "status": "Active",
-        "date_due": "2026-07-23T15:00:00-04:00",
-        "priority": "High",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-07-22T23:45:16.290889-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-07-22T23:45:16.290900-04:00",
-            "notes": "Original due text: tomorrow at 3pm"
           }
         ]
       },
@@ -5128,6 +5106,36 @@
         ],
         "completed_at": "2026-08-19T15:13:02.911761-04:00",
         "date_completed": "2026-08-19T15:13:02.911761-04:00"
+      },
+      {
+        "id": "b1eecfad",
+        "title": "send Gregor topics for discussion, hopes and plans for website",
+        "status": "Complete",
+        "date_due": "2026-07-23T15:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.\n[2026-08-19 15:13:06] Marked done at user request; awarding +1 merit point.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-07-22T23:45:16.290889-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-07-22T23:45:16.290900-04:00",
+            "notes": "Original due text: tomorrow at 3pm"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-08-19T15:13:06.131181-04:00",
+            "notes": "Marked done at user request; awarding +1 merit point."
+          }
+        ],
+        "completed_at": "2026-08-19T15:13:06.131141-04:00",
+        "date_completed": "2026-08-19T15:13:06.131141-04:00"
       }
     ]
   }
