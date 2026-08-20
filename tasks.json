@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-20T14:26:12.121460-04:00",
+  "updated_at": "2026-08-20T14:44:34.114875-04:00",
   "tasks": {
     "active": [
       {
@@ -263,6 +263,28 @@
             "by": "hermes",
             "at": "2026-08-19T08:10:08.542908-04:00",
             "notes": "Original due text: today at 9:30 am"
+          }
+        ]
+      },
+      {
+        "id": "1f9fe190",
+        "title": "Follow up on PATH to AI post survey results",
+        "status": "Active",
+        "date_due": "2026-08-27T10:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-08-20T14:44:34.114865-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-08-20T14:44:34.114872-04:00",
+            "notes": "Original due text: next Thursday at 10am"
           }
         ]
       }
