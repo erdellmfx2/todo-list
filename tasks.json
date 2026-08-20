@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-20T14:26:04.772739-04:00",
+  "updated_at": "2026-08-20T14:26:07.883814-04:00",
   "tasks": {
     "active": [
       {
@@ -241,28 +241,6 @@
             "by": "hermes",
             "at": "2026-08-13T18:44:46.077745-04:00",
             "notes": "Original due text: monday at 10 am"
-          }
-        ]
-      },
-      {
-        "id": "e0aaffe5",
-        "title": "contact Gregor",
-        "status": "Active",
-        "date_due": "2026-08-19T09:30:00-04:00",
-        "priority": "High",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-08-19T07:54:01.282360-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-08-19T07:54:01.282373-04:00",
-            "notes": "Original due text: today at 9:30 am"
           }
         ]
       },
@@ -5208,6 +5186,36 @@
         ],
         "completed_at": "2026-08-20T14:26:04.772691-04:00",
         "date_completed": "2026-08-20T14:26:04.772691-04:00"
+      },
+      {
+        "id": "e0aaffe5",
+        "title": "contact Gregor",
+        "status": "Complete",
+        "date_due": "2026-08-19T09:30:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.\n[2026-08-20 14:26:07] Marked done at user request; awarding +1 merit point.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-08-19T07:54:01.282360-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-08-19T07:54:01.282373-04:00",
+            "notes": "Original due text: today at 9:30 am"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-08-20T14:26:07.883807-04:00",
+            "notes": "Marked done at user request; awarding +1 merit point."
+          }
+        ],
+        "completed_at": "2026-08-20T14:26:07.883753-04:00",
+        "date_completed": "2026-08-20T14:26:07.883753-04:00"
       }
     ]
   }
