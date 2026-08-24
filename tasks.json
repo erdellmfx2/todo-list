@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-24T15:58:28.773118-04:00",
+  "updated_at": "2026-08-24T15:58:32.356292-04:00",
   "tasks": {
     "active": [
       {
@@ -351,6 +351,28 @@
             "by": "hermes",
             "at": "2026-08-24T15:58:28.773115-04:00",
             "notes": "Original due text: tomorrow at 3:30 pm"
+          }
+        ]
+      },
+      {
+        "id": "e0b8f7da",
+        "title": "letter of recommendation",
+        "status": "Active",
+        "date_due": "2026-08-24T10:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-08-24T15:58:32.356276-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-08-24T15:58:32.356286-04:00",
+            "notes": "Original due text: 10 am"
           }
         ]
       }
