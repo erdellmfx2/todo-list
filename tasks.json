@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-23T20:51:20.505466-04:00",
+  "updated_at": "2026-08-23T20:51:22.823255-04:00",
   "tasks": {
     "active": [
       {
@@ -307,28 +307,6 @@
             "by": "hermes",
             "at": "2026-08-22T15:26:27.018213-04:00",
             "notes": "Original due text: tomorrow at 3 pm"
-          }
-        ]
-      },
-      {
-        "id": "084e6d8a",
-        "title": "find out why instagram post did not post",
-        "status": "Active",
-        "date_due": "2026-08-23T20:45:00-04:00",
-        "priority": "High",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-08-23T19:20:07.380320-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-08-23T19:20:07.380333-04:00",
-            "notes": "Original due text: today at 8:45 pm"
           }
         ]
       },
@@ -5372,6 +5350,36 @@
         ],
         "completed_at": "2026-08-23T20:51:20.505409-04:00",
         "date_completed": "2026-08-23T20:51:20.505409-04:00"
+      },
+      {
+        "id": "084e6d8a",
+        "title": "find out why instagram post did not post",
+        "status": "Complete",
+        "date_due": "2026-08-23T20:45:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.\n[2026-08-23 20:51:22] Marked done at user request; awarding +1 merit point.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-08-23T19:20:07.380320-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-08-23T19:20:07.380333-04:00",
+            "notes": "Original due text: today at 8:45 pm"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-08-23T20:51:22.823249-04:00",
+            "notes": "Marked done at user request; awarding +1 merit point."
+          }
+        ],
+        "completed_at": "2026-08-23T20:51:22.823208-04:00",
+        "date_completed": "2026-08-23T20:51:22.823208-04:00"
       }
     ]
   }
