@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-24T15:58:32.356292-04:00",
+  "updated_at": "2026-08-24T16:19:38.075436-04:00",
   "tasks": {
     "active": [
       {
@@ -373,6 +373,28 @@
             "by": "hermes",
             "at": "2026-08-24T15:58:32.356286-04:00",
             "notes": "Original due text: 10 am"
+          }
+        ]
+      },
+      {
+        "id": "0bf5e06c",
+        "title": "send out requests for meeting availability for DLAC and Recruiting",
+        "status": "Active",
+        "date_due": "2026-08-24T18:30:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-08-24T16:19:38.075421-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-08-24T16:19:38.075431-04:00",
+            "notes": "Original due text: today at 6:30 pm"
           }
         ]
       }
