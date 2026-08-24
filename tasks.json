@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-23T19:58:08.506531-04:00",
+  "updated_at": "2026-08-23T20:51:18.201014-04:00",
   "tasks": {
     "active": [
       {
@@ -307,28 +307,6 @@
             "by": "hermes",
             "at": "2026-08-22T15:26:27.018213-04:00",
             "notes": "Original due text: tomorrow at 3 pm"
-          }
-        ]
-      },
-      {
-        "id": "7b053980",
-        "title": "finish FAMU courses",
-        "status": "Active",
-        "date_due": "2026-08-23T20:30:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-08-23T19:20:04.937994-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-08-23T19:20:04.938005-04:00",
-            "notes": "Original due text: today at 8:30 pm"
           }
         ]
       },
@@ -5356,6 +5334,36 @@
         ],
         "completed_at": "2026-08-20T14:26:12.121411-04:00",
         "date_completed": "2026-08-20T14:26:12.121411-04:00"
+      },
+      {
+        "id": "7b053980",
+        "title": "finish FAMU courses",
+        "status": "Complete",
+        "date_due": "2026-08-23T20:30:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-08-23 20:51:18] Marked done at user request; awarding +1 merit point.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-08-23T19:20:04.937994-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-08-23T19:20:04.938005-04:00",
+            "notes": "Original due text: today at 8:30 pm"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-08-23T20:51:18.201005-04:00",
+            "notes": "Marked done at user request; awarding +1 merit point."
+          }
+        ],
+        "completed_at": "2026-08-23T20:51:18.200939-04:00",
+        "date_completed": "2026-08-23T20:51:18.200939-04:00"
       }
     ]
   }
