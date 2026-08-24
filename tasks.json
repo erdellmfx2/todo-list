@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-24T19:11:01.447213-04:00",
+  "updated_at": "2026-08-24T19:31:38.983152-04:00",
   "tasks": {
     "active": [
       {
@@ -505,6 +505,28 @@
             "by": "hermes",
             "at": "2026-08-24T19:11:01.447208-04:00",
             "notes": "Original due text: Tuesday at 9:30 am"
+          }
+        ]
+      },
+      {
+        "id": "0cd72e35",
+        "title": "fix College Algebra week 11 announcement",
+        "status": "Active",
+        "date_due": "2026-08-25T16:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-08-24T19:31:38.983137-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-08-24T19:31:38.983147-04:00",
+            "notes": "Original due text: Tuesday at 4 pm"
           }
         ]
       }
