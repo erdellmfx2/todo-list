@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-25T12:23:58.805262-04:00",
+  "updated_at": "2026-08-25T12:24:05.222352-04:00",
   "tasks": {
     "active": [
       {
@@ -395,28 +395,6 @@
             "by": "hermes",
             "at": "2026-08-24T16:26:00.951288-04:00",
             "notes": "Original due text: tomorrow at 11 am"
-          }
-        ]
-      },
-      {
-        "id": "25fa86c3",
-        "title": "call preliminary pulmonary doctor back",
-        "status": "Active",
-        "date_due": "2026-08-24T09:30:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-08-24T18:52:19.874217-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-08-24T18:52:19.874224-04:00",
-            "notes": "Original due text: tomorrow at 9:30 a.m."
           }
         ]
       },
@@ -5662,6 +5640,36 @@
         ],
         "completed_at": "2026-08-25T12:23:58.805213-04:00",
         "date_completed": "2026-08-25T12:23:58.805213-04:00"
+      },
+      {
+        "id": "25fa86c3",
+        "title": "call preliminary pulmonary doctor back",
+        "status": "Complete",
+        "date_due": "2026-08-24T09:30:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-08-25 12:24:05] Marked complete via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-08-24T18:52:19.874217-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-08-24T18:52:19.874224-04:00",
+            "notes": "Original due text: tomorrow at 9:30 a.m."
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-08-25T12:24:05.222346-04:00",
+            "notes": "Marked complete via Hermes task manager."
+          }
+        ],
+        "completed_at": "2026-08-25T12:24:05.222304-04:00",
+        "date_completed": "2026-08-25T12:24:05.222304-04:00"
       }
     ]
   }
