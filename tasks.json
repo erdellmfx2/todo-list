@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-25T11:45:13.497730-04:00",
+  "updated_at": "2026-08-25T12:23:37.649994-04:00",
   "tasks": {
     "active": [
       {
@@ -483,28 +483,6 @@
             "by": "hermes",
             "at": "2026-08-24T19:07:49.784648-04:00",
             "notes": "Original due text: tomorrow at 10:45 am"
-          }
-        ]
-      },
-      {
-        "id": "3e01d5aa",
-        "title": "write letter of recommendation",
-        "status": "Active",
-        "date_due": "2026-08-25T09:30:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-08-24T19:11:01.447196-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-08-24T19:11:01.447208-04:00",
-            "notes": "Original due text: Tuesday at 9:30 am"
           }
         ]
       },
@@ -5622,6 +5600,36 @@
         ],
         "completed_at": "2026-08-23T20:51:22.823208-04:00",
         "date_completed": "2026-08-23T20:51:22.823208-04:00"
+      },
+      {
+        "id": "3e01d5aa",
+        "title": "write letter of recommendation",
+        "status": "Complete",
+        "date_due": "2026-08-25T09:30:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-08-25 12:23:37] Marked complete via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-08-24T19:11:01.447196-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-08-24T19:11:01.447208-04:00",
+            "notes": "Original due text: Tuesday at 9:30 am"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-08-25T12:23:37.649987-04:00",
+            "notes": "Marked complete via Hermes task manager."
+          }
+        ],
+        "completed_at": "2026-08-25T12:23:37.649943-04:00",
+        "date_completed": "2026-08-25T12:23:37.649943-04:00"
       }
     ]
   }
