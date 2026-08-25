@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-24T19:31:38.983152-04:00",
+  "updated_at": "2026-08-25T10:25:36.340163-04:00",
   "tasks": {
     "active": [
       {
@@ -527,6 +527,28 @@
             "by": "hermes",
             "at": "2026-08-24T19:31:38.983147-04:00",
             "notes": "Original due text: Tuesday at 4 pm"
+          }
+        ]
+      },
+      {
+        "id": "9c8a31dc",
+        "title": "Complete attendance to remove holds",
+        "status": "Active",
+        "date_due": "2026-08-25T16:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-08-25T10:25:36.340153-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-08-25T10:25:36.340160-04:00",
+            "notes": "Original due text: today at 4:00 pm"
           }
         ]
       }
