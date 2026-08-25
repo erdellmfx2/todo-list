@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-25T12:23:48.328936-04:00",
+  "updated_at": "2026-08-25T12:23:52.833110-04:00",
   "tasks": {
     "active": [
       {
@@ -439,28 +439,6 @@
             "by": "hermes",
             "at": "2026-08-24T18:52:19.874224-04:00",
             "notes": "Original due text: tomorrow at 9:30 a.m."
-          }
-        ]
-      },
-      {
-        "id": "0cd72e35",
-        "title": "fix College Algebra week 11 announcement",
-        "status": "Active",
-        "date_due": "2026-08-25T16:00:00-04:00",
-        "priority": "High",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-08-24T19:31:38.983137-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-08-24T19:31:38.983147-04:00",
-            "notes": "Original due text: Tuesday at 4 pm"
           }
         ]
       },
@@ -5646,6 +5624,36 @@
         ],
         "completed_at": "2026-08-25T12:23:48.328890-04:00",
         "date_completed": "2026-08-25T12:23:48.328890-04:00"
+      },
+      {
+        "id": "0cd72e35",
+        "title": "fix College Algebra week 11 announcement",
+        "status": "Complete",
+        "date_due": "2026-08-25T16:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.\n[2026-08-25 12:23:52] Marked complete via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-08-24T19:31:38.983137-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-08-24T19:31:38.983147-04:00",
+            "notes": "Original due text: Tuesday at 4 pm"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-08-25T12:23:52.833104-04:00",
+            "notes": "Marked complete via Hermes task manager."
+          }
+        ],
+        "completed_at": "2026-08-25T12:23:52.833058-04:00",
+        "date_completed": "2026-08-25T12:23:52.833058-04:00"
       }
     ]
   }
