@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-25T18:47:49.837801-04:00",
+  "updated_at": "2026-08-25T23:32:54.572912-04:00",
   "tasks": {
     "active": [
       {
@@ -395,6 +395,28 @@
             "by": "hermes",
             "at": "2026-08-25T18:47:49.837794-04:00",
             "notes": "Original due text: 10am on Oct 25"
+          }
+        ]
+      },
+      {
+        "id": "ac06e433",
+        "title": "Check out Slack and triggered events",
+        "status": "Active",
+        "date_due": "2026-08-26T10:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-08-25T23:32:54.572895-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-08-25T23:32:54.572906-04:00",
+            "notes": "Original due text: tomorrow at 10 am"
           }
         ]
       }
