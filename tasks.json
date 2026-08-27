@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-26T07:14:05.501529-04:00",
+  "updated_at": "2026-08-27T00:31:28.108063-04:00",
   "tasks": {
     "active": [
       {
@@ -439,6 +439,28 @@
             "by": "hermes",
             "at": "2026-08-26T07:14:05.501526-04:00",
             "notes": "Original due text: Today at 8:00 p.m."
+          }
+        ]
+      },
+      {
+        "id": "b28a2246",
+        "title": "look into leaving assignments open for practice in TSC courses",
+        "status": "Active",
+        "date_due": "2026-08-27T19:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-08-27T00:31:28.108046-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-08-27T00:31:28.108057-04:00",
+            "notes": "Original due text: today at 7 pm"
           }
         ]
       }
