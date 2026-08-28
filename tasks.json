@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-28T12:07:17.343470-04:00",
+  "updated_at": "2026-08-28T12:07:21.085474-04:00",
   "tasks": {
     "active": [
       {
@@ -43,28 +43,6 @@
             "by": "hermes",
             "at": "2026-05-19T22:50:00-04:00",
             "notes": "Rescheduled from overdue May 15 to next Friday (May 29)"
-          }
-        ]
-      },
-      {
-        "id": "926ea0bc",
-        "title": "Test NRP LLM issue from email",
-        "status": "Active",
-        "date_due": "2026-06-16T18:00:00-04:00",
-        "priority": "Medium",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-06-16T16:16:04.019453-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-06-16T16:16:04.019467-04:00",
-            "notes": "Original due text: today at 6 pm"
           }
         ]
       },
@@ -5906,6 +5884,36 @@
         ],
         "completed_at": "2026-08-28T12:07:17.343424-04:00",
         "date_completed": "2026-08-28T12:07:17.343424-04:00"
+      },
+      {
+        "id": "926ea0bc",
+        "title": "Test NRP LLM issue from email",
+        "status": "Complete",
+        "date_due": "2026-06-16T18:00:00-04:00",
+        "priority": "Medium",
+        "task_metadata": "Created via Hermes task manager.\n[2026-08-28 12:07:21] Marked done from Telegram request; awarding merit separately.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-06-16T16:16:04.019453-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-06-16T16:16:04.019467-04:00",
+            "notes": "Original due text: today at 6 pm"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-08-28T12:07:21.085467-04:00",
+            "notes": "Marked done from Telegram request; awarding merit separately."
+          }
+        ],
+        "completed_at": "2026-08-28T12:07:21.085420-04:00",
+        "date_completed": "2026-08-28T12:07:21.085420-04:00"
       }
     ]
   }
