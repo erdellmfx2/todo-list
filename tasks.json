@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-27T23:25:26.335836-04:00",
+  "updated_at": "2026-08-28T10:05:43.661426-04:00",
   "tasks": {
     "active": [
       {
@@ -489,6 +489,28 @@
             "by": "hermes",
             "at": "2026-08-27T23:25:26.335830-04:00",
             "notes": "Corrected due date after create parser returned the current/past date for 'Tomorrow at 2:00 p.m.'"
+          }
+        ]
+      },
+      {
+        "id": "9467c18a",
+        "title": "Create college algebra paper exams",
+        "status": "Active",
+        "date_due": "2026-09-01T10:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-08-28T10:05:43.661408-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-08-28T10:05:43.661421-04:00",
+            "notes": "Original due text: Tuesday at 10 am"
           }
         ]
       }
