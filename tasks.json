@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-28T12:07:05.675874-04:00",
+  "updated_at": "2026-08-28T12:07:08.417819-04:00",
   "tasks": {
     "active": [
       {
@@ -212,28 +212,6 @@
             "by": "hermes",
             "at": "2026-08-19T08:10:08.542908-04:00",
             "notes": "Original due text: today at 9:30 am"
-          }
-        ]
-      },
-      {
-        "id": "63f9f7e5",
-        "title": "attendance",
-        "status": "Active",
-        "date_due": "2026-08-25T15:30:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-08-24T15:58:28.773108-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-08-24T15:58:28.773115-04:00",
-            "notes": "Original due text: tomorrow at 3:30 pm"
           }
         ]
       },
@@ -5874,6 +5852,36 @@
         ],
         "completed_at": "2026-08-28T12:07:05.675821-04:00",
         "date_completed": "2026-08-28T12:07:05.675821-04:00"
+      },
+      {
+        "id": "63f9f7e5",
+        "title": "attendance",
+        "status": "Complete",
+        "date_due": "2026-08-25T15:30:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-08-28 12:07:08] Marked done from Telegram request; awarding merit separately.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-08-24T15:58:28.773108-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-08-24T15:58:28.773115-04:00",
+            "notes": "Original due text: tomorrow at 3:30 pm"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-08-28T12:07:08.417813-04:00",
+            "notes": "Marked done from Telegram request; awarding merit separately."
+          }
+        ],
+        "completed_at": "2026-08-28T12:07:08.417772-04:00",
+        "date_completed": "2026-08-28T12:07:08.417772-04:00"
       }
     ]
   }
