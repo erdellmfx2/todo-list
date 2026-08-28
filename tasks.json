@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-28T13:15:16.935364-04:00",
+  "updated_at": "2026-08-28T13:15:20.007307-04:00",
   "tasks": {
     "active": [
       {
@@ -43,28 +43,6 @@
             "by": "hermes",
             "at": "2026-05-19T22:50:00-04:00",
             "notes": "Rescheduled from overdue May 15 to next Friday (May 29)"
-          }
-        ]
-      },
-      {
-        "id": "66f6aadb",
-        "title": "Contact New Mexico lab about help with quantum computing",
-        "status": "Active",
-        "date_due": "2026-07-07T13:00:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-07-06T14:41:07.154897-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-07-06T14:41:07.154907-04:00",
-            "notes": "Original due text: tomorrow at 1 pm"
           }
         ]
       },
@@ -5922,6 +5900,36 @@
         ],
         "completed_at": "2026-08-28T13:15:16.935315-04:00",
         "date_completed": "2026-08-28T13:15:16.935315-04:00"
+      },
+      {
+        "id": "66f6aadb",
+        "title": "Contact New Mexico lab about help with quantum computing",
+        "status": "Complete",
+        "date_due": "2026-07-07T13:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-08-28 13:15:20] Marked done from Telegram request; awarding merit separately.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-07-06T14:41:07.154897-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-07-06T14:41:07.154907-04:00",
+            "notes": "Original due text: tomorrow at 1 pm"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-08-28T13:15:20.007301-04:00",
+            "notes": "Marked done from Telegram request; awarding merit separately."
+          }
+        ],
+        "completed_at": "2026-08-28T13:15:20.007262-04:00",
+        "date_completed": "2026-08-28T13:15:20.007262-04:00"
       }
     ]
   }
