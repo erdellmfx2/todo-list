@@ -1,16 +1,9 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-28T10:05:43.661426-04:00",
+  "updated_at": "2026-08-28T12:06:56.259526-04:00",
   "tasks": {
     "active": [
-      {
-        "title": "Do assessment write ups DLAC",
-        "status": "Active",
-        "date_due": "2026-06-20T08:00:00",
-        "priority": "Critical",
-        "task_metadata": "Created from /nt user request on 2026-04-24."
-      },
       {
         "title": "Finish the CITI program",
         "status": "Active",
@@ -5832,6 +5825,23 @@
         ],
         "completed_at": "2026-08-25T16:06:53.063946-04:00",
         "date_completed": "2026-08-25T16:06:53.063946-04:00"
+      },
+      {
+        "title": "Do assessment write ups DLAC",
+        "status": "Complete",
+        "date_due": "2026-06-20T08:00:00",
+        "priority": "Critical",
+        "task_metadata": "Created from /nt user request on 2026-04-24.\n[2026-08-28 12:06:56] Marked done from Telegram request; awarding merit separately.",
+        "completed_at": "2026-08-28T12:06:56.259474-04:00",
+        "date_completed": "2026-08-28T12:06:56.259474-04:00",
+        "history": [
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-08-28T12:06:56.259520-04:00",
+            "notes": "Marked done from Telegram request; awarding merit separately."
+          }
+        ]
       }
     ]
   }
