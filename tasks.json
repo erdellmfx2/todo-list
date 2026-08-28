@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-28T12:07:21.085474-04:00",
+  "updated_at": "2026-08-28T13:15:16.935364-04:00",
   "tasks": {
     "active": [
       {
@@ -43,28 +43,6 @@
             "by": "hermes",
             "at": "2026-05-19T22:50:00-04:00",
             "notes": "Rescheduled from overdue May 15 to next Friday (May 29)"
-          }
-        ]
-      },
-      {
-        "id": "51a038aa",
-        "title": "Cancel HP printer subscription",
-        "status": "Active",
-        "date_due": "2026-07-06T20:30:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-07-06T11:57:02.036790-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-07-06T11:57:02.036802-04:00",
-            "notes": "Original due text: today at 8:30 pm"
           }
         ]
       },
@@ -5914,6 +5892,36 @@
         ],
         "completed_at": "2026-08-28T12:07:21.085420-04:00",
         "date_completed": "2026-08-28T12:07:21.085420-04:00"
+      },
+      {
+        "id": "51a038aa",
+        "title": "Cancel HP printer subscription",
+        "status": "Complete",
+        "date_due": "2026-07-06T20:30:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-08-28 13:15:16] Marked done from Telegram request; awarding merit separately.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-07-06T11:57:02.036790-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-07-06T11:57:02.036802-04:00",
+            "notes": "Original due text: today at 8:30 pm"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-08-28T13:15:16.935359-04:00",
+            "notes": "Marked done from Telegram request; awarding merit separately."
+          }
+        ],
+        "completed_at": "2026-08-28T13:15:16.935315-04:00",
+        "date_completed": "2026-08-28T13:15:16.935315-04:00"
       }
     ]
   }
