@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-28T12:07:11.691295-04:00",
+  "updated_at": "2026-08-28T12:07:14.573124-04:00",
   "tasks": {
     "active": [
       {
@@ -153,28 +153,6 @@
             "by": "hermes",
             "at": "2026-08-13T08:00:31.985086-04:00",
             "notes": "Original due text: today at 5:00 p.m."
-          }
-        ]
-      },
-      {
-        "id": "0cf64c0e",
-        "title": "reach out to clubs for semester kick off",
-        "status": "Active",
-        "date_due": "2026-08-17T10:00:00-04:00",
-        "priority": "High",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-08-13T18:44:46.077738-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-08-13T18:44:46.077745-04:00",
-            "notes": "Original due text: monday at 10 am"
           }
         ]
       },
@@ -5890,6 +5868,36 @@
         ],
         "completed_at": "2026-08-28T12:07:11.691249-04:00",
         "date_completed": "2026-08-28T12:07:11.691249-04:00"
+      },
+      {
+        "id": "0cf64c0e",
+        "title": "reach out to clubs for semester kick off",
+        "status": "Complete",
+        "date_due": "2026-08-17T10:00:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.\n[2026-08-28 12:07:14] Marked done from Telegram request; awarding merit separately.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-08-13T18:44:46.077738-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-08-13T18:44:46.077745-04:00",
+            "notes": "Original due text: monday at 10 am"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-08-28T12:07:14.573118-04:00",
+            "notes": "Marked done from Telegram request; awarding merit separately."
+          }
+        ],
+        "completed_at": "2026-08-28T12:07:14.573076-04:00",
+        "date_completed": "2026-08-28T12:07:14.573076-04:00"
       }
     ]
   }
