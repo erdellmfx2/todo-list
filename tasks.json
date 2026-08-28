@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-28T12:07:08.417819-04:00",
+  "updated_at": "2026-08-28T12:07:11.691295-04:00",
   "tasks": {
     "active": [
       {
@@ -16,21 +16,6 @@
             "by": "hermes",
             "at": "2026-05-19T22:47:39.594325-04:00",
             "notes": "Rescheduled from overdue May 11 to next Monday"
-          }
-        ]
-      },
-      {
-        "title": "write a paper on doing research with the help of clawbot",
-        "status": "Active",
-        "date_due": "2026-05-22",
-        "priority": "High",
-        "task_metadata": "Added via chat request.\n[2026-05-19 22:48:49] Rescheduled from overdue May 15 to next Friday (May 29)",
-        "history": [
-          {
-            "action": "reschedule",
-            "by": "hermes",
-            "at": "2026-05-19T22:48:49.741422-04:00",
-            "notes": "Rescheduled from overdue May 15 to next Friday (May 29)"
           }
         ]
       },
@@ -5882,6 +5867,29 @@
         ],
         "completed_at": "2026-08-28T12:07:08.417772-04:00",
         "date_completed": "2026-08-28T12:07:08.417772-04:00"
+      },
+      {
+        "title": "write a paper on doing research with the help of clawbot",
+        "status": "Complete",
+        "date_due": "2026-05-22",
+        "priority": "High",
+        "task_metadata": "Added via chat request.\n[2026-05-19 22:48:49] Rescheduled from overdue May 15 to next Friday (May 29)\n[2026-08-28 12:07:11] Marked done from Telegram request; awarding merit separately.",
+        "history": [
+          {
+            "action": "reschedule",
+            "by": "hermes",
+            "at": "2026-05-19T22:48:49.741422-04:00",
+            "notes": "Rescheduled from overdue May 15 to next Friday (May 29)"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-08-28T12:07:11.691290-04:00",
+            "notes": "Marked done from Telegram request; awarding merit separately."
+          }
+        ],
+        "completed_at": "2026-08-28T12:07:11.691249-04:00",
+        "date_completed": "2026-08-28T12:07:11.691249-04:00"
       }
     ]
   }
