@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-29T02:24:08.083399-04:00",
+  "updated_at": "2026-08-30T21:03:08.044664-04:00",
   "tasks": {
     "active": [
       {
@@ -313,6 +313,28 @@
             "by": "hermes",
             "at": "2026-08-29T02:24:08.083393-04:00",
             "notes": "Original due text: Sunday at 6 pm"
+          }
+        ]
+      },
+      {
+        "id": "935d1ba3",
+        "title": "Add screen grab of WebAssign questions to 1.2 Business Calculus",
+        "status": "Active",
+        "date_due": "2026-09-01T10:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-08-30T21:03:08.044646-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-08-30T21:03:08.044658-04:00",
+            "notes": "Original due text: Tuesday at 10 am"
           }
         ]
       }
