@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-31T15:29:21.337109-04:00",
+  "updated_at": "2026-08-31T15:29:23.867794-04:00",
   "tasks": {
     "active": [
       {
@@ -401,6 +401,28 @@
             "by": "hermes",
             "at": "2026-08-31T15:29:21.337105-04:00",
             "notes": "Original due text: today at 4:30 pm"
+          }
+        ]
+      },
+      {
+        "id": "cd8b4423",
+        "title": "Remove zero from the grade book",
+        "status": "Active",
+        "date_due": "2026-08-31T16:45:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-08-31T15:29:23.867778-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-08-31T15:29:23.867789-04:00",
+            "notes": "Original due text: today at 4:45 pm"
           }
         ]
       }
