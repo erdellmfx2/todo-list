@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-31T16:47:55.453880-04:00",
+  "updated_at": "2026-08-31T16:47:58.769851-04:00",
   "tasks": {
     "active": [
       {
@@ -357,28 +357,6 @@
             "by": "hermes",
             "at": "2026-08-31T10:17:08.393425-04:00",
             "notes": "Original due text: today at 7 pm"
-          }
-        ]
-      },
-      {
-        "id": "af071354",
-        "title": "Move recitation and quiz to Wednesday",
-        "status": "Active",
-        "date_due": "2026-08-31T16:30:00-04:00",
-        "priority": "High",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-08-31T15:29:21.337097-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-08-31T15:29:21.337105-04:00",
-            "notes": "Original due text: today at 4:30 pm"
           }
         ]
       },
@@ -6182,6 +6160,36 @@
         ],
         "completed_at": "2026-08-31T16:47:55.453818-04:00",
         "date_completed": "2026-08-31T16:47:55.453818-04:00"
+      },
+      {
+        "id": "af071354",
+        "title": "Move recitation and quiz to Wednesday",
+        "status": "Complete",
+        "date_due": "2026-08-31T16:30:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.\n[2026-08-31 16:47:58] Marked done from user request; awarding merit separately.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-08-31T15:29:21.337097-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-08-31T15:29:21.337105-04:00",
+            "notes": "Original due text: today at 4:30 pm"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-08-31T16:47:58.769845-04:00",
+            "notes": "Marked done from user request; awarding merit separately."
+          }
+        ],
+        "completed_at": "2026-08-31T16:47:58.769802-04:00",
+        "date_completed": "2026-08-31T16:47:58.769802-04:00"
       }
     ]
   }
