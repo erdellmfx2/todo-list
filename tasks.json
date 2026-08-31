@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-31T16:47:58.769851-04:00",
+  "updated_at": "2026-08-31T16:48:01.961337-04:00",
   "tasks": {
     "active": [
       {
@@ -357,28 +357,6 @@
             "by": "hermes",
             "at": "2026-08-31T10:17:08.393425-04:00",
             "notes": "Original due text: today at 7 pm"
-          }
-        ]
-      },
-      {
-        "id": "cd8b4423",
-        "title": "Remove zero from the grade book",
-        "status": "Active",
-        "date_due": "2026-08-31T16:45:00-04:00",
-        "priority": "High",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-08-31T15:29:23.867778-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-08-31T15:29:23.867789-04:00",
-            "notes": "Original due text: today at 4:45 pm"
           }
         ]
       }
@@ -6190,6 +6168,36 @@
         ],
         "completed_at": "2026-08-31T16:47:58.769802-04:00",
         "date_completed": "2026-08-31T16:47:58.769802-04:00"
+      },
+      {
+        "id": "cd8b4423",
+        "title": "Remove zero from the grade book",
+        "status": "Complete",
+        "date_due": "2026-08-31T16:45:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.\n[2026-08-31 16:48:01] Marked done from user request; awarding merit separately.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-08-31T15:29:23.867778-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-08-31T15:29:23.867789-04:00",
+            "notes": "Original due text: today at 4:45 pm"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-08-31T16:48:01.961331-04:00",
+            "notes": "Marked done from user request; awarding merit separately."
+          }
+        ],
+        "completed_at": "2026-08-31T16:48:01.961288-04:00",
+        "date_completed": "2026-08-31T16:48:01.961288-04:00"
       }
     ]
   }
