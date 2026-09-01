@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-08-31T16:48:05.246086-04:00",
+  "updated_at": "2026-09-01T11:23:15.287651-04:00",
   "tasks": {
     "active": [
       {
@@ -329,6 +329,28 @@
             "by": "hermes",
             "at": "2026-08-31T10:17:08.393425-04:00",
             "notes": "Original due text: today at 7 pm"
+          }
+        ]
+      },
+      {
+        "id": "e42f4a7f",
+        "title": "Finish DLAC report (see email)",
+        "status": "Active",
+        "date_due": "2026-09-01T19:30:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-09-01T11:23:15.287630-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-09-01T11:23:15.287644-04:00",
+            "notes": "Original due text: today at 7:30 pm"
           }
         ]
       }
