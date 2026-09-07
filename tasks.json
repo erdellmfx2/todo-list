@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-09-07T16:57:17.135186-04:00",
+  "updated_at": "2026-09-07T17:00:20.924455-04:00",
   "tasks": {
     "active": [
       {
@@ -741,11 +741,11 @@
       },
       {
         "id": "5c11b84d",
-        "title": "Go to Walmart or Costco and pick up extra water, dishwasher detergent, clothes detergent, fabric softener, and extra flavor packets",
+        "title": "Go to Walmart or Costco and pick up extra water, dishwasher detergent, clothes detergent, fabric softener, extra flavor packets, and dishwasher rinse agent",
         "status": "Active",
         "date_due": "2026-09-08T16:00:00-04:00",
         "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
+        "task_metadata": "Created via Hermes task manager.\n[2026-09-07 17:00:20] Updated shopping task to also include dishwasher rinse agent per user request.",
         "history": [
           {
             "action": "create",
@@ -758,6 +758,12 @@
             "by": "hermes",
             "at": "2026-09-07T16:57:17.135183-04:00",
             "notes": "Original due text: tomorrow at 4:00 pm"
+          },
+          {
+            "action": "title_update",
+            "by": "hermes",
+            "at": "2026-09-07T17:00:20.924444-04:00",
+            "notes": "Title changed from 'Go to Walmart or Costco and pick up extra water, dishwasher detergent, clothes detergent, fabric softener, and extra flavor packets' to 'Go to Walmart or Costco and pick up extra water, dishwasher detergent, clothes detergent, fabric softener, extra flavor packets, and dishwasher rinse agent'. Updated shopping task to also include dishwasher rinse agent per user request."
           }
         ]
       }
