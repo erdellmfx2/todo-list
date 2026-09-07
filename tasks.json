@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-09-07T02:12:10.315228-04:00",
+  "updated_at": "2026-09-07T02:12:40.719574-04:00",
   "tasks": {
     "active": [
       {
@@ -397,6 +397,39 @@
             "notes": "Original due text: today at 9 pm"
           }
         ]
+      },
+      {
+        "title": "answer emails",
+        "status": "Active",
+        "date_due": "2026-09-07T21:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "[2026-09-07 02:12:40] Reopened task because a new due date was assigned.\n[2026-09-07 02:12:40] Updated from user request: due today at 9 pm, critical.\n[2026-09-07 02:12:40] Priority updated to Critical during move.",
+        "history": [
+          {
+            "action": "complete",
+            "by": "erdell",
+            "at": "2026-04-13T19:48:37.105961-04:00",
+            "notes": "Marked done per user request in chat"
+          },
+          {
+            "action": "reopen",
+            "by": "hermes",
+            "at": "2026-09-07T02:12:40.719538-04:00",
+            "notes": "Reopened task because a new due date was assigned."
+          },
+          {
+            "action": "reschedule",
+            "by": "hermes",
+            "at": "2026-09-07T02:12:40.719557-04:00",
+            "notes": "Updated from user request: due today at 9 pm, critical."
+          },
+          {
+            "action": "priority_update",
+            "by": "hermes",
+            "at": "2026-09-07T02:12:40.719569-04:00",
+            "notes": "Priority updated to Critical"
+          }
+        ]
       }
     ],
     "completed": [
@@ -737,22 +770,6 @@
           }
         ],
         "completed_at": "2026-04-13T19:47:49.621742-04:00"
-      },
-      {
-        "title": "answer emails",
-        "status": "Complete",
-        "date_due": "2026-04-10T20:30",
-        "priority": "High",
-        "task_metadata": "",
-        "completed_at": "2026-04-13T19:48:37.105961-04:00",
-        "history": [
-          {
-            "action": "complete",
-            "by": "erdell",
-            "at": "2026-04-13T19:48:37.105961-04:00",
-            "notes": "Marked done per user request in chat"
-          }
-        ]
       },
       {
         "title": "follow up on funding from the mathematics department",
