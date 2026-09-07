@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-09-07T15:11:28.377704-04:00",
+  "updated_at": "2026-09-07T16:57:17.135186-04:00",
   "tasks": {
     "active": [
       {
@@ -736,6 +736,28 @@
             "by": "hermes",
             "at": "2026-09-07T15:11:28.377699-04:00",
             "notes": "Original due text: today at 9 pm"
+          }
+        ]
+      },
+      {
+        "id": "5c11b84d",
+        "title": "Go to Walmart or Costco and pick up extra water, dishwasher detergent, clothes detergent, fabric softener, and extra flavor packets",
+        "status": "Active",
+        "date_due": "2026-09-08T16:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-09-07T16:57:17.135175-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-09-07T16:57:17.135183-04:00",
+            "notes": "Original due text: tomorrow at 4:00 pm"
           }
         ]
       }
