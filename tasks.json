@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-09-07T10:56:34.979794-04:00",
+  "updated_at": "2026-09-07T11:20:36.716901-04:00",
   "tasks": {
     "active": [
       {
@@ -648,6 +648,28 @@
             "by": "hermes",
             "at": "2026-09-07T10:56:34.979789-04:00",
             "notes": "Original due text: today at 9pm"
+          }
+        ]
+      },
+      {
+        "id": "e74fefdd",
+        "title": "Check on my CIVITAS student",
+        "status": "Active",
+        "date_due": "2026-09-07T21:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-09-07T11:20:36.716891-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-09-07T11:20:36.716898-04:00",
+            "notes": "Original due text: today at 9 pm"
           }
         ]
       }
