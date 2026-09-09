@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-09-09T07:36:00.437242-04:00",
+  "updated_at": "2026-09-09T15:04:02.478037-04:00",
   "tasks": {
     "active": [
       {
@@ -830,6 +830,28 @@
             "by": "hermes",
             "at": "2026-09-09T07:36:00.437236-04:00",
             "notes": "Original due text: Saturday at 3pm"
+          }
+        ]
+      },
+      {
+        "id": "8c841b3f",
+        "title": "Letter for Ms. Merove",
+        "status": "Active",
+        "date_due": "2026-09-09T17:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-09-09T15:04:02.478026-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-09-09T15:04:02.478033-04:00",
+            "notes": "Original due text: today at 5 pm"
           }
         ]
       }
