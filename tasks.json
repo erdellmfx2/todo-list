@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-09-10T15:31:06.463951-04:00",
+  "updated_at": "2026-09-10T16:33:07.069475-04:00",
   "tasks": {
     "active": [
       {
@@ -896,6 +896,28 @@
             "by": "hermes",
             "at": "2026-09-10T15:31:06.463945-04:00",
             "notes": "Original due text: next Monday at 5pm"
+          }
+        ]
+      },
+      {
+        "id": "e6ea81e1",
+        "title": "Send out minutes for recruiting committee meeting and kickoff events",
+        "status": "Active",
+        "date_due": "2026-09-11T16:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-09-10T16:33:07.069465-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-09-10T16:33:07.069472-04:00",
+            "notes": "Original due text: tomorrow at 4pm"
           }
         ]
       }
