@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-09-10T21:29:12.769156-04:00",
+  "updated_at": "2026-09-10T21:29:15.625119-04:00",
   "tasks": {
     "active": [
       {
@@ -482,28 +482,6 @@
             "action": "create_request",
             "by": "hermes",
             "at": "2026-09-07T14:58:40.580533-04:00",
-            "notes": "Original due text: today at 9 pm"
-          }
-        ]
-      },
-      {
-        "id": "765f2f82",
-        "title": "Move the date for the gym in the college algebra courses",
-        "status": "Active",
-        "date_due": "2026-09-07T21:00:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-09-07T15:11:28.377688-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-09-07T15:11:28.377699-04:00",
             "notes": "Original due text: today at 9 pm"
           }
         ]
@@ -6859,6 +6837,36 @@
         ],
         "completed_at": "2026-09-10T21:29:12.769097-04:00",
         "date_completed": "2026-09-10T21:29:12.769097-04:00"
+      },
+      {
+        "id": "765f2f82",
+        "title": "Move the date for the gym in the college algebra courses",
+        "status": "Complete",
+        "date_due": "2026-09-07T21:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-09-10 21:29:15] Marked done from user request; awarding merit separately.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-09-07T15:11:28.377688-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-09-07T15:11:28.377699-04:00",
+            "notes": "Original due text: today at 9 pm"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-09-10T21:29:15.625114-04:00",
+            "notes": "Marked done from user request; awarding merit separately."
+          }
+        ],
+        "completed_at": "2026-09-10T21:29:15.625072-04:00",
+        "date_completed": "2026-09-10T21:29:15.625072-04:00"
       }
     ]
   }
