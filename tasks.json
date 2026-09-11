@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-09-10T21:28:45.946617-04:00",
+  "updated_at": "2026-09-10T21:28:48.848499-04:00",
   "tasks": {
     "active": [
       {
@@ -65,28 +65,6 @@
             "by": "hermes",
             "at": "2026-07-22T09:44:20.608992-04:00",
             "notes": "Original due text: today at 5 pm"
-          }
-        ]
-      },
-      {
-        "id": "0bf5e06c",
-        "title": "send out requests for meeting availability for DLAC and Recruiting",
-        "status": "Active",
-        "date_due": "2026-08-24T18:30:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-08-24T16:19:38.075421-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-08-24T16:19:38.075431-04:00",
-            "notes": "Original due text: today at 6:30 pm"
           }
         ]
       },
@@ -6787,6 +6765,36 @@
         ],
         "completed_at": "2026-09-10T21:28:45.946548-04:00",
         "date_completed": "2026-09-10T21:28:45.946548-04:00"
+      },
+      {
+        "id": "0bf5e06c",
+        "title": "send out requests for meeting availability for DLAC and Recruiting",
+        "status": "Complete",
+        "date_due": "2026-08-24T18:30:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-09-10 21:28:48] Marked done from user request; awarding merit separately.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-08-24T16:19:38.075421-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-08-24T16:19:38.075431-04:00",
+            "notes": "Original due text: today at 6:30 pm"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-09-10T21:28:48.848494-04:00",
+            "notes": "Marked done from user request; awarding merit separately."
+          }
+        ],
+        "completed_at": "2026-09-10T21:28:48.848457-04:00",
+        "date_completed": "2026-09-10T21:28:48.848457-04:00"
       }
     ]
   }
