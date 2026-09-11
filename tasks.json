@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-09-10T21:29:15.625119-04:00",
+  "updated_at": "2026-09-10T21:29:18.123765-04:00",
   "tasks": {
     "active": [
       {
@@ -350,28 +350,6 @@
             "action": "create_request",
             "by": "hermes",
             "at": "2026-09-07T02:13:50.023300-04:00",
-            "notes": "Original due text: today at 9 pm"
-          }
-        ]
-      },
-      {
-        "id": "2c79c03f",
-        "title": "Pay the bills today",
-        "status": "Active",
-        "date_due": "2026-09-07T21:00:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-09-07T10:43:04.311063-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-09-07T10:43:04.311071-04:00",
             "notes": "Original due text: today at 9 pm"
           }
         ]
@@ -6867,6 +6845,36 @@
         ],
         "completed_at": "2026-09-10T21:29:15.625072-04:00",
         "date_completed": "2026-09-10T21:29:15.625072-04:00"
+      },
+      {
+        "id": "2c79c03f",
+        "title": "Pay the bills today",
+        "status": "Complete",
+        "date_due": "2026-09-07T21:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-09-10 21:29:18] Marked done from user request; awarding merit separately.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-09-07T10:43:04.311063-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-09-07T10:43:04.311071-04:00",
+            "notes": "Original due text: today at 9 pm"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-09-10T21:29:18.123757-04:00",
+            "notes": "Marked done from user request; awarding merit separately."
+          }
+        ],
+        "completed_at": "2026-09-10T21:29:18.123704-04:00",
+        "date_completed": "2026-09-10T21:29:18.123704-04:00"
       }
     ]
   }
