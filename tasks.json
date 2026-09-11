@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-09-10T21:29:38.169370-04:00",
+  "updated_at": "2026-09-10T21:29:41.553426-04:00",
   "tasks": {
     "active": [
       {
@@ -373,28 +373,6 @@
             "by": "hermes",
             "at": "2026-09-07T18:50:15.166280-04:00",
             "notes": "Original due text: Friday at 5 pm"
-          }
-        ]
-      },
-      {
-        "id": "c03e13ea",
-        "title": "Get trash bags",
-        "status": "Active",
-        "date_due": "2026-09-08T16:30:00-04:00",
-        "priority": "High",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-09-07T21:47:48.383218-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-09-07T21:47:48.383228-04:00",
-            "notes": "Original due text: tomorrow at 4:30 pm"
           }
         ]
       },
@@ -6931,6 +6909,36 @@
         ],
         "completed_at": "2026-09-10T21:29:38.169312-04:00",
         "date_completed": "2026-09-10T21:29:38.169312-04:00"
+      },
+      {
+        "id": "c03e13ea",
+        "title": "Get trash bags",
+        "status": "Complete",
+        "date_due": "2026-09-08T16:30:00-04:00",
+        "priority": "High",
+        "task_metadata": "Created via Hermes task manager.\n[2026-09-10 21:29:41] Marked done from user request; awarding merit separately.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-09-07T21:47:48.383218-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-09-07T21:47:48.383228-04:00",
+            "notes": "Original due text: tomorrow at 4:30 pm"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-09-10T21:29:41.553420-04:00",
+            "notes": "Marked done from user request; awarding merit separately."
+          }
+        ],
+        "completed_at": "2026-09-10T21:29:41.553376-04:00",
+        "date_completed": "2026-09-10T21:29:41.553376-04:00"
       }
     ]
   }
