@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-09-10T21:29:44.821268-04:00",
+  "updated_at": "2026-09-10T21:29:48.139284-04:00",
   "tasks": {
     "active": [
       {
@@ -329,28 +329,6 @@
             "by": "hermes",
             "at": "2026-09-07T11:20:36.716898-04:00",
             "notes": "Original due text: today at 9 pm"
-          }
-        ]
-      },
-      {
-        "id": "1143f1c5",
-        "title": "Complete review",
-        "status": "Active",
-        "date_due": "2026-09-11T17:00:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-09-07T18:50:15.166272-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-09-07T18:50:15.166280-04:00",
-            "notes": "Original due text: Friday at 5 pm"
           }
         ]
       },
@@ -6947,6 +6925,36 @@
         ],
         "completed_at": "2026-09-10T21:29:44.821204-04:00",
         "date_completed": "2026-09-10T21:29:44.821204-04:00"
+      },
+      {
+        "id": "1143f1c5",
+        "title": "Complete review",
+        "status": "Complete",
+        "date_due": "2026-09-11T17:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-09-10 21:29:48] Marked done from user request; awarding merit separately.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-09-07T18:50:15.166272-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-09-07T18:50:15.166280-04:00",
+            "notes": "Original due text: Friday at 5 pm"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-09-10T21:29:48.139278-04:00",
+            "notes": "Marked done from user request; awarding merit separately."
+          }
+        ],
+        "completed_at": "2026-09-10T21:29:48.139235-04:00",
+        "date_completed": "2026-09-10T21:29:48.139235-04:00"
       }
     ]
   }
