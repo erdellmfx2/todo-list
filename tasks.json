@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-09-10T21:29:23.315965-04:00",
+  "updated_at": "2026-09-10T21:29:26.090068-04:00",
   "tasks": {
     "active": [
       {
@@ -417,34 +417,6 @@
             "by": "hermes",
             "at": "2026-09-07T14:38:56.508497-04:00",
             "notes": "Original due text: Friday at 3:30 pm"
-          }
-        ]
-      },
-      {
-        "id": "5c11b84d",
-        "title": "Go to Walmart or Costco and pick up extra water, dishwasher detergent, clothes detergent, fabric softener, extra flavor packets, and dishwasher rinse agent",
-        "status": "Active",
-        "date_due": "2026-09-08T16:00:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.\n[2026-09-07 17:00:20] Updated shopping task to also include dishwasher rinse agent per user request.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-09-07T16:57:17.135175-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-09-07T16:57:17.135183-04:00",
-            "notes": "Original due text: tomorrow at 4:00 pm"
-          },
-          {
-            "action": "title_update",
-            "by": "hermes",
-            "at": "2026-09-07T17:00:20.924444-04:00",
-            "notes": "Title changed from 'Go to Walmart or Costco and pick up extra water, dishwasher detergent, clothes detergent, fabric softener, and extra flavor packets' to 'Go to Walmart or Costco and pick up extra water, dishwasher detergent, clothes detergent, fabric softener, extra flavor packets, and dishwasher rinse agent'. Updated shopping task to also include dishwasher rinse agent per user request."
           }
         ]
       },
@@ -6891,6 +6863,42 @@
         ],
         "completed_at": "2026-09-10T21:29:23.315923-04:00",
         "date_completed": "2026-09-10T21:29:23.315923-04:00"
+      },
+      {
+        "id": "5c11b84d",
+        "title": "Go to Walmart or Costco and pick up extra water, dishwasher detergent, clothes detergent, fabric softener, extra flavor packets, and dishwasher rinse agent",
+        "status": "Complete",
+        "date_due": "2026-09-08T16:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-09-07 17:00:20] Updated shopping task to also include dishwasher rinse agent per user request.\n[2026-09-10 21:29:26] Marked done from user request; awarding merit separately.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-09-07T16:57:17.135175-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-09-07T16:57:17.135183-04:00",
+            "notes": "Original due text: tomorrow at 4:00 pm"
+          },
+          {
+            "action": "title_update",
+            "by": "hermes",
+            "at": "2026-09-07T17:00:20.924444-04:00",
+            "notes": "Title changed from 'Go to Walmart or Costco and pick up extra water, dishwasher detergent, clothes detergent, fabric softener, and extra flavor packets' to 'Go to Walmart or Costco and pick up extra water, dishwasher detergent, clothes detergent, fabric softener, extra flavor packets, and dishwasher rinse agent'. Updated shopping task to also include dishwasher rinse agent per user request."
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-09-10T21:29:26.090063-04:00",
+            "notes": "Marked done from user request; awarding merit separately."
+          }
+        ],
+        "completed_at": "2026-09-10T21:29:26.090023-04:00",
+        "date_completed": "2026-09-10T21:29:26.090023-04:00"
       }
     ]
   }
