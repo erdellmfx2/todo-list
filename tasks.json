@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-09-10T21:29:51.435349-04:00",
+  "updated_at": "2026-09-10T21:31:44.254738-04:00",
   "tasks": {
     "active": [
       {
@@ -395,6 +395,28 @@
             "by": "hermes",
             "at": "2026-09-10T16:33:07.069472-04:00",
             "notes": "Original due text: tomorrow at 4pm"
+          }
+        ]
+      },
+      {
+        "id": "479b0543",
+        "title": "Call Dr. Tata to see how he is doing",
+        "status": "Active",
+        "date_due": "none",
+        "priority": "Medium",
+        "task_metadata": "Created via Hermes task manager.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-09-10T21:31:44.254695-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-09-10T21:31:44.254730-04:00",
+            "notes": "Original due text: none"
           }
         ]
       }
