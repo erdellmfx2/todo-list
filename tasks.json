@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-09-10T16:33:07.069475-04:00",
+  "updated_at": "2026-09-10T21:28:45.946617-04:00",
   "tasks": {
     "active": [
       {
@@ -65,28 +65,6 @@
             "by": "hermes",
             "at": "2026-07-22T09:44:20.608992-04:00",
             "notes": "Original due text: today at 5 pm"
-          }
-        ]
-      },
-      {
-        "id": "72b7bfcc",
-        "title": "get Bryan's medicine",
-        "status": "Active",
-        "date_due": "2026-08-19T09:30:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-08-19T08:10:08.542898-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-08-19T08:10:08.542908-04:00",
-            "notes": "Original due text: today at 9:30 am"
           }
         ]
       },
@@ -6779,6 +6757,36 @@
         ],
         "completed_at": "2026-08-31T16:48:05.246034-04:00",
         "date_completed": "2026-08-31T16:48:05.246034-04:00"
+      },
+      {
+        "id": "72b7bfcc",
+        "title": "get Bryan's medicine",
+        "status": "Complete",
+        "date_due": "2026-08-19T09:30:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-09-10 21:28:45] Marked done from user request; awarding merit separately.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-08-19T08:10:08.542898-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-08-19T08:10:08.542908-04:00",
+            "notes": "Original due text: today at 9:30 am"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-09-10T21:28:45.946602-04:00",
+            "notes": "Marked done from user request; awarding merit separately."
+          }
+        ],
+        "completed_at": "2026-09-10T21:28:45.946548-04:00",
+        "date_completed": "2026-09-10T21:28:45.946548-04:00"
       }
     ]
   }
