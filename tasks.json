@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-09-10T21:28:58.144639-04:00",
+  "updated_at": "2026-09-10T21:29:00.854370-04:00",
   "tasks": {
     "active": [
       {
@@ -241,28 +241,6 @@
             "by": "hermes",
             "at": "2026-09-01T11:23:15.287644-04:00",
             "notes": "Original due text: today at 7:30 pm"
-          }
-        ]
-      },
-      {
-        "id": "28700f04",
-        "title": "Send Dr. Ajith action plan for committees",
-        "status": "Active",
-        "date_due": "2026-09-04T16:00:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-09-03T18:15:53.808686-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-09-03T18:15:53.808698-04:00",
-            "notes": "Original due text: tomorrow at 4 pm"
           }
         ]
       },
@@ -6819,6 +6797,36 @@
         ],
         "completed_at": "2026-09-10T21:28:58.144582-04:00",
         "date_completed": "2026-09-10T21:28:58.144582-04:00"
+      },
+      {
+        "id": "28700f04",
+        "title": "Send Dr. Ajith action plan for committees",
+        "status": "Complete",
+        "date_due": "2026-09-04T16:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-09-10 21:29:00] Marked done from user request; awarding merit separately.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-09-03T18:15:53.808686-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-09-03T18:15:53.808698-04:00",
+            "notes": "Original due text: tomorrow at 4 pm"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-09-10T21:29:00.854365-04:00",
+            "notes": "Marked done from user request; awarding merit separately."
+          }
+        ],
+        "completed_at": "2026-09-10T21:29:00.854324-04:00",
+        "date_completed": "2026-09-10T21:29:00.854324-04:00"
       }
     ]
   }
