@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-09-10T21:28:55.091879-04:00",
+  "updated_at": "2026-09-10T21:28:58.144639-04:00",
   "tasks": {
     "active": [
       {
@@ -109,28 +109,6 @@
             "by": "hermes",
             "at": "2026-08-25T18:47:49.837794-04:00",
             "notes": "Original due text: 10am on Oct 25"
-          }
-        ]
-      },
-      {
-        "id": "9467c18a",
-        "title": "Create college algebra paper exams",
-        "status": "Active",
-        "date_due": "2026-09-01T10:00:00-04:00",
-        "priority": "Critical",
-        "task_metadata": "Created via Hermes task manager.",
-        "history": [
-          {
-            "action": "create",
-            "by": "hermes",
-            "at": "2026-08-28T10:05:43.661408-04:00",
-            "notes": "Created via Hermes task workflow"
-          },
-          {
-            "action": "create_request",
-            "by": "hermes",
-            "at": "2026-08-28T10:05:43.661421-04:00",
-            "notes": "Original due text: Tuesday at 10 am"
           }
         ]
       },
@@ -6811,6 +6789,36 @@
         ],
         "completed_at": "2026-09-10T21:28:55.091838-04:00",
         "date_completed": "2026-09-10T21:28:55.091838-04:00"
+      },
+      {
+        "id": "9467c18a",
+        "title": "Create college algebra paper exams",
+        "status": "Complete",
+        "date_due": "2026-09-01T10:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Created via Hermes task manager.\n[2026-09-10 21:28:58] Marked done from user request; awarding merit separately.",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-08-28T10:05:43.661408-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-08-28T10:05:43.661421-04:00",
+            "notes": "Original due text: Tuesday at 10 am"
+          },
+          {
+            "action": "complete",
+            "by": "hermes",
+            "at": "2026-09-10T21:28:58.144634-04:00",
+            "notes": "Marked done from user request; awarding merit separately."
+          }
+        ],
+        "completed_at": "2026-09-10T21:28:58.144582-04:00",
+        "date_completed": "2026-09-10T21:28:58.144582-04:00"
       }
     ]
   }
