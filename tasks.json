@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "description": "Task list with active tasks first and completed tasks below",
-  "updated_at": "2026-09-16T09:49:50.405365-04:00",
+  "updated_at": "2026-09-16T18:11:51.719857-04:00",
   "tasks": {
     "active": [
       {
@@ -527,6 +527,28 @@
             "by": "hermes",
             "at": "2026-09-16T09:49:50.405359-04:00",
             "notes": "Original due text: today at 2:30 pm"
+          }
+        ]
+      },
+      {
+        "id": "14b113eb",
+        "title": "Follow up on FAMU DRS check again",
+        "status": "Active",
+        "date_due": "2026-09-17T12:00:00-04:00",
+        "priority": "Critical",
+        "task_metadata": "Requested as: follow up on FAMU DRS check",
+        "history": [
+          {
+            "action": "create",
+            "by": "hermes",
+            "at": "2026-09-16T18:11:51.719838-04:00",
+            "notes": "Created via Hermes task workflow"
+          },
+          {
+            "action": "create_request",
+            "by": "hermes",
+            "at": "2026-09-16T18:11:51.719851-04:00",
+            "notes": "Original due text: tomorrow at 12 pm"
           }
         ]
       }
